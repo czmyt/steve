@@ -1,9 +1,9 @@
 
 # Steve Schmidt / Czmyt
 
-Computer consultant & software developer of SQL Server business apps.<br />
+Computer consultant & software developer of databased business apps.<br />
 Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
-Home is now Haslett, Michigan, USA.<br />
+Home is now Haslett, Michigan, USA, via Sunnyvale and Los Angeles.<br />
 🇺🇸  💔🇺🇦
 
 ## My Stuff
