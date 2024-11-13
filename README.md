@@ -1,3 +1,4 @@
+
 # Steve Schmidt / Czmyt
 
 Computer consultant & software developer of SQL Server business apps.<br />
