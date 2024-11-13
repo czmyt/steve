@@ -9,8 +9,8 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 
 - [Steve Schmidt (@steve.czmyt.com) on Bluesky](https://bsky.app/profile/steve.czmyt.com) - Where I social media now.
 - [Steve Schmidt (@czmyt) on Twitter / X](https://x.com/czmyt/with_replies) - Don't hang around there no more.
-- [My Security Guide on Substack](https://czmyt.substack.com/p/security-guide-background) - Migrating to Github soon.
-- [My publications on Substack](https://czmyt.substack.com/p/security-guide-background) - Czmyt's Pubs about computers, gear, security, safety, and Michigan.
+- [My Security Guide](https://github.com/czmyt/security-guide/blob/main/README.md) - Now on GitHub.  Was on Substack.
+- [My publications on Substack](https://czmyt.substack.com/p/security-guide-background) - Going away soon as I've migrated to GitHub.
 - [My videos on YouTube](https://www.youtube.com/@sczmyt/videos) - Mostly personal stuff, with the latest ones embedded in Bluesky and Twitter / X posts.
 - [My profile on LinkedIn](https://www.linkedin.com/in/stephen-schmidt-windsor/) - Includes more about my job interests and hobbies.
 
