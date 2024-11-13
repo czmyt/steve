@@ -2,6 +2,9 @@
 # Password Security Guide
 Advice for choosing and using passwords.
 
+By [Steve Schmidt](mailto:steve@czmyt.com).<br />
+Last updated 2022-03-27.
+
 <h3>Passwords are the keys to the kingdom...<br />
 Choose them carefully and guard them wisely!</h3>
 
@@ -109,9 +112,6 @@ If one account gets hacked, your other accounts should remain safe.
 - Don’t send passwords via email.
 - Don’t use password manager programs or services to store your passwords.
 
-<!-- #todo
-See [background info](:/6353d47ee0684bf28f8094d11d5c7b42) on this post.
--->
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+See [background info](README.md) on this post.
 
-Last updated 2022-03-26.
+My [(Un)License](UNLICENSE.md) is incorporated herein.
