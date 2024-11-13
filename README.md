@@ -3,6 +3,7 @@
 
 Computer consultant & software developer of SQL Server business apps.<br />
 Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
+Home is now Haslett, Michigan, USA.<br />
 🇺🇸  💔🇺🇦
 
 ## My Stuff
@@ -18,8 +19,9 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 
 - Email: [steve@czmyt.com](mailto:steve@czmyt.com)
 - Signal: [+1 517 256 1939](https://signal.me/#p/+15172561939)
-- [Pay me using Venmo](https://venmo.com/czmyt)
-- [Pay me using PayPal](https://paypal.me/czmyt)
+- Venmo: [@czmyt](https://venmo.com/czmyt)
+- PayPal: [@czmyt](https://paypal.me/czmyt)
+- Google Wallet & Zelle: steve@czmyt.com
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
 
