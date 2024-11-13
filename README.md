@@ -29,7 +29,7 @@ It’s not meant to cover topics in the Security Program guide that mostly apply
 Here is a list of the security tip blog posts in logical order:
 
 - [Password Security Tips](password-security-tips.md)
-- [Email Security Tips](-security-tips.md)
+- [Email Security Tips](email-security-tips.md)
 - [Computer Security Tips](computer-security-tips.md)
 - [Network Security Tips](network-security-tips.md)
 - [Device Security Tips](device-security-tips.md)
