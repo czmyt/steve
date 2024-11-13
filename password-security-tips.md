@@ -112,6 +112,6 @@ If one account gets hacked, your other accounts should remain safe.
 <!-- #todo
 See [background info](:/6353d47ee0684bf28f8094d11d5c7b42) on this post.
 -->
-My [(Un)License](https://github.com/security-guide/steve/blob/main/UNLICENSE.md) is incorporated herein.
+My [(Un)License](https://github.com/czmyt/security-guide/blob/main/UNLICENSE.md) is incorporated herein.
 
 Last updated 2022-03-26.
