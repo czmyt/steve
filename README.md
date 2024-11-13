@@ -21,6 +21,6 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [Pay me using Venmo](https://venmo.com/czmyt)
 - [Pay me using PayPal](https://paypal.me/czmyt)
 
-My [(Un)License](https://github.com/czmyt/steve/blob/main/UNLICENSE.md) is incorporated herein.
+My [(Un)License](UNLICENSE.md) is incorporated herein.
 
 Last updated 2024-11-13.
