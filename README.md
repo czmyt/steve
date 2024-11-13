@@ -19,3 +19,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - Signal: [+1 517 256 1939](https://signal.me/#p/+15172561939)
 - [Pay me using Venmo](https://venmo.com/czmyt)
 - [Pay me using PayPal](https://paypal.me/czmyt)
+
+My [(Un)License](https://github.com/czmyt/steve/blob/main/UNLICENSE.md) is incorporated herein.
+
+Last updated 2024-11-13.
