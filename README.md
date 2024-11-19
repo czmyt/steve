@@ -5,6 +5,23 @@ Background about most of the security posts in this guide.
 By [Steve Schmidt](mailto:steve@czmyt.com).<br />
 Last updated 2022-03-27.
 
+## All the Tips
+
+Here is a list of the security tip blog posts in logical order:
+
+- [Password Security Tips](password-security-tips.md)
+- [Email Security Tips](email-security-tips.md)
+- [Computer Security Tips](computer-security-tips.md)
+- [Network Security Tips](network-security-tips.md)
+- [Device Security Tips](device-security-tips.md)
+- [Communications Security Tips](communications-security-tips.md)
+- [Document (and File) Security Tips](document-security-tips.md)
+- [Physical Security Tips](physical-security-tips.md)
+- [Travel Security Tips](travel-security-tips.md)
+- [Emergency Situation Tips](emergency-situation-tips.md)
+- [The Zen of Security](the-zen-of-security.md)
+- [(Un)License](UNLICENSE.md)
+
 ## Background
 
 The blog posts that refer to this page were originally part of a security guide I wrote for a small business client.
@@ -23,23 +40,6 @@ With this in mind, here’s a list of things you can do to help improve security
 
 “This is a general guide for all staff members.
 It’s not meant to cover topics in the Security Program guide that mostly apply to technology staff members.
-
-## All the Tips
-
-Here is a list of the security tip blog posts in logical order:
-
-- [Password Security Tips](password-security-tips.md)
-- [Email Security Tips](email-security-tips.md)
-- [Computer Security Tips](computer-security-tips.md)
-- [Network Security Tips](network-security-tips.md)
-- [Device Security Tips](device-security-tips.md)
-- [Communications Security Tips](communications-security-tips.md)
-- [Document (and File) Security Tips](document-security-tips.md)
-- [Physical Security Tips](physical-security-tips.md)
-- [Travel Security Tips](travel-security-tips.md)
-- [Emergency Situation Tips](emergency-situation-tips.md)
-- [The Zen of Security](the-zen-of-security.md)
-- [(Un)License](UNLICENSE.md)
 
 ## Public Domain
 
