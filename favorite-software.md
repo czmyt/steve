@@ -31,6 +31,4 @@ I install and configure these apps on every Windows workstation computer that I 
 - [Duplicate Cleaner](https://www.digitalvolcano.co.uk/dcdownload_versions.html): Find and remove duplicate files.
 - [Bluestacks](https://www.bluestacks.com/): Best Android on Windows experience.
 
-### Other Specialized Favorites
-
 My [(Un)License](UNLICENSE.md) is incorporated herein.
