@@ -54,7 +54,8 @@ All of these are free except for Microsoft Office.
     - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
     - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists as it's integrated into Office.
 
-- ### Apps I don't install on every computer
+### Apps I don't install on every computer
+
     - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
     - [The Best Free Software for 2024](https://www.pcmag.com/picks/best-free-software): List from PC Mag(azine) with some other great apps I use occasionally.
 
