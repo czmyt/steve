@@ -22,7 +22,10 @@ All of these are free except for Microsoft Office.
     - [Tor Browser](https://www.torproject.org/download/): Web browsing as anonymous as it gets.
     - [Google Chrome](https://www.google.com/chrome/index.html): A must-have for websites that misbehave in Firefox. #AiPA
 - #### Editors / Designers
-    - [Joplin](https://joplinapp.org/): Note taking app extroidinaire. #AiPA
+    - [Joplin](https://joplinapp.org/): Note taking app extroidinaire. #AiPA  Favorite plugins:
+        - [Math Mode](https://github.com/CalebJohn/joplin-math-mode): Calculator and measurement converter embedded within the note taking app.  Amazing.
+        - [Templates](https://github.com/joplin/plugin-templates): Create simple templates for creating new notes.
+        - [Freehand Drawing](https://github.com/personalizedrefrigerator/joplin-plugin-freehand-drawing): Create and edit freehand drawings, like in Microsoft OneNote.
     - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
     - [yEd](https://www.yworks.com/products/yed): Powerful diagramming tool. 
     - [paint.net](https://getpaint.net/): Simple, powerful image / photo editing software. #AiPA
@@ -55,11 +58,5 @@ All of these are free except for Microsoft Office.
     - [The Best Free Software for 2024](https://www.pcmag.com/picks/best-free-software): List from PC Mag(azine) with some other great apps I use occasionally.
 
 #AiPA: "Available in PortableApps" indicates those apps that can be installed by themselves or downloaded and used through the PortableApps system.
-
-### #ToDo
-
-- Add key Joplin plugins.
-- Link to security guides.
-- Link to https://ssd.eff.org/
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
