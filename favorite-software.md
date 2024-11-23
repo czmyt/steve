@@ -52,7 +52,7 @@ All of these are free except for Microsoft Office.
     - [Phone Link](https://www.microsoft.com/en-us/windows/sync-across-your-devices): Make phone calls, send & receive texts, access smartphone apps in Windows.
     - [Quick Assist](https://apps.microsoft.com/detail/9p7bp5vnwkx5?hl=en-us&gl=US): Help family, friends, and coworkers with a remote connection to their computer.
     - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
-    - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists as it's integrated into Office.
+    - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists and simple lists as there is a smartphone version.
 
 ### Apps I don't install on every computer
 
