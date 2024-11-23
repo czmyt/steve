@@ -7,7 +7,7 @@ Last updated 2024-11-22.
 
 ### For Every Windows Workstation Computer
 
-I install and configure these apps on every Windows workstation computer that I setup for my personal and small business use.
+I install and configure these apps on every Windows workstation computer that I setup for myself.
 All of these are free except for Microsoft Office.
 
 - #### Collections
@@ -53,7 +53,8 @@ All of these are free except for Microsoft Office.
     - [Quick Assist](https://apps.microsoft.com/detail/9p7bp5vnwkx5?hl=en-us&gl=US): Help family, friends, and coworkers with a remote connection to their computer.
     - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
     - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists as it's integrated into Office.
-- #### Apps I don't install on every computer
+
+- ### Apps I don't install on every computer
     - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
     - [The Best Free Software for 2024](https://www.pcmag.com/picks/best-free-software): List from PC Mag(azine) with some other great apps I use occasionally.
 
