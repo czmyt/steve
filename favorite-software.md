@@ -15,14 +15,14 @@ I install and configure these apps on every Windows workstation computer that I 
 - [Signal Desktop](https://signal.org/download/): The desktop companion to the Signal messaging app.
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): My main Web browser. Use its sync feature to sync bookmarks, passwords, etc. between computers.
 - [Tor Browser](https://www.torproject.org/download/): Web browsing as anonymous as it gets.
-- [Google Chrome](https://www.google.com/chrome/index.html): A must-have websites that misbehave in Firefox.
+- [Google Chrome](https://www.google.com/chrome/index.html): A must-have for websites that misbehave in Firefox.
 - [Maxima](https://maxima.sourceforge.io/) Computer Algebra System: A very sophisticated and capable calculator.
 - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/): Still the best Adobe PDF file viewer.
 - [paint.net](https://getpaint.net/): Simple, powerful image / photo editing software.
 - [yEd](https://www.yworks.com/products/yed): Powerful diagramming tool.
 - [Google Earth Pro](https://www.google.com/earth/about/versions/): Better than the web versions; worth the install.
-- [PeaZip](https://peazip.github.io/): File compression / archiving utility.
+- [PeaZip](https://peazip.github.io/): File compression and archiving utility.
 - [NetTime](https://timesynctool.com/): Small utility to keep your computer clocks highly synchronized.
 - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video.
 - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer.
@@ -47,5 +47,9 @@ I install and configure these apps on every Windows workstation computer that I 
 - Add Quick Assist.
 - Add Snipping Tool.
 - Add Steps Recorder.
+- Add PC Magazine best software list.
+- Incidate which apps available in PortableApps.
+- Link to security guides.
+- Link to https://ssd.eff.org/
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
