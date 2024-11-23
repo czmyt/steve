@@ -11,7 +11,7 @@ I install and configure these apps on every Windows workstation computer that I 
 
 - [PortableApps](https://portableapps.com/): Portable versions of over 500 free apps.
 - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.
-- [Joplin](https://joplinapp.org/): Note taking app.
+- [Joplin](https://joplinapp.org/): Note taking app extroidinaire.
 - [Signal Desktop](https://signal.org/download/): The desktop companion to the Signal messaging app.
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): My main Web browser. Use its sync feature to sync bookmarks, passwords, etc. between computers.
 - [Tor Browser](https://www.torproject.org/download/): Web browsing as anonymous as it gets.
@@ -26,9 +26,24 @@ I install and configure these apps on every Windows workstation computer that I 
 - [NetTime](https://timesynctool.com/): Small utility to keep your computer clocks highly synchronized.
 - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video.
 - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer.
-- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/): Some great small utilities for Windows; something for everyone.
+- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/): Some great utilities for Windows; something for everyone.
 - [Resilio Sync](https://www.resilio.com/sync/): Synchronize file folders between computers without a server.
 - [Duplicate Cleaner](https://www.digitalvolcano.co.uk/dcdownload_versions.html): Find and remove duplicate files.
 - [Bluestacks](https://www.bluestacks.com/): Best Android on Windows experience.
+
+### #ToDo
+
+- Add Orange Data Miner.
+- Add Microsoft To Do.
+- Add Phone Link.
+- Add WinMerge.
+- Add Tree Size Free.
+- Add Quick Assist.
+- Add Snipping Tool.
+- Mention other key apps from PortableApps.
+- Add Steps Recorder.
+- Add Perfect Backup.
+- Add Eraser.net.
+- Add Windows Sandbox?
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
