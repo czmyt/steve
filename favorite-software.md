@@ -56,8 +56,8 @@ All of these are free except for Microsoft Office.
 
 ### Apps I don't install on every computer
 
-    - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
-    - [The Best Free Software for 2024](https://www.pcmag.com/picks/best-free-software): List from PC Mag(azine) with some other great apps I use occasionally.
+- [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
+- [The Best Free Software for 2024](https://www.pcmag.com/picks/best-free-software): List from PC Mag(azine) with some other great apps I use occasionally.
 
 #AiPA: "Available in PortableApps" indicates those apps that can be installed by themselves or downloaded and used through the PortableApps system.
 
