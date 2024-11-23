@@ -34,16 +34,18 @@ I install and configure these apps on every Windows workstation computer that I 
 ### #ToDo
 
 - Add Orange Data Miner.
-- Add Microsoft To Do.
-- Add Phone Link.
+- Mention other key apps from PortableApps.
 - Add WinMerge.
 - Add Tree Size Free.
+- Add Eraser.net.
+- Add Perfect Backup.
+- Add Windows Sandbox?
+- Add key Firefox extensions.
+- Add key Joplin plugins.
+- Add Microsoft To Do.
+- Add Phone Link.
 - Add Quick Assist.
 - Add Snipping Tool.
-- Mention other key apps from PortableApps.
 - Add Steps Recorder.
-- Add Perfect Backup.
-- Add Eraser.net.
-- Add Windows Sandbox?
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
