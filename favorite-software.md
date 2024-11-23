@@ -15,7 +15,10 @@ All of these are free except for Microsoft Office.
     - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  See also the free LibreOffice next.
     - [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office. #AiPA
 - #### Web Browsers
-    - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): My main Web browser. Use its sync feature to sync bookmarks, passwords, etc. between computers. #AiPA
+    - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): My main Web browser. Use its sync feature to sync bookmarks, passwords, etc. between computers. #AiPA  Favorite extensions:
+        - [uBlock Origin](https://ublockorigin.com/): Block most advertisements while browsing the web.
+        - [TWP - Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/): Automatic real-time translation of webpages to your language.
+        - [DownThemAll!](https://www.downthemall.org/): Download all the pictures, videos, links, etc. on a webpage.
     - [Tor Browser](https://www.torproject.org/download/): Web browsing as anonymous as it gets.
     - [Google Chrome](https://www.google.com/chrome/index.html): A must-have for websites that misbehave in Firefox. #AiPA
 - #### Editors / Designers
@@ -55,7 +58,6 @@ All of these are free except for Microsoft Office.
 
 ### #ToDo
 
-- Add key Firefox extensions.
 - Add key Joplin plugins.
 - Link to security guides.
 - Link to https://ssd.eff.org/
