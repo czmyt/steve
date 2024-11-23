@@ -12,7 +12,8 @@ All of these are free except for Microsoft Office.
 
 - #### Collections
     - [PortableApps](https://portableapps.com/): Portable versions of over 500 free apps.
-    - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  See also the free LibreOffice below.
+    - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  See also the free LibreOffice next.
+    - [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office. #AiPA
 - #### Web Browsers
     - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): My main Web browser. Use its sync feature to sync bookmarks, passwords, etc. between computers. #AiPA
     - [Tor Browser](https://www.torproject.org/download/): Web browsing as anonymous as it gets.
@@ -46,8 +47,7 @@ All of these are free except for Microsoft Office.
     - [Quick Assist](https://apps.microsoft.com/detail/9p7bp5vnwkx5?hl=en-us&gl=US): Help family, friends, and coworkers with a remote connection to their computer.
     - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
     - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists as it's integrated into Office.
-- #### Great apps I don't install on every computer
-    - [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office. #AiPA
+- #### Apps I don't install on every computer
     - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
     - [The Best Free Software for 2024](https://www.pcmag.com/picks/best-free-software): List from PC Mag(azine) with some other great apps I use occasionally.
 
