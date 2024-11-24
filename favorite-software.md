@@ -53,6 +53,10 @@ All of these are free except for Microsoft Office.
     - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists and simple lists as there is a smartphone version.
 - #### Programming / Database / Analysis
     - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
+    - [Microsoft SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Sophisticated database management system free for developers.
+    - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16): The interactive tool for using SQL Server.
+    - [PostgreSQL](https://www.postgresql.org/): The most sophisticated free and open source database management system.
+    - [Python](https://www.python.org/): Run little programs written by ChatGPT.  Learn programming.
     - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
