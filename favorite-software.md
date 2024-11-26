@@ -6,7 +6,7 @@ Last updated 2024-11-24.
 
 My personal software favorites.
 I install and configure most of these apps on every Windows workstation computer that I setup for myself.
-All of these are free except for Microsoft Office.
+All of these are free except for Microsoft Office and Teams.
 
 - #### Collections
     - [PortableApps](https://portableapps.com/): Portable versions of over 500 free apps.  #AiPA: "Available in PortableApps" marks those apps below that can be installed by themselves or downloaded and used through the PortableApps system.
@@ -27,6 +27,7 @@ All of these are free except for Microsoft Office.
         - [Freehand Drawing](https://github.com/personalizedrefrigerator/joplin-plugin-freehand-drawing): Create and edit freehand drawings, like in Microsoft OneNote.
     - [yEd](https://www.yworks.com/products/yed): Powerful diagramming tool. 
     - [paint.net](https://getpaint.net/): Simple, powerful image / photo editing software. #AiPA
+    - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in): The everything office team collaboration tool.
 - #### Viewers
     - [Adobe Acrobat Reader](https://get.adobe.com/reader/): Still the best Adobe PDF file viewer.
     - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video. #AiPA
@@ -34,6 +35,7 @@ All of these are free except for Microsoft Office.
     - [PeaZip](https://peazip.github.io/): File compression and archiving utility. #AiPA
 - #### Utilities
     - [Resilio Sync](https://www.resilio.com/sync/): Synchronize file folders between computers without a server.
+    - [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage): Best of the online file storage options but prefer Resilio Sync for personal file syncing.
     - [Perfect Backup](https://www.perfect-backup.com/): Excellent file and folder backup program.
     - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/): Some great utilities for Windows; something for everyone.
     - [Duplicate Cleaner](https://www.digitalvolcano.co.uk/dcdownload_versions.html): Find and remove duplicate files.
@@ -53,10 +55,12 @@ All of these are free except for Microsoft Office.
     - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists and simple lists as there is a smartphone version.
 - #### Programming / Database / Analysis
     - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
+    - [Git](https://git-scm.com/): Distributed software / file version control system.
     - [Microsoft SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Sophisticated database management system free for developers.
     - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16): The interactive tool for using SQL Server.
     - [PostgreSQL](https://www.postgresql.org/): The most sophisticated free and open source database management system.
     - [Python](https://www.python.org/): Run little programs written by ChatGPT.  Learn programming.
     - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
+    - [Cygwin](https://cygwin.com/): Lightweight version of Linux-like open source tools for Windows.  Mostly use Windows System for Linux (WSL) instead now.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
