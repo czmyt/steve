@@ -10,6 +10,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - Signal [+1 517 256 1939](https://signal.me/#p/+15172561939).
 - Home is [steve.czmyt.com](https://steve.czmyt.com).
 - From Haslett, Michigan, USA, via Sunnyvale and Los Angeles.
+- My [Travel Tips](travel-tips.md) on how to prepare for your adventures.
 - My [Favorite Software](favorite-software.md) list includes some gems that I rely on.
 - My [Security Guide](https://github.com/czmyt/security-guide/blob/main/README.md) has some helpful hints.
 - My [YouTube videos](https://www.youtube.com/@sczmyt/videos) are clips that I link to from other sites.

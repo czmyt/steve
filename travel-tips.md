@@ -6,6 +6,8 @@ Last updated 2024-11-27.
 
 Some personal tips to ease your travel prep so you are always ready for adventure.
 
+Some initial thoughts on how I prepare for travel, with more specifics to follow.
+
 - ### Don't pack before you travel.
     - The simplest, most sophisticated, and lowest stress method of travel prep involves always being mostly packed and ready to go!
         Do this if you can afford it.
