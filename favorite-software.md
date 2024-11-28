@@ -53,6 +53,7 @@ All of these are free except for Microsoft Office and Teams.
     - [Quick Assist](https://apps.microsoft.com/detail/9p7bp5vnwkx5?hl=en-us&gl=US): Help family, friends, and coworkers with a remote connection to their computer.
     - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
     - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists and simple lists as there is a smartphone version.
+    - [BitLocker](https://support.microsoft.com/en-us/windows/bitlocker-overview-44c0c61c-989d-4a69-8822-b95cd49b1bbf): Drive and device encryption for Windows.
 - #### Programming / Database / Analysis
     - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
     - [Git](https://git-scm.com/): Distributed software / file version control system.
@@ -61,6 +62,7 @@ All of these are free except for Microsoft Office and Teams.
     - [PostgreSQL](https://www.postgresql.org/): The most sophisticated free and open source database management system.
     - [Python](https://www.python.org/): Run little programs written by ChatGPT.  Learn programming.
     - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
+    - [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install): Linux programs integrated into Windows.
     - [Cygwin](https://cygwin.com/): Lightweight version of Linux-like open source tools for Windows.  Mostly use Windows System for Linux (WSL) instead now.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
