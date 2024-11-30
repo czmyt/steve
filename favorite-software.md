@@ -43,6 +43,7 @@ All of these are free except for Microsoft Office and Teams.
     - [Tree Size Free](https://www.jam-software.com/treesize_free): Find which file folders are using the most storage space. #AiPA
     - [Eraser](https://sourceforge.net/projects/eraser/): Erase files, folders, and free space securely. #AiPA
     - [WinMerge](https://winmerge.org/): Compare file folders to find identical and different files, and review differences between text files. #AiPA
+    - [Avast Free Antivirus](https://www.avast.com/en-us/index#pc): Free antivirus program better than Microsoft Windows Defender.
 - #### Miscellaneous
     - [Signal Desktop](https://signal.org/download/): The desktop companion to the Signal messaging app.
     - [Maxima](https://maxima.sourceforge.io/) Computer Algebra System: A very sophisticated and capable calculator.
