@@ -94,5 +94,7 @@ Some initial thoughts on how I prepare for travel, with more specifics to follow
 - Vehicle prep.
 - Cycle expendable items.
 - Prefer jackets with zippered pockets.
+- Eat when you can.
+- Sleep when you can.
 
 Copyright 2024 Stephen Schmidt.  All rights reserved.
