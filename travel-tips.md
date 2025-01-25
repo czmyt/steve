@@ -96,5 +96,7 @@ Some initial thoughts on how I prepare for travel, with more specifics to follow
 - Prefer jackets with zippered pockets.
 - Eat when you can.
 - Sleep when you can.
+- Emergency outfit.
+- Things to avoid in jackets: heavy, water absorbing.
 
 Copyright 2024 Stephen Schmidt.  All rights reserved.

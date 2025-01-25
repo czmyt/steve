@@ -16,7 +16,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - My [YouTube videos](https://www.youtube.com/@sczmyt/videos) are clips that I link to from other sites.
 - My [LinkedIn profile](https://www.linkedin.com/in/stephen-schmidt-windsor/) about job skills and hobbies.
 - Was [Steve Schmidt (@czmyt) on Twitter / X](https://x.com/czmyt/with_replies) before moving to Bluesky.
-- Payments to [Venmo](https://venmo.com/czmyt), [PayPal](https://paypal.me/czmyt), Google Wallet, and Zelle: Use my email address.
+- Payments to [Venmo](https://venmo.com/czmyt), [PayPal](https://paypal.me/czmyt), and Google Wallet: Use my email address.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
 
