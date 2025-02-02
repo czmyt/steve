@@ -7,7 +7,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 
 - Posts at [Stephen J. Schmidt (@steve.czmyt.com) on Bluesky](https://bsky.app/profile/steve.czmyt.com).
 - Email to [steve@czmyt.com](mailto:steve@czmyt.com).
-- Signal [+1 517 256 1939](https://signal.me/#p/+15172561939).
+- Signal [czmyt.28](https://signal.me/#u/czmyt.28).
 - Home is [steve.czmyt.com](https://steve.czmyt.com).
 - From Haslett, Michigan, USA, via Sunnyvale and Los Angeles.
 - My [Travel Tips](travel-tips.md) on how to prepare for your adventures.
