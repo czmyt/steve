@@ -1,7 +1,7 @@
 
 # Favorite Software
 
-By [Steve Schmidt <steve@czmyt.com>](mailto:steve@czmyt.com).
+By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
 My personal software favorites.
 I install and configure most of these apps on every Windows workstation computer that I setup for myself.

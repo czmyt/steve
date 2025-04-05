@@ -1,7 +1,7 @@
 
 # Travel Tips
 
-By [Steve Schmidt <steve@czmyt.com>](mailto:steve@czmyt.com).
+By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
 Some personal tips to ease your travel prep so you are always ready for adventure.
 
