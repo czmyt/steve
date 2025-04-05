@@ -3,8 +3,7 @@
 
 By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
-Some personal tips to ease your travel prep so you are always ready for adventure.
-
+Some personal tips to ease your travel prep so you are always ready for adventure.<br />
 Some initial thoughts on how I prepare for travel, with more specifics to follow.
 
 - ### Don't pack before you travel.

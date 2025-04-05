@@ -3,9 +3,8 @@
 
 By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
-My personal software favorites.
-I install and configure most of these apps on every Windows workstation computer that I setup for myself.
-All of these are free except for Microsoft Office and Teams.
+My personal software favorites.  All of these are free except for Microsoft Office and Teams.<br />
+I install and configure most of these apps on every Windows workstation computer I setup for myself.
 
 - #### Collections
     - [PortableApps](https://portableapps.com/): Portable versions of over 500 free apps.  #AiPA: "Available in PortableApps" marks those apps below that can be installed by themselves or downloaded and used through the PortableApps system.
