@@ -1,8 +1,7 @@
 
 # Travel Tips
 
-By [Steve Schmidt](mailto:steve@czmyt.com).<br />
-Last updated 2024-11-27.
+By [Steve Schmidt <steve@czmyt.com>](mailto:steve@czmyt.com).
 
 Some personal tips to ease your travel prep so you are always ready for adventure.
 
@@ -99,4 +98,4 @@ Some initial thoughts on how I prepare for travel, with more specifics to follow
 - Emergency outfit.
 - Things to avoid in jackets: heavy, water absorbing.
 
-Copyright 2024 Stephen Schmidt.  All rights reserved.
+Copyright 2024-2025 Stephen Schmidt.  All rights reserved.
