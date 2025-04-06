@@ -43,7 +43,7 @@ I install and configure most of these apps on every Windows workstation computer
     - [Eraser](https://sourceforge.net/projects/eraser/): Erase files, folders, and free space securely. #AiPA
     - [WinMerge](https://winmerge.org/): Compare file folders to find identical and different files, and review differences between text files. #AiPA
     - [Avast Free Antivirus](https://www.avast.com/en-us/index#pc): Free antivirus program better than Microsoft Windows Defender.
-    - [JDownloader](https://jdownloader.org/): Powerful, robust file download management too.  See also DownThemAll! above.
+    - [JDownloader](https://jdownloader.org/): Powerful, robust file download management tool.  See also DownThemAll! above.
 - #### Miscellaneous
     - [Signal Desktop](https://signal.org/download/): The desktop companion to the Signal messaging app.
     - [Maxima](https://maxima.sourceforge.io/) Computer Algebra System: A very sophisticated and capable calculator.
@@ -57,7 +57,7 @@ I install and configure most of these apps on every Windows workstation computer
     - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
     - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists and simple lists as there is a smartphone version.
     - [BitLocker](https://support.microsoft.com/en-us/windows/bitlocker-overview-44c0c61c-989d-4a69-8822-b95cd49b1bbf): Drive and device encryption for Windows.
-    - [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use its winget command to update many third-party apps at once.
+    - [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use its `winget` command to update many third-party apps at once.
 - #### Programming / Database / Analysis
     - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
     - [Vim](https://www.vim.org/): Windows version of the UNIX vi text editor includes a graphical interface.
@@ -70,7 +70,7 @@ I install and configure most of these apps on every Windows workstation computer
     - [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install): Linux programs integrated into Windows.
     - [Cygwin](https://cygwin.com/): Lightweight version of Linux-like open source tools for Windows.  Mostly use Windows System for Linux (WSL) instead now.
 - #### Interesting / Amazing
-    - [Visual Pinball](https://www.vpforums.org/): Amazing pinball machine editor and simulator / player.
+    - [Visual Pinball](https://www.vpforums.org/): Amazing pinball machine designer / editor and simulator / player.
     - [HP-1973](https://sarahkmarr.com/retrohp1973.html): Amazing HP-45 calculator emulator that shows its internal workings.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
