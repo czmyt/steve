@@ -2,8 +2,7 @@
 # Email Security Tips
 Advice for using email.
 
-By [Steve Schmidt](mailto:steve@czmyt.com).<br />
-Last updated 2022-03-27.
+By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
 <h3>Email is the killer app for business.<br />
 Don’t let it kill your computer.</h3>

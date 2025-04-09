@@ -2,8 +2,7 @@
 # Physical Security Tips
 Advice for physical security in an office environment.
 
-By [Steve Schmidt](mailto:steve@czmyt.com).<br />
-Last updated 2022-03-28.
+By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
 ### Keep yourself and the office safe!
 

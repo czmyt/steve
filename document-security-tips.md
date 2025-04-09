@@ -2,8 +2,7 @@
 # Document (and File) Security Tips
 Advice for securing paper documents and computer files.
 
-By [Steve Schmidt](mailto:steve@czmyt.com).<br />
-Last updated 2022-03-28.
+By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
 ### Don’t let that paper trail lead to problems.
 

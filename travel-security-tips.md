@@ -2,8 +2,7 @@
 # Travel Security Tips
 Advice for staying secure while traveling.
 
-By [Steve Schmidt](mailto:steve@czmyt.com).<br />
-Last updated 2022-03-28.
+By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
 ### Have a safe trip!
 
