@@ -17,6 +17,6 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - My [**Travel Tips**](travel-tips.md) on how to prepare for your adventures.
 - My [YouTube videos](https://www.youtube.com/@sczmyt/videos) are clips that I link to from other sites.
 - My [LinkedIn profile](https://www.linkedin.com/in/stephen-schmidt-windsor/) about job skills and hobbies.
-- Am *not* the campaign runner / political consultant.
+- Am *not* the [campaign runner / political consultant](https://steveschmidt.substack.com/).
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
