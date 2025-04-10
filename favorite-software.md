@@ -31,8 +31,8 @@ I install and configure most of these apps on every Windows workstation computer
     - [Adobe Acrobat Reader](https://get.adobe.com/reader/): Still the best Adobe PDF file viewer.
     - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video. #AiPA
     - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer. #AiPA
-    - [PeaZip](https://peazip.github.io/): File compression and archiving utility. #AiPA
 - #### Utilities
+    - [PeaZip](https://peazip.github.io/): File compression and archiving utility. #AiPA
     - [Resilio Sync](https://www.resilio.com/sync/): Synchronize file folders between computers without a server.
     - [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage): Best of the online file storage options but prefer Resilio Sync for personal file syncing.
     - [Perfect Backup](https://www.perfect-backup.com/): Excellent file and folder backup program.
@@ -63,7 +63,7 @@ I install and configure most of these apps on every Windows workstation computer
     - [Vim](https://www.vim.org/): Windows version of the UNIX vi text editor includes a graphical interface.
     - [Git](https://git-scm.com/): Distributed software / file version control system.
     - [Microsoft SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Sophisticated database management system free for developers.
-    - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16): The interactive tool for using SQL Server.
+        - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16): The interactive tool for using SQL Server.
     - [PostgreSQL](https://www.postgresql.org/): The most sophisticated free and open source database management system.
     - [Python](https://www.python.org/): Run little programs written by ChatGPT.  Learn programming.
     - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
