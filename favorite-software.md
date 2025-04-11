@@ -37,11 +37,11 @@ I install and configure most of these apps on every Windows workstation computer
     - [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage): Best of the online file storage options but prefer Resilio Sync for personal file syncing.
     - [Perfect Backup](https://www.perfect-backup.com/): Excellent file and folder backup program.
     - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/): Some great utilities for Windows; something for everyone.
-    - [Duplicate Cleaner](https://www.digitalvolcano.co.uk/dcdownload_versions.html): Find and remove duplicate files.
     - [NetTime](https://timesynctool.com/): Small utility to keep your computer clocks highly synchronized.
     - [Tree Size Free](https://www.jam-software.com/treesize_free): Find which file folders are using the most storage space. #AiPA
     - [Eraser](https://sourceforge.net/projects/eraser/): Erase files, folders, and free space securely. #AiPA
-    - [WinMerge](https://winmerge.org/): Compare file folders to find identical and different files, and review differences between text files. #AiPA
+    - [WinMerge](https://winmerge.org/): Compare file folders to find identical and different files, and review differences between files. #AiPA
+    - [Duplicate Cleaner](https://www.digitalvolcano.co.uk/dcdownload_versions.html): Find and remove duplicate files.
     - [Avast Free Antivirus](https://www.avast.com/en-us/index#pc): Free antivirus program better than Microsoft Windows Defender.
     - [JDownloader](https://jdownloader.org/): Powerful, robust file download management tool.  See also DownThemAll! above.
 - #### Miscellaneous
