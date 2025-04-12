@@ -33,21 +33,27 @@ I install and configure many of these apps on every Windows workstation computer
     - [Adobe Acrobat Reader](https://get.adobe.com/reader/): Still the best Adobe PDF file viewer.
     - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video. #AiPA
     - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer. #AiPA
+    - [CapCut](https://www.capcut.com/) Video Editor: Video editor free from [TikTok](https://www.tiktok.com/) parent company ByteDance.
+    - [Hallmark Card Studio Deluxe](https://www.hallmarksoftware.com/): Greeting card, envelope, and label designer.
 - #### Utilities
     - [PeaZip](https://peazip.github.io/): File compression and archiving utility. #AiPA
     - [Resilio Sync](https://www.resilio.com/sync/): Synchronize file folders between computers without a server.
     - [Perfect Backup](https://www.perfect-backup.com/): Excellent file and folder backup program.
     - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/): Some great utilities for Windows; something for everyone.
+    - [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/): Advanced system utilities and technical info package.
     - [NetTime](https://timesynctool.com/): Small utility to keep your computer clocks highly synchronized.
     - [Tree Size Free](https://www.jam-software.com/treesize_free): Find which file folders are using the most storage space. #AiPA
     - [Eraser](https://sourceforge.net/projects/eraser/): Erase files, folders, and free space securely. #AiPA
     - [Duplicate Cleaner](https://www.digitalvolcano.co.uk/dcdownload_versions.html): Find and remove duplicate files.
     - [Avast Free Antivirus](https://www.avast.com/en-us/index#pc): Free antivirus program better than Microsoft Windows Defender.
     - [JDownloader](https://jdownloader.org/): Powerful, robust file download management tool.  See also DownThemAll! above.
+    - [yt-dlp](https://github.com/yt-dlp/yt-dlp): Powerful audio and video file downloader.
+    - [ffmpeg](https://ffmpeg.org/): Convert, stream, and record audio and video.
     - [Google Earth Pro](https://www.google.com/earth/about/versions/): Better than the web versions; worth the install.
     - [Bluestacks](https://www.bluestacks.com/): Best Android on Windows experience.
     - [DOSBOX](https://www.dosbox.com/): Emulate an old DOS-based computer with excellent compatibility.
     - [DeX for PC](https://www.samsung.com/ph/support/mobile-devices/how-to-use-samsung-dex-for-pc/): Run Samsung Android phone apps in a window on your PC.  See also Phone Link below.
+    - [Java Runtime](https://www.java.com/en/download/windows_manual.jsp): For running programs written in Java that do not include the runtime. #AiPA
 - #### Built-in and Windows Store Apps
     - [Phone Link](https://www.microsoft.com/en-us/windows/sync-across-your-devices): Make phone calls, send & receive texts, access smartphone apps in Windows.  See also DeX for PC above.
     - [Quick Assist](https://apps.microsoft.com/detail/9p7bp5vnwkx5?hl=en-us&gl=US): Help family, friends, and coworkers with a remote connection to their computer.
@@ -55,6 +61,7 @@ I install and configure many of these apps on every Windows workstation computer
     - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists and simple lists as there is a smartphone version.
     - [BitLocker](https://support.microsoft.com/en-us/windows/bitlocker-overview-44c0c61c-989d-4a69-8822-b95cd49b1bbf): Drive and device encryption for Windows.
     - [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use its `winget` command to update many third-party apps at once.
+    - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/): A lightweight, isolated desktop environment for safely running software.
 - #### Programming / Database / Analysis
     - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
     - [Vim](https://www.vim.org/): Windows version of the UNIX vi text editor includes a graphical interface.
@@ -63,13 +70,18 @@ I install and configure many of these apps on every Windows workstation computer
     - [Microsoft SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Sophisticated database management system free for developers.
         - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16): The interactive tool for using SQL Server.
     - [PostgreSQL](https://www.postgresql.org/): The most sophisticated free and open source database management system.
+    - [SQLite](https://sqlite.org/index.html): Small, fast, full-featured SQL database.  Best 100k+ lines of program code ever.
+        - [DB Browser for SQLite](https://sqlitebrowser.org/): Interactive tool for using SQLite databases. #AiPA
+    - [DuckDB](https://duckdb.org/): Lightweight SQL database similar to SQLite but can be embedded in client-side webpages.
     - [Python](https://www.python.org/): Run little programs written by ChatGPT.  Learn programming.
     - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
     - [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install): Linux programs integrated into Windows.
     - [Cygwin](https://cygwin.com/): Lightweight version of Linux-like open source tools for Windows.  Mostly use Windows System for Linux (WSL) instead now.
 - #### Interesting / Amazing
     - [HP-1973](https://sarahkmarr.com/retrohp1973.html): Amazing HP-45 calculator emulator that shows its internal workings.
-- ### Recreation / Games
+- #### Specialized Tools
+
+- #### Recreation / Games
     - [Visual Pinball](https://www.vpforums.org/): Amazing pinball machine simulator / player and designer / editor.
     - [ScummVM](https://www.scummvm.org/): Run classic graphical adventure and role-playing games.
     - [ZZT](https://museumofzzt.com/): Text-based dungeon exploration game player and designer.
