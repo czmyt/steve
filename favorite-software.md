@@ -30,6 +30,8 @@ I install and configure many of these apps on every Windows workstation computer
     - [GIMP](https://www.gimp.org/): Sophisticated image / photo editing software but with a learning curve. #AiPA
     - [yEd](https://www.yworks.com/products/yed): Powerful diagramming tool. 
     - [Maxima](https://maxima.sourceforge.io/) Computer Algebra System: A very sophisticated and capable calculator.
+    - [HP Prime Virtual Calculator Emulator](https://hpcalcs.com/download/): Windows version of the HP Prime calculator.
+        - [HP Prime Apps](https://www.hpcalc.org/): Apps and programs for the HP Prime calculator.
     - [Adobe Acrobat Reader](https://get.adobe.com/reader/): Still the best Adobe PDF file viewer.
     - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video. #AiPA
     - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer. #AiPA
@@ -72,19 +74,25 @@ I install and configure many of these apps on every Windows workstation computer
     - [PostgreSQL](https://www.postgresql.org/): The most sophisticated free and open source database management system.
     - [SQLite](https://sqlite.org/index.html): Small, fast, full-featured SQL database.  Best 100k+ lines of program code ever.
         - [DB Browser for SQLite](https://sqlitebrowser.org/): Interactive tool for using SQLite databases. #AiPA
+        - [SQL.js](https://sql.js.org/#/): SQLite compiled to JavaScript to run inside Web browsers.
     - [DuckDB](https://duckdb.org/): Lightweight SQL database similar to SQLite but can be embedded in client-side webpages.
-    - [Python](https://www.python.org/): Run little programs written by ChatGPT.  Learn programming.
+    - [Python](https://www.python.org/): Run little programs written by Chat GPT.  Learn programming.
     - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
     - [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install): Linux programs integrated into Windows.
     - [Cygwin](https://cygwin.com/): Lightweight version of Linux-like open source tools for Windows.  Mostly use Windows System for Linux (WSL) instead now.
-- #### Interesting / Amazing
-    - [HP-1973](https://sarahkmarr.com/retrohp1973.html): Amazing HP-45 calculator emulator that shows its internal workings.
+    - [Math.js](https://mathjs.org/): Amazing library of math functions written in JavaScript.
 - #### Specialized Tools
-
+    - [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/): For when memory cards cannot be formatted by Windows due to corrupt info.
+    - [SSL Manager](https://www.ssl.com/ssl-manager/): Superior tool for managing and understanding SSL security certificates.
+    - [Don't Sleep](https://www.softwareok.com/?seite=Microsoft/DontSleep): Prevent computer from sleeping due to administrative policies.
+        - [Unique Utilities](https://www.softwareok.com/): Other useful utilities from Nenad Hrg.
+    - [HP-1973](https://sarahkmarr.com/retrohp1973.html): Amazing HP-45 calculator emulator that shows its internal workings.
 - #### Recreation / Games
     - [Visual Pinball](https://www.vpforums.org/): Amazing pinball machine simulator / player and designer / editor.
     - [ScummVM](https://www.scummvm.org/): Run classic graphical adventure and role-playing games.
     - [ZZT](https://museumofzzt.com/): Text-based dungeon exploration game player and designer.
+    - [PPSSPP](https://www.ppsspp.org/): Sony PlayStation Portable (PSP) game console emulator.
+    - [PCSX2](https://pcsx2.net/): Sony PlayStation 2 (PS2) game console emulator.
     - [PySol Fan Club Edition](https://pysolfc.sourceforge.io/): Over 1,200 solitaire card games and Mahjongg games.
     - [DD Poker](https://www.ddpoker.com/): The original and best offline-only Texas hold 'em poker game.
     - [GNU Backgammon](https://www.gnu.org/software/gnubg/): Definitive backgammon game and analysis tool.
