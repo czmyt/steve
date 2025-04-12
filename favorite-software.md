@@ -68,7 +68,16 @@ I install and configure most of these apps on every Windows workstation computer
     - [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install): Linux programs integrated into Windows.
     - [Cygwin](https://cygwin.com/): Lightweight version of Linux-like open source tools for Windows.  Mostly use Windows System for Linux (WSL) instead now.
 - #### Interesting / Amazing
-    - [Visual Pinball](https://www.vpforums.org/): Amazing pinball machine designer / editor and simulator / player.
     - [HP-1973](https://sarahkmarr.com/retrohp1973.html): Amazing HP-45 calculator emulator that shows its internal workings.
+- ### Recreation / Games
+    - [Visual Pinball](https://www.vpforums.org/): Amazing pinball machine designer / editor and simulator / player.
+    - [PySol Fan Club Edition](https://pysolfc.sourceforge.io/): Over 1,200 solitaire card games and Mahjongg games.
+    - [DD Poker](https://www.ddpoker.com/): The original and best offline-only Texas hold 'em poker game.
+    - [GNU Backgammon](https://www.gnu.org/software/gnubg/): Definitive backgammon game and analysis tool.
+    - [PyChess](https://pychess.github.io/): Play chess against built-in engine or with people over the Internet.
+    - [Scrabble3D](https://sourceforge.net/projects/scrabble/): Free version of the definitive word game.
+    - [Minecraft](https://www.minecraft.net/en-us): Most popular game of all time for a reason.
+    - [ScummVM](https://www.scummvm.org/): Run classic graphical adventure and role-playing games.
+    - [Domination](https://sourceforge.net/projects/domination/): Risk-like turn based strategy game.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
