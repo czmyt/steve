@@ -28,10 +28,12 @@ I install and configure many of these apps on every Windows workstation computer
     - [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage): Best of the online file storage options but prefer Resilio Sync for personal file syncing.
     - [paint.net](https://getpaint.net/): Simple, powerful image / photo editing software. #AiPA
     - [GIMP](https://www.gimp.org/): Sophisticated image / photo editing software but with a learning curve. #AiPA
+    - [Scribus](https://www.scribus.net/): Desktop publishing app.  Important now that Microsoft Publisher going away. #AiPA
     - [yEd](https://www.yworks.com/products/yed): Powerful diagramming tool. 
     - [Maxima](https://maxima.sourceforge.io/) Computer Algebra System: A very sophisticated and capable calculator.
     - [HP Prime Virtual Calculator Emulator](https://hpcalcs.com/download/): Windows version of the HP Prime calculator.
         - [HP Prime Apps](https://www.hpcalc.org/): Apps and programs for the HP Prime calculator.
+    - [Firebird Emu](https://github.com/nspire-emus/firebird/blob/master/README.md): TI-Nspire calculator emulator.
     - [Adobe Acrobat Reader](https://get.adobe.com/reader/): Still the best Adobe PDF file viewer.
     - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video. #AiPA
     - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer. #AiPA
@@ -93,6 +95,8 @@ I install and configure many of these apps on every Windows workstation computer
     - [ZZT](https://museumofzzt.com/): Text-based dungeon exploration game player and designer.
     - [PPSSPP](https://www.ppsspp.org/): Sony PlayStation Portable (PSP) game console emulator.
     - [PCSX2](https://pcsx2.net/): Sony PlayStation 2 (PS2) game console emulator.
+    - [RetroArch](https://www.retroarch.com/): Fancy front-end for game console emulators, game engines, and media players.
+        - [Recalbox](https://www.recalbox.com/): Much preferred over RetroArch, but will not run under / inside Windows.
     - [PySol Fan Club Edition](https://pysolfc.sourceforge.io/): Over 1,200 solitaire card games and Mahjongg games.
     - [DD Poker](https://www.ddpoker.com/): The original and best offline-only Texas hold 'em poker game.
     - [GNU Backgammon](https://www.gnu.org/software/gnubg/): Definitive backgammon game and analysis tool.
