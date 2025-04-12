@@ -37,7 +37,7 @@ I install and configure many of these apps on every Windows workstation computer
     - [Adobe Acrobat Reader](https://get.adobe.com/reader/): Still the best Adobe PDF file viewer.
     - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video. #AiPA
     - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer. #AiPA
-    - [CapCut](https://www.capcut.com/) Video Editor: Video editor free from [TikTok](https://www.tiktok.com/) parent company ByteDance.
+    - [CapCut](https://www.capcut.com/): Video editor free from [TikTok](https://www.tiktok.com/) parent company ByteDance.
     - [Hallmark Card Studio Deluxe](https://www.hallmarksoftware.com/): Greeting card, envelope, and label designer.
 - #### Utilities
     - [PeaZip](https://peazip.github.io/): File compression and archiving utility. #AiPA
@@ -50,6 +50,7 @@ I install and configure many of these apps on every Windows workstation computer
     - [Eraser](https://sourceforge.net/projects/eraser/): Erase files, folders, and free space securely. #AiPA
     - [Duplicate Cleaner](https://www.digitalvolcano.co.uk/dcdownload_versions.html): Find and remove duplicate files.
     - [Avast Free Antivirus](https://www.avast.com/en-us/index#pc): Free antivirus program better than Microsoft Windows Defender.
+    - [KeePass 2](https://www.recalbox.com/): Password manager.  Not a huge fan, but if you need one, this is the one.  Use version 2.
     - [JDownloader](https://jdownloader.org/): Powerful, robust file download management tool.  See also DownThemAll! above.
     - [yt-dlp](https://github.com/yt-dlp/yt-dlp): Powerful audio and video file downloader.
     - [ffmpeg](https://ffmpeg.org/): Convert, stream, and record audio and video.
