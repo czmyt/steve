@@ -16,37 +16,34 @@ I install and configure most of these apps on every Windows workstation computer
         - [DownThemAll!](https://www.downthemall.org/): Download all the pictures, videos, links, etc. on a webpage.  See also JDownloader below.
     - [Tor Browser](https://www.torproject.org/download/): Web browsing as anonymous as it gets.
     - [Google Chrome](https://www.google.com/chrome/index.html): A must-have for websites that misbehave in Firefox. #AiPA
-- #### Office / Editors / Designers
+- #### Office / Editors / Designers / Viewers
     - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  See also the free LibreOffice next.
     - [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office. #AiPA
     - [Joplin](https://joplinapp.org/): Note taking app extroidinaire. #AiPA  Favorite plugins:
         - [Math Mode](https://github.com/CalebJohn/joplin-math-mode): Calculator and measurement converter embedded within the note taking app.  Amazing.
         - [Templates](https://github.com/joplin/plugin-templates): Create simple templates for creating new notes.
         - [Freehand Drawing](https://github.com/personalizedrefrigerator/joplin-plugin-freehand-drawing): Create and edit freehand drawings, like in Microsoft OneNote.
-    - [yEd](https://www.yworks.com/products/yed): Powerful diagramming tool. 
+    - [Signal Desktop](https://signal.org/download/): The desktop companion to the Signal messaging app.
+    - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in): The everything office team collaboration tool.
+    - [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage): Best of the online file storage options but prefer Resilio Sync for personal file syncing.
     - [paint.net](https://getpaint.net/): Simple, powerful image / photo editing software. #AiPA
     - [GIMP](https://www.gimp.org/): Sophisticated image / photo editing software but with a learning curve. #AiPA
-    - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in): The everything office team collaboration tool.
-- #### Viewers
+    - [yEd](https://www.yworks.com/products/yed): Powerful diagramming tool. 
+    - [Maxima](https://maxima.sourceforge.io/) Computer Algebra System: A very sophisticated and capable calculator.
     - [Adobe Acrobat Reader](https://get.adobe.com/reader/): Still the best Adobe PDF file viewer.
     - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video. #AiPA
     - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer. #AiPA
 - #### Utilities
     - [PeaZip](https://peazip.github.io/): File compression and archiving utility. #AiPA
     - [Resilio Sync](https://www.resilio.com/sync/): Synchronize file folders between computers without a server.
-    - [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage): Best of the online file storage options but prefer Resilio Sync for personal file syncing.
     - [Perfect Backup](https://www.perfect-backup.com/): Excellent file and folder backup program.
     - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/): Some great utilities for Windows; something for everyone.
     - [NetTime](https://timesynctool.com/): Small utility to keep your computer clocks highly synchronized.
     - [Tree Size Free](https://www.jam-software.com/treesize_free): Find which file folders are using the most storage space. #AiPA
     - [Eraser](https://sourceforge.net/projects/eraser/): Erase files, folders, and free space securely. #AiPA
-    - [WinMerge](https://winmerge.org/): Compare file folders to find identical and different files, and review differences between files. #AiPA
     - [Duplicate Cleaner](https://www.digitalvolcano.co.uk/dcdownload_versions.html): Find and remove duplicate files.
     - [Avast Free Antivirus](https://www.avast.com/en-us/index#pc): Free antivirus program better than Microsoft Windows Defender.
     - [JDownloader](https://jdownloader.org/): Powerful, robust file download management tool.  See also DownThemAll! above.
-- #### Miscellaneous
-    - [Signal Desktop](https://signal.org/download/): The desktop companion to the Signal messaging app.
-    - [Maxima](https://maxima.sourceforge.io/) Computer Algebra System: A very sophisticated and capable calculator.
     - [Google Earth Pro](https://www.google.com/earth/about/versions/): Better than the web versions; worth the install.
     - [Bluestacks](https://www.bluestacks.com/): Best Android on Windows experience.
     - [DOSBOX](https://www.dosbox.com/): Emulate an old DOS-based computer with excellent compatibility.
@@ -61,6 +58,7 @@ I install and configure most of these apps on every Windows workstation computer
 - #### Programming / Database / Analysis
     - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
     - [Vim](https://www.vim.org/): Windows version of the UNIX vi text editor includes a graphical interface.
+    - [WinMerge](https://winmerge.org/): Compare file folders to find identical and different files, and review differences between files. #AiPA
     - [Git](https://git-scm.com/): Distributed software / file version control system.
     - [Microsoft SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Sophisticated database management system free for developers.
         - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16): The interactive tool for using SQL Server.
