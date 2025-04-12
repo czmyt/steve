@@ -4,7 +4,7 @@
 By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
 My personal software favorites.  All of these are free except for Microsoft Office and Teams.<br />
-I install and configure most of these apps on every Windows workstation computer I setup for myself.
+I install and configure many of these apps on every Windows workstation computer I setup for myself.
 
 - #### Collections
     - [PortableApps](https://portableapps.com/): Portable versions of over 500 free apps.  #AiPA: "Available in PortableApps" marks those apps below that can be installed by themselves or downloaded and used through the PortableApps system.
@@ -70,14 +70,16 @@ I install and configure most of these apps on every Windows workstation computer
 - #### Interesting / Amazing
     - [HP-1973](https://sarahkmarr.com/retrohp1973.html): Amazing HP-45 calculator emulator that shows its internal workings.
 - ### Recreation / Games
-    - [Visual Pinball](https://www.vpforums.org/): Amazing pinball machine designer / editor and simulator / player.
+    - [Visual Pinball](https://www.vpforums.org/): Amazing pinball machine simulator / player and designer / editor.
+    - [ScummVM](https://www.scummvm.org/): Run classic graphical adventure and role-playing games.
+    - [ZZT](https://museumofzzt.com/): Text-based dungeon exploration game player and designer.
     - [PySol Fan Club Edition](https://pysolfc.sourceforge.io/): Over 1,200 solitaire card games and Mahjongg games.
     - [DD Poker](https://www.ddpoker.com/): The original and best offline-only Texas hold 'em poker game.
     - [GNU Backgammon](https://www.gnu.org/software/gnubg/): Definitive backgammon game and analysis tool.
-    - [PyChess](https://pychess.github.io/): Play chess against built-in engine or with people over the Internet.
+    - [CheckerBoard](https://www.fierz.ch/checkerboard.php): Definitive checkers game program.
+    - [PyChess](https://pychess.github.io/): Play chess against built-in engine or people over the Internet.
     - [Scrabble3D](https://sourceforge.net/projects/scrabble/): Free version of the definitive word game.
+    - [Domination](https://sourceforge.net/projects/domination/): Risk-like turn-based strategy game.
     - [Minecraft](https://www.minecraft.net/en-us): Most popular game of all time for a reason.
-    - [ScummVM](https://www.scummvm.org/): Run classic graphical adventure and role-playing games.
-    - [Domination](https://sourceforge.net/projects/domination/): Risk-like turn based strategy game.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
