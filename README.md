@@ -15,8 +15,8 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - My [**Favorite Software**](favorite-software.md) list includes some gems that I rely on.
 - My [**Security Guide**](https://github.com/czmyt/security-guide/blob/main/README.md) has some helpful hints.
 - My [**Travel Tips**](travel-tips.md) on how to prepare for your adventures.
-- My [YouTube videos](https://www.youtube.com/@sczmyt/videos) are clips that I link to from other sites.
-- My [LinkedIn profile](https://www.linkedin.com/in/stephen-schmidt-windsor/) about job skills and hobbies.
+- My [**YouTube videos**](https://www.youtube.com/@sczmyt/videos) that I link to from other sites.
+- My [**LinkedIn profile**](https://www.linkedin.com/in/stephen-schmidt-windsor/) about job skills and hobbies.
 - *Not* the [campaign runner / political consultant](https://steveschmidt.substack.com/).
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
