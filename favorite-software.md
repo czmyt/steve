@@ -6,17 +6,17 @@ By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 My personal software favorites.  All of these are free except for Microsoft Office and Teams.<br />
 I install and configure many of these apps on every Windows workstation computer I setup for myself.
 
-- ### Collections
+- ## Collections
     - [PortableApps](https://portableapps.com/): Portable versions of over 500 free apps.  #AiPA: "Available in PortableApps" marks those apps below that can be installed by themselves or downloaded and used through the PortableApps system.
     - [The Best Free Software for 2024](https://www.pcmag.com/picks/best-free-software): List from PC Mag(azine) with some other great apps I use occasionally.
-- ### Web Browsers
+- ## Web Browsers
     - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): My main Web browser.  Use its sync feature to sync bookmarks, passwords, etc. between computers. #AiPA  Favorite extensions:
         - [uBlock Origin](https://ublockorigin.com/): Block most advertisements while browsing the web.
         - [TWP - Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/): Automatic real-time translation of webpages to your language.
         - [DownThemAll!](https://www.downthemall.org/): Download all the pictures, videos, links, etc. on a webpage.  See also JDownloader below.
     - [Tor Browser](https://www.torproject.org/download/): Web browsing as anonymous as it gets.
     - [Google Chrome](https://www.google.com/chrome/index.html): A must-have for websites that misbehave in Firefox. #AiPA
-- ### Office / Editors / Designers / Viewers
+- ## Office / Editors / Designers / Viewers
     - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  See also the free LibreOffice next.
     - [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office. #AiPA
     - [Joplin](https://joplinapp.org/): Note taking app extroidinaire. #AiPA  Favorite plugins:
@@ -39,7 +39,7 @@ I install and configure many of these apps on every Windows workstation computer
     - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer. #AiPA
     - [CapCut](https://www.capcut.com/): Video editor free from [TikTok](https://www.tiktok.com/) parent company ByteDance.
     - [Hallmark Card Studio Deluxe](https://www.hallmarksoftware.com/): Greeting card, envelope, and label designer.
-- ### Utilities
+- ## Utilities
     - [PeaZip](https://peazip.github.io/): File compression and archiving utility. #AiPA
     - [Resilio Sync](https://www.resilio.com/sync/): Synchronize file folders between computers without a server.
     - [Perfect Backup](https://www.perfect-backup.com/): Excellent file and folder backup program.
@@ -59,7 +59,7 @@ I install and configure many of these apps on every Windows workstation computer
     - [DOSBOX](https://www.dosbox.com/): Emulate an old DOS-based computer with excellent compatibility.
     - [DeX for PC](https://www.samsung.com/ph/support/mobile-devices/how-to-use-samsung-dex-for-pc/): Run Samsung Android phone apps in a window on your PC.  See also Phone Link below.
     - [Java Runtime](https://www.java.com/en/download/windows_manual.jsp): For running programs written in Java that do not include the runtime. #AiPA
-- ### Built-in and Windows Store Apps
+- ## Built-in and Windows Store Apps
     - [Phone Link](https://www.microsoft.com/en-us/windows/sync-across-your-devices): Make phone calls, send & receive texts, access smartphone apps in Windows.  See also DeX for PC above.
     - [Quick Assist](https://apps.microsoft.com/detail/9p7bp5vnwkx5?hl=en-us&gl=US): Help family, friends, and coworkers with a remote connection to their computer.
     - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
@@ -67,7 +67,7 @@ I install and configure many of these apps on every Windows workstation computer
     - [BitLocker](https://support.microsoft.com/en-us/windows/bitlocker-overview-44c0c61c-989d-4a69-8822-b95cd49b1bbf): Drive and device encryption for Windows.
     - [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use its `winget update --all` command to update many third-party apps.
     - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/): A lightweight, isolated desktop environment for safely running software.
-- ### Programming / Database / Analysis
+- ## Programming / Database / Analysis
     - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
     - [Vim](https://www.vim.org/): Windows version of the UNIX vi text editor includes a graphical interface.
     - [WinMerge](https://winmerge.org/): Compare file folders to find identical and different files, and review differences between files. #AiPA
@@ -85,13 +85,13 @@ I install and configure many of these apps on every Windows workstation computer
     - [Cygwin](https://cygwin.com/): Lightweight version of Linux-like open source tools for Windows.  Mostly use Windows System for Linux (WSL) instead now.
     - [Math.js](https://mathjs.org/): Amazing library of math functions written in JavaScript.
     - [CyberChef](https://github.com/gchq/CyberChef): The Cyber Swiss Army Knife of useful operations.  [Try it here.](https://gchq.github.io/CyberChef/)
-- ### Specialized Tools
+- ## Specialized Tools
     - [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/): For when memory cards cannot be formatted by Windows due to corrupt info.
     - [SSL Manager](https://www.ssl.com/ssl-manager/): Superior tool for managing and understanding SSL security certificates.
     - [Don't Sleep](https://www.softwareok.com/?seite=Microsoft/DontSleep): Prevent computer from sleeping due to administrative policies.
         - [Unique Utilities](https://www.softwareok.com/): Other useful utilities from Nenad Hrg.
     - [HP-1973](https://sarahkmarr.com/retrohp1973.html): Amazing HP-45 calculator emulator that shows its internal workings.
-- ### Recreation / Games
+- ## Recreation / Games
     - [Visual Pinball](https://www.vpforums.org/): Amazing pinball machine simulator / player and designer / editor.
     - [ScummVM](https://www.scummvm.org/): Run classic graphical adventure and role-playing games.
     - [ZZT](https://museumofzzt.com/): Text-based dungeon exploration game player and designer.
