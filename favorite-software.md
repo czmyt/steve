@@ -75,6 +75,7 @@ I install and configure many of these apps on every Windows workstation computer
     - [Git](https://git-scm.com/): Distributed software / file version control system.
     - [Microsoft SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Sophisticated database management system free for developers.
         - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16): The interactive tool for using SQL Server.
+    - [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop): Interactive report and visual analytics creator.
     - [PostgreSQL](https://www.postgresql.org/): The most sophisticated free and open source database management system.
     - [SQLite](https://sqlite.org/index.html): Small, fast, full-featured SQL database.  Best 100k+ lines of program code ever.
         - [DB Browser for SQLite](https://sqlitebrowser.org/): Interactive tool for using SQLite databases. #AiPA
