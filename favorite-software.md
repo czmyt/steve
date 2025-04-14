@@ -35,6 +35,7 @@ I install and configure many of these apps on every Windows workstation computer
         - [HP Prime Apps](https://www.hpcalc.org/): Apps and programs for the HP Prime calculator.
     - [Firebird Emu](https://github.com/nspire-emus/firebird/blob/master/README.md): TI-Nspire calculator emulator.
     - [Adobe Acrobat Reader](https://get.adobe.com/reader/): Still the best Adobe PDF file viewer.
+    - [Okular](https://apps.kde.org/okular/): Universal document viewer.  [Get it](https://apps.microsoft.com/detail/9n41msq1wnm8?hl=en-US&gl=US) from the Microsoft Store.
     - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video. #AiPA
     - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer. #AiPA
     - [CapCut](https://www.capcut.com/): Video editor free from [TikTok](https://www.tiktok.com/) parent company ByteDance.
