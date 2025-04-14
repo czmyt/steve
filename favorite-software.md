@@ -61,6 +61,7 @@ I install and configure many of these apps on every Windows workstation computer
     - [DeX for PC](https://www.samsung.com/ph/support/mobile-devices/how-to-use-samsung-dex-for-pc/): Run Samsung Android phone apps in a window on your PC.  See also Phone Link below.
     - [Java Runtime](https://www.java.com/en/download/windows_manual.jsp): For running programs written in Java that do not include the runtime. #AiPA
     - [VeraCrypt](https://www.veracrypt.fr/): File and disk encryption. #AiPA
+    - [Net Uptime Monitor](https://netuptimemonitor.com/): Simple local network and Internet connection monitor.  Not free.  Looking for free alternative.
 - ## Built-in and Windows Store Apps
     - [Phone Link](https://www.microsoft.com/en-us/windows/sync-across-your-devices): Make phone calls, send & receive texts, access smartphone apps in Windows.  See also DeX for PC above.
     - [Quick Assist](https://apps.microsoft.com/detail/9p7bp5vnwkx5?hl=en-us&gl=US): Help family, friends, and coworkers with a remote connection to their computer.
