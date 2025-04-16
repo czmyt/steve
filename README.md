@@ -2,7 +2,7 @@
 # Security Guide Background
 Background about most of the security posts in this guide.
 
-By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
+By [Steve Schmidt](https://steve.czmyt.com).
 
 ## All the Tips
 

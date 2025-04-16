@@ -2,7 +2,7 @@
 # Network Security Tips
 Advice for connecting things together at the office.
 
-By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
+By [Steve Schmidt](https://steve.czmyt.com).
 
 Note: These tips were written specifically for a client that 1) does not have a private WiFi network in their office, and 2) does provide secure guest WiFi access for visitors.
 I hope to generalize this post in the future.

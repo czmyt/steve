@@ -2,7 +2,7 @@
 # The Zen of Security
 Summing it all up.
 
-By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
+By [Steve Schmidt](https://steve.czmyt.com).
 
 - You’re a front-line soldier in the epic security battle of good versus evil.
 - You’re well informed about the wide range of security threats you face.

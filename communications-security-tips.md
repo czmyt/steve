@@ -2,7 +2,7 @@
 # Communications Security Tips
 Advice for electronic communications (other than via email).
 
-By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
+By [Steve Schmidt](https://steve.czmyt.com).
 
 Note: These tips were written for a client with specific corporate communications policies.
 I hope to generalize this post in the future.

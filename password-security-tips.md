@@ -2,7 +2,7 @@
 # Password Security Guide
 Advice for choosing and using passwords.
 
-By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
+By [Steve Schmidt](https://steve.czmyt.com).
 
 <h3>Passwords are the keys to the kingdom...<br />
 Choose them carefully and guard them wisely!</h3>

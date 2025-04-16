@@ -2,7 +2,7 @@
 # Emergency Situation Tips
 Advice for dealing with various emergencies.
 
-By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
+By [Steve Schmidt](https://steve.czmyt.com).
 
 <h3>Be prepared.<br />
 Know how to respond.</h3>

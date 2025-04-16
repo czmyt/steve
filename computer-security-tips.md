@@ -2,7 +2,7 @@
 # Computer Security Tips
 Advice for using laptop and desktop computers.
 
-By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
+By [Steve Schmidt](https://steve.czmyt.com).
 
 ## Don’t use your work computer for personal Web browsing.
 - Use your personal cellphone or tablet instead.

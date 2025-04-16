@@ -2,7 +2,7 @@
 # Device Security Tips
 For cellphones and tables.
 
-By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
+By [Steve Schmidt](https://steve.czmyt.com).
 
 Note: These tips were written for a client that requires corporate management of personally-owned cellphones and tablets that are used for business purposes, specifically email.
 I hope to generalize this post in the future.
