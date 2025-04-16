@@ -67,7 +67,7 @@ See also my [Tech Notes](tech-notes/README.md) page for software tips and tricks
     - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
     - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists and simple lists as there is a smartphone version.
     - [BitLocker](https://support.microsoft.com/en-us/windows/bitlocker-overview-44c0c61c-989d-4a69-8822-b95cd49b1bbf): Drive and device encryption for Windows.  Requires Windows Pro or more.
-    - [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use its `winget update --all` command to update many third-party apps.  See my [Windows computer update notes](tech-notes/windows-computer-update.md).
+    - [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use to update many third-party apps.  See my [Windows computer update notes](tech-notes/windows-computer-update.md).
     - [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview?pivots=windows): Hardware virtualization to run Windows and other computer operating systems.  Requires Windows Pro or more.
     - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/): A lightweight, isolated desktop environment for safely running software.
     - [Clock](https://apps.microsoft.com/detail/9wzdncrfj3pr?hl=en-us&gl=US): World Clock with sun map especially useful.
