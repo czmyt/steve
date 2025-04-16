@@ -1,7 +1,5 @@
 
-# Favorite Software
-
-By [Steve Schmidt](https://steve.czmyt.com).
+# Favorite Software -- [Steve Schmidt](https://steve.czmyt.com)
 
 My personal software favorites.  All of these are free except for Microsoft Office and Teams.<br />
 I install and configure many of these apps on every Windows workstation computer I setup for myself.<br />
