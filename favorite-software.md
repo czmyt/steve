@@ -67,10 +67,11 @@ I install and configure many of these apps on every Windows workstation computer
     - [Quick Assist](https://apps.microsoft.com/detail/9p7bp5vnwkx5?hl=en-us&gl=US): Help family, friends, and coworkers with a remote connection to their computer.
     - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
     - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists and simple lists as there is a smartphone version.
-    - [BitLocker](https://support.microsoft.com/en-us/windows/bitlocker-overview-44c0c61c-989d-4a69-8822-b95cd49b1bbf): Drive and device encryption for Windows.
+    - [BitLocker](https://support.microsoft.com/en-us/windows/bitlocker-overview-44c0c61c-989d-4a69-8822-b95cd49b1bbf): Drive and device encryption for Windows.  Requires Windows Pro or more.
     - [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use its `winget update --all` command to update many third-party apps.
-    - [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview?pivots=windows): Hardware virtualization to run Windows and other computer operating systems.
+    - [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview?pivots=windows): Hardware virtualization to run Windows and other computer operating systems.  Requires Windows Pro or more.
     - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/): A lightweight, isolated desktop environment for safely running software.
+    - [Clock](https://apps.microsoft.com/detail/9wzdncrfj3pr?hl=en-us&gl=US): World Clock with sun map especially useful.
 - ## Programming / Database / Analysis
     - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
     - [Vim](https://www.vim.org/): Windows version of the UNIX vi text editor includes a graphical interface.
