@@ -1,10 +1,6 @@
 
-Return to the [Security Guide](README.md) main page.
-
-# Network Security Tips
+# Network Security Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
 Advice for connecting things together at the office.
-
-By [Steve Schmidt](https://steve.czmyt.com).
 
 Note: These tips were written specifically for a client that 1) does not have a private WiFi network in their office, and 2) does provide secure guest WiFi access for visitors.
 I hope to generalize this post in the future.

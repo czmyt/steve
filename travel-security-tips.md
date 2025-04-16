@@ -1,10 +1,6 @@
 
-Return to the [Security Guide](README.md) main page.
-
-# Travel Security Tips
+# Travel Security Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
 Advice for staying secure while traveling.
-
-By [Steve Schmidt](https://steve.czmyt.com).
 
 ### Have a safe trip!
 

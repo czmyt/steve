@@ -1,10 +1,6 @@
 
-Return to the [Security Guide](README.md) main page.
-
-# Communications Security Tips
+# Communications Security Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
 Advice for electronic communications (other than via email).
-
-By [Steve Schmidt](https://steve.czmyt.com).
 
 Note: These tips were written for a client with specific corporate communications policies.
 I hope to generalize this post in the future.

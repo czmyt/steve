@@ -1,10 +1,6 @@
 
-Return to the [Security Guide](README.md) main page.
-
-# Password Security Guide
+# Password Security Guide -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
 Advice for choosing and using passwords.
-
-By [Steve Schmidt](https://steve.czmyt.com).
 
 <h3>Passwords are the keys to the kingdom...<br />
 Choose them carefully and guard them wisely!</h3>

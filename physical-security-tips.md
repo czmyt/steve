@@ -1,10 +1,6 @@
 
-Return to the [Security Guide](README.md) main page.
-
-# Physical Security Tips
+# Physical Security Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
 Advice for physical security in an office environment.
-
-By [Steve Schmidt](https://steve.czmyt.com).
 
 ### Keep yourself and the office safe!
 

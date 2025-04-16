@@ -1,10 +1,6 @@
 
-Return to the [Security Guide](README.md) main page.
-
-# Device Security Tips
+# Device Security Tips  -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
 For cellphones and tables.
-
-By [Steve Schmidt](https://steve.czmyt.com).
 
 Note: These tips were written for a client that requires corporate management of personally-owned cellphones and tablets that are used for business purposes, specifically email.
 I hope to generalize this post in the future.

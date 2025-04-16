@@ -1,10 +1,6 @@
 
-Return to the [Security Guide](README.md) main page.
-
-# Emergency Situation Tips
+# Emergency Situation Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
 Advice for dealing with various emergencies.
-
-By [Steve Schmidt](https://steve.czmyt.com).
 
 <h3>Be prepared.<br />
 Know how to respond.</h3>

@@ -1,10 +1,6 @@
 
-Return to the [Security Guide](README.md) main page.
-
-# Email Security Tips
+# Email Security Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
 Advice for using email.
-
-By [Steve Schmidt](https://steve.czmyt.com).
 
 <h3>Email is the killer app for business.<br />
 Don’t let it kill your computer.</h3>

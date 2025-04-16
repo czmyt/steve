@@ -1,10 +1,6 @@
 
-Return to the [Security Guide](README.md) main page.
-
-# The Zen of Security
+# The Zen of Security -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
 Summing it all up.
-
-By [Steve Schmidt](https://steve.czmyt.com).
 
 - You’re a front-line soldier in the epic security battle of good versus evil.
 - You’re well informed about the wide range of security threats you face.

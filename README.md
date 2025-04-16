@@ -1,8 +1,6 @@
 
-# Security Guide Background
+# Security Guide -- [Steve Schmidt](https://steve.czmyt.com)
 Background about most of the security posts in this guide.
-
-By [Steve Schmidt](https://steve.czmyt.com).
 
 ## Table of Contents
 

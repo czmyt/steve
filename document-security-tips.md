@@ -1,10 +1,6 @@
 
-Return to the [Security Guide](README.md) main page.
-
-# Document (and File) Security Tips
+# Document (and File) Security Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
 Advice for securing paper documents and computer files.
-
-By [Steve Schmidt](https://steve.czmyt.com).
 
 ### Don’t let that paper trail lead to problems.
 
