@@ -13,6 +13,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - **Homepage** at [steve.czmyt.com](https://steve.czmyt.com).
 - **Payments** to [Venmo](https://venmo.com/czmyt), [PayPal](https://paypal.me/czmyt), and Google Wallet: Use my email address.
 - My [**Favorite Software**](favorite-software.md) list includes some gems that I rely on.
+- My [**Tech Notes**](tech-notes/README.md) include tips and tricks for using Windows and popular apps.
 - My [**Security Guide**](https://github.com/czmyt/security-guide/blob/main/README.md) has some helpful hints.
 - My [**Travel Tips**](travel-tips.md) on how to prepare for your adventures.
 - My [**YouTube videos**](https://www.youtube.com/@sczmyt/videos) that I link to from other sites.
