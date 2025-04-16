@@ -1,5 +1,5 @@
 
-# Tech Notes, Tips, and Tricks -- [Steve Schmidt](https://steve.czmyt.com)
+# Tech Notes -- [Steve Schmidt](https://steve.czmyt.com)
 
 Some personal tech notes, tips, and tricks that others might find useful.<br />
 In alphabetical order by subject.  Dates indicate when articles first published.
