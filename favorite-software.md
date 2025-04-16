@@ -4,7 +4,8 @@
 By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
 My personal software favorites.  All of these are free except for Microsoft Office and Teams.<br />
-I install and configure many of these apps on every Windows workstation computer I setup for myself.
+I install and configure many of these apps on every Windows workstation computer I setup for myself.<br />
+See also my [Tech Notes](tech-notes/README.md) page for software tips and tricks.
 
 - ## Collections
     - [PortableApps](https://portableapps.com/): Portable versions of over 500 free apps.  #AiPA: "Available in PortableApps" marks those apps below that can be installed by themselves or downloaded and used through the PortableApps system.
@@ -86,7 +87,7 @@ I install and configure many of these apps on every Windows workstation computer
         - [SQL.js](https://sql.js.org/#/): SQLite compiled to JavaScript to run inside Web browsers.
     - [DuckDB](https://duckdb.org/): Lightweight SQL database similar to SQLite but can be embedded in client-side webpages.
     - [Python](https://www.python.org/): Run little programs written by Chat GPT.  Learn programming.
-    - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  Opt for the portable version.  Install the database drivers.  Check out the add-ins.
+    - [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  See my [Orange installation and setup notes](tech-notes/orange-data-mining-install-windows.md).
     - [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install): Linux programs integrated into Windows.
     - [Cygwin](https://cygwin.com/): Lightweight version of Linux-like open source tools for Windows.  Mostly use Windows System for Linux (WSL) instead now.
     - [Math.js](https://mathjs.org/): Amazing library of math functions written in JavaScript.

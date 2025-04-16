@@ -1,5 +1,5 @@
 
-# Procedure to install and configure the [Orange Data Mining](https://orangedatamining.com/) software for Windows.
+# How to install and setup the [Orange Data Mining](https://orangedatamining.com/) software for Windows.
 
 By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
@@ -14,5 +14,7 @@ By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
     - Manually add the `Orange3-SQLite3` add-in from within the Orange program.
 1. Create copy of the `Orange.lnk` shortcut and place on the Windows Desktop:
     - Change the Startup Directory in the shortcut to the Orange folder.
+
+Go back to the [Tech Notes, Tips, and Tips](README.md) main page.
 
 Copyright 2025 Stephen Schmidt.  All rights reserved.
