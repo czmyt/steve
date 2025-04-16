@@ -4,7 +4,7 @@ Background about most of the security posts in this guide.
 
 By [Steve Schmidt](https://steve.czmyt.com).
 
-## All the Tips
+## Table of Contents
 
 Here is a list of the security tip blog posts in logical order:
 

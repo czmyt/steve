@@ -1,4 +1,6 @@
 
+Return to the [Security Guide](README.md) main page.
+
 # Physical Security Tips
 Advice for physical security in an office environment.
 
@@ -31,7 +33,5 @@ By [Steve Schmidt](https://steve.czmyt.com).
 - Get far away from them.
 - Warn others to stay away.
 - Contact building security or the police.
-
-See [background info](README.md) on this post.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.

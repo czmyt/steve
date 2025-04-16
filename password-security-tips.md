@@ -1,4 +1,6 @@
 
+Return to the [Security Guide](README.md) main page.
+
 # Password Security Guide
 Advice for choosing and using passwords.
 
@@ -110,7 +112,5 @@ If one account gets hacked, your other accounts should remain safe.
 - Change temporary passwords.
 - Don’t send passwords via email.
 - Don’t use password manager programs or services to store your passwords.
-
-See [background info](README.md) on this post.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.

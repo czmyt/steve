@@ -1,4 +1,6 @@
 
+Return to the [Security Guide](README.md) main page.
+
 # Computer Security Tips
 Advice for using laptop and desktop computers.
 
@@ -52,7 +54,5 @@ By [Steve Schmidt](https://steve.czmyt.com).
 - Your technology staff has good backups of your work computer.
 - Ask them how to back up and protect your personal devices and home computers.
 - If you don’t back it up, assume it’s going to be lost! It will be sooner or later.
-
-See [background info](README.md) on this post.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.

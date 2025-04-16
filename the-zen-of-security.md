@@ -1,4 +1,6 @@
 
+Return to the [Security Guide](README.md) main page.
+
 # The Zen of Security
 Summing it all up.
 
@@ -17,7 +19,5 @@ By [Steve Schmidt](https://steve.czmyt.com).
 - You’re always thinking about security in the back of your mind.
 - You know how to respond to emergency situations to save yourself and help your coworkers.
 - In short, you’re knowledgeable, alert, skeptical, questioning, prepared.
-
-See [background info](README.md) on this post.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.

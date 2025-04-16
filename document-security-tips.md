@@ -1,4 +1,6 @@
 
+Return to the [Security Guide](README.md) main page.
+
 # Document (and File) Security Tips
 Advice for securing paper documents and computer files.
 
@@ -29,7 +31,5 @@ By [Steve Schmidt](https://steve.czmyt.com).
 ## Asset Security
 - Don’t take work stuff out of the office. Unless it’s a laptop computer or device that’s assigned to you.
 - Keep your cellphone on your person. Don’t be in the habit of laying it down wherever you are.
-
-See [background info](README.md) on this post.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.

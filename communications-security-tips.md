@@ -1,4 +1,6 @@
 
+Return to the [Security Guide](README.md) main page.
+
 # Communications Security Tips
 Advice for electronic communications (other than via email).
 
@@ -33,7 +35,5 @@ Until then, hopefully you’ll find some good advice below.
 - Do not rely on Caller ID. Scammers can make it show whatever they want!
 - Be really skeptical if they ask you to do something that you would not normally do. Or if they ask for personal info or usernames and passwords. Or money. Especially money.
     - This happens over the phone, via email, via regular mail and sometimes in person. It’s called “social engineering.” Beware of special requests, or if people ask you not to tell anyone else, or if the request is urgent, or if something sounds too good to be true, or if it’s anything out of the ordinary.
-
-See [background info](README.md) on this post.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.

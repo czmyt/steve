@@ -1,4 +1,6 @@
 
+Return to the [Security Guide](README.md) main page.
+
 # Emergency Situation Tips
 Advice for dealing with various emergencies.
 
@@ -64,7 +66,5 @@ Know how to respond.</h3>
     - Breaks: Don’t move anyone who might have broken bones.
     - Burns: Cover burns with sterile compresses.
 - Know the signs of other life-threatening medical issues like heart attacks, strokes, choking, low blood sugar, etc.
-
-See [background info](README.md) on this post.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.

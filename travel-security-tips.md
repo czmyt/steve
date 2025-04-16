@@ -1,4 +1,6 @@
 
+Return to the [Security Guide](README.md) main page.
+
 # Travel Security Tips
 Advice for staying secure while traveling.
 
@@ -32,7 +34,5 @@ By [Steve Schmidt](https://steve.czmyt.com).
 - Your belongings are subject to search when crossing the United States border or traveling in the U.S. within 100 miles of the border.
     - US Government officials cannot require you to give them your memorized passwords without a court order. Even then, you might not remember your passwords.
 - Know the rules where you’ll be traveling.
-
-See [background info](README.md) on this post.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
