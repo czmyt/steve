@@ -1,15 +1,17 @@
 
 # Favorite Software -- [Steve Schmidt](https://steve.czmyt.com)
 
-My personal software favorites.  All of these are free except for Microsoft Office and Teams.<br />
-I install and configure many of these apps on every Windows workstation computer I setup for myself.<br />
-See also my [Tech Notes](tech-notes/README.md) page for software tips and tricks.
+My personal software favorites.  All of these are free except for Microsoft Office and Teams.
+<br />I install and configure many of these apps on every Windows workstation computer I setup for myself.
+<br />See also my [Tech Notes](tech-notes/README.md) page for software notes, tips, and tricks.
 
 - ## Collections
-    - [PortableApps](https://portableapps.com/): Portable versions of over 500 free apps.  #AiPA: "Available in PortableApps" marks those apps below that can be installed by themselves or downloaded and used through the PortableApps system.
+    - [PortableApps](https://portableapps.com/): Portable versions of over 500 free apps.
+        <br />#AiPA ("Available in PortableApps") marks those apps below that can be installed by themselves or downloaded and used through the PortableApps system.
     - [The Best Free Software for 2024](https://www.pcmag.com/picks/best-free-software): List from PC Mag(azine) with some other great apps I use occasionally.
 - ## Web Browsers
-    - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): My main Web browser.  Use its sync feature to sync bookmarks, passwords, etc. between computers. #AiPA  Favorite extensions:
+    - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): My main Web browser.  Use its sync feature to sync bookmarks, passwords, etc. between computers. #AiPA
+        <br />Favorite extensions:
         - [uBlock Origin](https://ublockorigin.com/): Block most advertisements while browsing the web.
         - [TWP - Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/): Automatic real-time translation of webpages to your language.
         - [DownThemAll!](https://www.downthemall.org/): Download all the pictures, videos, links, etc. on a webpage.  See also JDownloader below.
@@ -18,7 +20,8 @@ See also my [Tech Notes](tech-notes/README.md) page for software tips and tricks
 - ## Office / Editors / Designers / Viewers
     - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  See also the free LibreOffice next.
     - [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office. #AiPA
-    - [Joplin](https://joplinapp.org/): Note taking app extroidinaire. #AiPA  Favorite plugins:
+    - [Joplin](https://joplinapp.org/): Note taking app extroidinaire. #AiPA
+        <br />Favorite plugins:
         - [Math Mode](https://github.com/CalebJohn/joplin-math-mode): Calculator and measurement converter embedded within the note taking app.  Amazing.
         - [Templates](https://github.com/joplin/plugin-templates): Create simple templates for creating new notes.
         - [Freehand Drawing](https://github.com/personalizedrefrigerator/joplin-plugin-freehand-drawing): Create and edit freehand drawings, like in Microsoft OneNote.
