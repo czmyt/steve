@@ -20,7 +20,7 @@ My personal software favorites.  All of these are free except for Microsoft Offi
 - ## Office / Editors / Designers / Viewers
     - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  See also the free LibreOffice next.
     - [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office. #AiPA
-    - [Joplin](https://joplinapp.org/): Note taking app extroidinaire. #AiPA
+    - [Joplin](https://joplinapp.org/): Note taking app extraordinaire. #AiPA
         <br />Favorite plug-ins:
         - [Math Mode](https://github.com/CalebJohn/joplin-math-mode): Calculator and measurement converter embedded within the note taking app.  Amazing.
         - [Templates](https://github.com/joplin/plugin-templates): Create simple templates for creating new notes.
