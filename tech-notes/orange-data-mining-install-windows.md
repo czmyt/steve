@@ -1,7 +1,7 @@
 
-# How to install and setup the [Orange Data Mining](https://orangedatamining.com/) software for Windows.
+Return to the [Tech Notes, Tips, and Tips](README.md) main page.
 
-By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
+# How to install and setup the [Orange Data Mining](https://orangedatamining.com/) software for Windows.
 
 1. I recommend using the Portable Orange distribution that requires no explicit installation:
     - Download the Portable Orange zip file.
@@ -15,6 +15,4 @@ By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 1. Create copy of the `Orange.lnk` shortcut and place on the Windows Desktop:
     - Change the Startup Directory in the shortcut to the Orange folder.
 
-Go back to the [Tech Notes, Tips, and Tips](README.md) main page.
-
-Copyright 2025 Stephen Schmidt.  All rights reserved.
+Copyright 2025 [Stephen Schmidt](https://steve.czmyt.com).  All rights reserved.

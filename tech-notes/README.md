@@ -1,7 +1,7 @@
 
 # Tech Notes, Tips, and Tricks
 
-By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
+By [Steve Schmidt](https://steve.czmyt.com).
 
 Some personal tech notes, tips, and tricks that others might find useful.<br />
 In alphabetical order by subject.
@@ -13,4 +13,4 @@ In alphabetical order by subject.
 - My [**Favorite Software**](/favorite-software.md) list includes software gems that I rely on.
 - My [**Security Guide**](https://github.com/czmyt/security-guide/blob/main/README.md) has some helpful security tips.
 
-Copyright 2025 Stephen Schmidt.  All rights reserved.
+Copyright 2025 [Stephen Schmidt](https://steve.czmyt.com).  All rights reserved.

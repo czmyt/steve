@@ -1,7 +1,7 @@
 
-# How to update much of the software on a Windows computer.
+Return to the [Tech Notes, Tips, and Tips](README.md) main page.
 
-By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
+# How to update much of the software on a Windows computer.
 
 1. Check for `Windows Updates` in Settings.
 1. Update other software through Windows Terminal: Run
@@ -16,6 +16,4 @@ By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
     time (time sudo apt -y update && time sudo apt -y upgrade)
     ```
 
-Go back to the [Tech Notes, Tips, and Tips](README.md) main page.
-
-Copyright 2025 Stephen Schmidt.  All rights reserved.
+Copyright 2025 [Stephen Schmidt](https://steve.czmyt.com).  All rights reserved.
