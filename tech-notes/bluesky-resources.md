@@ -1,5 +1,5 @@
 
-# Favorite resources for [Bluesky](https://bsky.app/) social media site users. -- [Tech Notes](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# Favorite resources for [Bluesky](https://bsky.app/) social media users. -- [Tech Notes](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
 
 Most recent additions at the top.  Dates indicate when link first published.
 
