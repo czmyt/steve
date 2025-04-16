@@ -3,15 +3,15 @@
 
 By [Steve Schmidt (steve@czmyt.com)](mailto:steve@czmyt.com).
 
-- Check for `Windows Updates` in Settings.
-- Update other software through Windows Terminal: Run
+1. Check for `Windows Updates` in Settings.
+1. Update other software through Windows Terminal: Run
     ```Batchfile
     winget update --all
     ``` 
-- Check for updates within PortableApps.
+1. Check for updates within PortableApps.
     - Occasionally, check for new apps using `Get new apps by title`.
-- Run `Get Updates` in Microsoft Store app.
-- Run update commands in Linux shell:
+1. Run `Get Updates` in Microsoft Store app.
+1. Run update commands in Linux shell:
     ```Shell
     time (time sudo apt -y update && time sudo apt -y upgrade)
     ```
