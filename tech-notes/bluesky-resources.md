@@ -8,6 +8,7 @@ Most recent additions at the top.  Dates indicate when link first published.
 1. [Firesky](https://firesky.tv/): The Bluesky firehose: Every post on Bluesky in real-time with filtering options. 2025-04-16
 1. [List of Bluesky tools and resources](https://github.com/notjuliet/awesome-bluesky): Big comprehensive list of resources for Bluesky users. 2025-04-16
 1. [Translate Web Pages for Firefox](https://github.com/FilipePS/Traduzir-paginas-web) A Firefox browser extension that automatically translates pages to your language. 2025-04-16
+1. [Listifications](https://bsky.app/profile/listifications.app): "Follow me to receive notifications via DM whenever you're added to a starter pack, block list, feed or when someone blocks your account." 2025-04-16
 1. [The Blue Report](https://theblue.report/): "The top links on Bluesky, updated hourly" 2025-04-16
 1. [Bluesky Stats](https://bsky.jazco.dev/stats): "Bluesky Post Count and Author Stats" 2025-04-16
 1. [Bluesky User Count](https://bsky-users.theo.io/): Total number of Bluesky users right now. 2025-04-16
@@ -16,6 +17,8 @@ Most recent additions at the top.  Dates indicate when link first published.
 1. [cred.blue](https://cred.blue/home): "Generate a Bluesky score. Understand your AT Proto data footprint. Vibe check strangers and new accounts." 2025-04-16
 1. [BlueSky Receipts](https://bskypt.vercel.app/): "Enter your BlueSky handle to generate a social receipt for your activity" 2025-04-16
 1. [Bluesky Roast](https://blueskyroast.com/): "Discover your Bluesky digital persona" 2025-04-16
+1. [sentiment bot](https://bsky.app/profile/sentimentbot.bsky.social): Mention `@sentimentbot.bsky.social` in a post and it replies with the sentiment of your posts. 2025-04-16
+1. [profanity.accountant](https://bsky.app/profile/profanity.accountant): Mention `@profanity.accountant ` in a post and it replies with the number of swears you've used. 2025-04-16
 1. [Skywatch Blue](https://bsky.app/profile/skywatch.blue): An independent moderation (blocks) list and labeling service. 2025-04-16
 1. [Custom handles documentation](https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial): How to set your domain name (i.e. czmyt.com) as your Bluesky handle. 2025-04-16
 1. [Aviary Domains](https://aviary.domains/): Share domains with friends, family, communities, and organizations to use with ATProtocol. 2025-04-16
