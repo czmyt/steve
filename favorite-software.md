@@ -64,7 +64,8 @@ My personal software favorites.  All of these are free except for Microsoft Offi
     - [Java Runtime](https://www.java.com/en/download/windows_manual.jsp): For running programs written in Java that do not include the runtime. #AiPA
     - [VeraCrypt](https://www.veracrypt.fr/): File and disk encryption. #AiPA
     - [Net Uptime Monitor](https://netuptimemonitor.com/): Simple local network and Internet connection monitor.  Not free.  Looking for free alternative.
-- ## Built-in and Windows Store Apps
+- ## Windows Built-in and Microsoft Store Apps
+    - [Microsoft Store](https://apps.microsoft.com/home?hl=en-us&gl=US): The store for easily-installable Windows apps.
     - [Phone Link](https://www.microsoft.com/en-us/windows/sync-across-your-devices): Make phone calls, send & receive texts, access smartphone apps in Windows.  See also DeX for PC above.
     - [Quick Assist](https://apps.microsoft.com/detail/9p7bp5vnwkx5?hl=en-us&gl=US): Help family, friends, and coworkers with a remote connection to their computer.
     - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
