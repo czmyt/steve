@@ -18,7 +18,7 @@ Most recent additions at the top.  Dates indicate when link first published.
 1. [BlueSky Receipts](https://bskypt.vercel.app/): "Enter your BlueSky handle to generate a social receipt for your activity" 2025-04-16
 1. [Bluesky Roast](https://blueskyroast.com/): "Discover your Bluesky digital persona" 2025-04-16
 1. [sentiment bot](https://bsky.app/profile/sentimentbot.bsky.social): Mention `@sentimentbot.bsky.social` in a post and it replies with the sentiment of your posts. 2025-04-16
-1. [profanity.accountant](https://bsky.app/profile/profanity.accountant): Mention `@profanity.accountant ` in a post and it replies with the number of swears you've used. 2025-04-16
+1. [profanity.accountant](https://bsky.app/profile/profanity.accountant): Mention `@profanity.accountant` in a post and it replies with the number of swears you've used. 2025-04-16
 1. [Skywatch Blue](https://bsky.app/profile/skywatch.blue): An independent moderation (blocks) list and labeling service. 2025-04-16
 1. [Custom handles documentation](https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial): How to set your domain name (i.e. czmyt.com) as your Bluesky handle. 2025-04-16
 1. [Aviary Domains](https://aviary.domains/): Share domains with friends, family, communities, and organizations to use with ATProtocol. 2025-04-16
