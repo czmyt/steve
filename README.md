@@ -20,4 +20,13 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - My [**LinkedIn profile**](https://www.linkedin.com/in/stephen-schmidt-windsor/) about job skills and hobbies.
 - *Not* the [campaign runner / political consultant](https://steveschmidt.substack.com/).
 
+## Some Favorite Websites
+
+- [Wikipedia](https://www.wikipedia.org/): Free online encyclopedia.
+- [Internet Archive](https://archive.org/): "Library of millions of free texts, movies, software, music, websites"
+- [Copilot](https://copilot.microsoft.com): Microsoft's version of ChatGPT AI.
+- [DuckDuckGo](https://duckduckgo.com/): Search engine with privacy.
+- [CyberChef](https://gchq.github.io/CyberChef/): GCHQ's collection of useful computer processing tools.
+- [MarketWatch Market Data Center](https://www.marketwatch.com/market-data): Snapshot of key world financial markers.
+
 My [(Un)License](UNLICENSE.md) is incorporated herein.
