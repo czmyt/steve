@@ -41,6 +41,7 @@ My personal software favorites.  All of these are free except for Microsoft Offi
     - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video. #AiPA
     - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer. #AiPA
     - [CapCut](https://www.capcut.com/): Video editor free from [TikTok](https://www.tiktok.com/) parent company ByteDance.
+    - [TurboTax](https://turbotax.intuit.com/): Tax preparation software.  Or as I call it, the Intuit tax.
     - [Hallmark Card Studio Deluxe](https://www.hallmarksoftware.com/): Greeting card, envelope, and label designer.
 - ## Utilities
     - [PeaZip](https://peazip.github.io/): File compression and archiving utility. #AiPA
