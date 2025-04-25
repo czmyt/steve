@@ -26,7 +26,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [Internet Archive](https://archive.org/): "Library of millions of free texts, movies, software, music, websites"
 - [Copilot](https://copilot.microsoft.com): Microsoft's version of ChatGPT AI.
 - [DuckDuckGo](https://duckduckgo.com/): Search engine with privacy.
-- [CyberChef](https://gchq.github.io/CyberChef/): GCHQ's collection of useful computer processing tools.
+- [CyberChef](https://gchq.github.io/CyberChef/): GCHQ's collection of useful data processing tools.
 - [MarketWatch Market Data Center](https://www.marketwatch.com/market-data): Snapshot of key world financial markers.
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
