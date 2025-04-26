@@ -1,7 +1,7 @@
 
 # Favorite Software -- [Steve Schmidt](https://steve.czmyt.com)
 
-My personal software favorites.  All of these are free except the ones marked #NotFree.
+My personal software favorites.  All of these are free except the ones tagged #NotFree.
 <br />I install and configure many of these apps on every Windows workstation computer I setup for myself.
 <br />See also my [Tech Notes](tech-notes/README.md) page for software notes, tips, and tricks.
 
@@ -20,7 +20,7 @@ My personal software favorites.  All of these are free except the ones marked #N
     - [Google Chrome](https://www.google.com/chrome/index.html): A must-have for websites that misbehave in Firefox. #AiPA
 
 - ## Office / Editors / Designers / Viewers
-    - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  #NotFree  See also the free LibreOffice next.
+    - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  See also the free LibreOffice next.  #NotFree
     - [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office. #AiPA
     - [Joplin](https://joplinapp.org/): Note taking app extraordinaire. #AiPA
         <br />Favorite plug-ins:
@@ -67,7 +67,7 @@ My personal software favorites.  All of these are free except the ones marked #N
     - [DeX for PC](https://www.samsung.com/ph/support/mobile-devices/how-to-use-samsung-dex-for-pc/): Run Samsung Android phone apps in a window on your PC.  See also Phone Link below.
     - [Java Runtime](https://www.java.com/en/download/windows_manual.jsp): For running programs written in Java that do not include the runtime. #AiPA
     - [VeraCrypt](https://www.veracrypt.fr/): File and disk encryption. #AiPA
-    - [Net Uptime Monitor](https://netuptimemonitor.com/): Simple local network and Internet connection monitor.  #NotFree.  Looking for free alternative.
+    - [Net Uptime Monitor](https://netuptimemonitor.com/): Simple local network and Internet connection monitor.  Looking for free alternative.  #NotFree
 
 - ## Windows Built-in and Microsoft Store Apps
     - [Microsoft Store](https://apps.microsoft.com/home?hl=en-us&gl=US): The store for easily-installable Windows apps.
@@ -123,6 +123,6 @@ My personal software favorites.  All of these are free except the ones marked #N
     - [PyChess](https://pychess.github.io/): Play chess against built-in engine or people over the Internet.
     - [Scrabble3D](https://sourceforge.net/projects/scrabble/): Free version of the definitive word game.
     - [Domination](https://sourceforge.net/projects/domination/): Risk-like turn-based strategy game.
-    - [Minecraft](https://www.minecraft.net/en-us): Most popular game of all time for a reason. #NotFree
+    - [Minecraft](https://www.minecraft.net/en-us): Most popular game of all time for a reason.  #NotFree
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
