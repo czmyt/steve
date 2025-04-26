@@ -7,6 +7,14 @@ My comments in italics.
 Includes audio book-only releases.
 Currently listed in alphabetical order.
 
+- [**Before & Laughter**: A Life-Changing Book](https://www.amazon.com/Before-Laughter-Life-Changing-Jimmy-Carr/dp/B09HG18CYW)
+    by Jimmy Carr
+
+    "A memoir and self-help manual by one of the country's [the UK] most treasured comedians - for anyone who feels stuck in a rut but doesn't have the tools or self-belief to shake things up"
+
+    *Quite profound for a guy known for his controversial and juvenile humor.*
+
+
 - [**The Color of Time**: A New History of the World: 1850-1960](https://www.amazon.com/Color-Time-History-World-1850-1960/dp/1643130544)
     by Dan Jones (Author) and Marina Amaral (Illustrator)
     
@@ -21,6 +29,14 @@ Currently listed in alphabetical order.
     "… offers 366 days of Stoic insights and exercises….  Every day of the year you'll find one of their pithy, powerful quotations, as well as historical anecdotes, provocative commentary …."
 
     *Philosophy that has stood the test of time, in bite-sized pieces.*
+
+
+- [**Eat, Pray, #FML**: a story of love, heartbreak, and sour searching](https://www.amazon.com/dp/1733963707)
+    by Gabrielle Stone:
+
+    "What does a woman do when her life has fallen apart and her heart has been ripped out and stepped on twice in two months? She goes on a wild adventure, makes some bad decisions, and does a sh*t load of soul searching."
+
+    *A very interesting story of her solo trip to Europe and her journey to forget, find herself, something.*
 
 
 - [**Hothouse Earth**: An Inhabitant’s Guide](https://www.amazon.com/Hothouse-Earth-Inhabitants-Bill-McGuire/dp/1785789201)
