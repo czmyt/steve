@@ -6,10 +6,9 @@ Especially ones that I have read more than once, gifted to others, or frequently
 Includes audio book-only releases.
 My comments in italics.
 
-Jump to section: [History / Politics](#History-Politics), [Technology](#Technology)
+Jump to section: [History / Politics](#History-Politics), [Technology](#Technology).
 
-<a name="History-Politics" />
-- ## History / Politics
+- ## <a name="History-Politics">History / Politics</a>
 
     - [**On Tyranny**: Twenty Lessons from the Twentieth Century](https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119)
         by Timothy Snyder
@@ -74,8 +73,7 @@ Jump to section: [History / Politics](#History-Politics), [Technology](#Technolo
         <br />"provides a … perspective on the climate emergency, acknowledging that it is now practically impossible to keep this side of the 1.5°C dangerous climate change guardrail.  … we can no longer dodge the arrival of disastrous, all-pervasive, climate breakdown that will come as a hammer blow to global society and economy."
         <br />***Assume the worst, prepare for worse, as relates to climate change / disaster / collapse.***
 
-<a name="Technology" />
-- ## Technology
+- ## <a name="Technology">Technology</a>
 
     - [**The Mythical Man-Month**: Essays on Software Engineering, Anniversary Edition](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
         by Frederick Brooks Jr.
