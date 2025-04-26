@@ -1,7 +1,7 @@
 
 # Favorite Software -- [Steve Schmidt](https://steve.czmyt.com)
 
-My personal software favorites.  All of these are free except for Microsoft Office and Teams.
+My personal software favorites.  All of these are free except the ones marked #NotFree.
 <br />I install and configure many of these apps on every Windows workstation computer I setup for myself.
 <br />See also my [Tech Notes](tech-notes/README.md) page for software notes, tips, and tricks.
 
@@ -20,7 +20,7 @@ My personal software favorites.  All of these are free except for Microsoft Offi
     - [Google Chrome](https://www.google.com/chrome/index.html): A must-have for websites that misbehave in Firefox. #AiPA
 
 - ## Office / Editors / Designers / Viewers
-    - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  See also the free LibreOffice next.
+    - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  #NotFree  See also the free LibreOffice next.
     - [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office. #AiPA
     - [Joplin](https://joplinapp.org/): Note taking app extraordinaire. #AiPA
         <br />Favorite plug-ins:
@@ -28,7 +28,7 @@ My personal software favorites.  All of these are free except for Microsoft Offi
         - [Templates](https://github.com/joplin/plugin-templates): Create simple templates for creating new notes.
         - [Freehand Drawing](https://github.com/personalizedrefrigerator/joplin-plugin-freehand-drawing): Create and edit freehand drawings, like in Microsoft OneNote.
     - [Signal Desktop](https://signal.org/download/): The desktop companion to the Signal messaging app.
-    - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in): The everything office team collaboration tool.
+    - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in): The everything office team collaboration tool.  #NotFree
     - [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage): Best of the online file storage options but prefer Resilio Sync for personal file syncing.
     - [paint.net](https://getpaint.net/): Simple, powerful image / photo editing software. #AiPA
     - [GIMP](https://www.gimp.org/): Sophisticated image / photo editing software but with a learning curve. #AiPA
@@ -43,8 +43,8 @@ My personal software favorites.  All of these are free except for Microsoft Offi
     - [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video. #AiPA
     - [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer. #AiPA
     - [CapCut](https://www.capcut.com/): Video editor free from [TikTok](https://www.tiktok.com/) parent company ByteDance.
-    - [TurboTax](https://turbotax.intuit.com/): Tax preparation software.  Or, as I call it, the Intuit tax.
-    - [Hallmark Card Studio Deluxe](https://www.hallmarksoftware.com/): Greeting card, envelope, and label designer.
+    - [TurboTax](https://turbotax.intuit.com/): Tax preparation software.  Or, as I call it, the Intuit tax.  #NotFree
+    - [Hallmark Card Studio Deluxe](https://www.hallmarksoftware.com/): Greeting card, envelope, and label designer.  #NotFree
 
 - ## Utilities
     - [PeaZip](https://peazip.github.io/): File compression and archiving utility. #AiPA
@@ -67,7 +67,7 @@ My personal software favorites.  All of these are free except for Microsoft Offi
     - [DeX for PC](https://www.samsung.com/ph/support/mobile-devices/how-to-use-samsung-dex-for-pc/): Run Samsung Android phone apps in a window on your PC.  See also Phone Link below.
     - [Java Runtime](https://www.java.com/en/download/windows_manual.jsp): For running programs written in Java that do not include the runtime. #AiPA
     - [VeraCrypt](https://www.veracrypt.fr/): File and disk encryption. #AiPA
-    - [Net Uptime Monitor](https://netuptimemonitor.com/): Simple local network and Internet connection monitor.  Not free.  Looking for free alternative.
+    - [Net Uptime Monitor](https://netuptimemonitor.com/): Simple local network and Internet connection monitor.  #NotFree.  Looking for free alternative.
 
 - ## Windows Built-in and Microsoft Store Apps
     - [Microsoft Store](https://apps.microsoft.com/home?hl=en-us&gl=US): The store for easily-installable Windows apps.
@@ -123,6 +123,6 @@ My personal software favorites.  All of these are free except for Microsoft Offi
     - [PyChess](https://pychess.github.io/): Play chess against built-in engine or people over the Internet.
     - [Scrabble3D](https://sourceforge.net/projects/scrabble/): Free version of the definitive word game.
     - [Domination](https://sourceforge.net/projects/domination/): Risk-like turn-based strategy game.
-    - [Minecraft](https://www.minecraft.net/en-us): Most popular game of all time for a reason.
+    - [Minecraft](https://www.minecraft.net/en-us): Most popular game of all time for a reason. #NotFree
 
 My [(Un)License](UNLICENSE.md) is incorporated herein.
