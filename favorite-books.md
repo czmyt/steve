@@ -10,18 +10,18 @@ My comments in italics.
 
     - [**On Tyranny**: Twenty Lessons from the Twentieth Century](https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119)
         by Timothy Snyder
-        <br />"The Founding Fathers tried to protect us from the threat they knew, the tyranny that overcame ancient democracy. Today, our political order faces new threats, not unlike the totalitarianism of the twentieth century. We are no wiser than the Europeans who saw democracy yield to fascism, Nazism, or communism. Our one advantage is that we might learn from their experience."
-        <br />*Most important book of the 21st century.  This version is great.  Expended audio version better.  Graphic novel version very hard to follow.*
+        - "The Founding Fathers tried to protect us from the threat they knew, the tyranny that overcame ancient democracy. Today, our political order faces new threats, not unlike the totalitarianism of the twentieth century. We are no wiser than the Europeans who saw democracy yield to fascism, Nazism, or communism. Our one advantage is that we might learn from their experience."
+        - ***Most important book of the 21st century.  This version is great.  Expended audio version better.  Graphic novel version very hard to follow.***
 
     - [**On Tyranny (Expanded Audio Edition)**: Updated with Twenty New Lessons from Russia's War on Ukraine](https://www.amazon.com/Tyranny-Expanded-Audio-Updated-Lessons/dp/B09VMR31RT)
         by Timothy Snyder
-        <br />"In this exclusive audiobook edition, which includes eight hours of new content, Snyder combines the original essays from On Tyranny with twenty new lessons that answer the questions everyone is asking about this [Russo-Ukrainian] war."
-        <br />*Recommend this longer audio-only version over the original short book.*
+        - "In this exclusive audiobook edition, which includes eight hours of new content, Snyder combines the original essays from On Tyranny with twenty new lessons that answer the questions everyone is asking about this [Russo-Ukrainian] war."
+        - ***Recommend this longer audio-only version over the original short book.***
 
     - [**The Color of Time**: A New History of the World: 1850-1960](https://www.amazon.com/Color-Time-History-World-1850-1960/dp/1643130544)
         by Dan Jones (Author) and Marina Amaral (Illustrator)
-        <br />"This illustrated narrative is a collaboration between a gifted Brazilian artist and a New York Times bestselling British historian. Marina Amaral has created two hundred stunning images, using rare photographs as the basis for her full-color digital renditions."
-        <br />*Marina's amazing colorizations steal the show.*
+        - "This illustrated narrative is a collaboration between a gifted Brazilian artist and a New York Times bestselling British historian. Marina Amaral has created two hundred stunning images, using rare photographs as the basis for her full-color digital renditions."
+        - ***Marina's amazing colorizations steal the show.***
 
 - ## Medical
 
