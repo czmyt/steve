@@ -6,9 +6,10 @@ Especially ones that I have read more than once, gifted to others, or frequently
 Includes audio book-only releases.
 My comments in italics.
 
-Jump to section: [History / Politics](#History), [Medical](#Medical), [Philosophy / Self Help](#Philosophy), [Reference](#Reference), [Science](#Science), [Technology](#Technology).
+Jump to section: [History / Politics](#history), [Medical](#medical), [Philosophy / Self Help](#philosophy), [Reference](#reference), [Science](#science), [Technology](#technology).
 
-- ## <a name="History">History / Politics</a>
+<a name="history"></a>
+- ## History / Politics
 
     - [**On Tyranny**: Twenty Lessons from the Twentieth Century](https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119)
         by Timothy Snyder
@@ -25,7 +26,8 @@ Jump to section: [History / Politics](#History), [Medical](#Medical), [Philosoph
         <br />"This illustrated narrative is a collaboration between a gifted Brazilian artist and a New York Times bestselling British historian. Marina Amaral has created two hundred stunning images, using rare photographs as the basis for her full-color digital renditions."
         <br />***Marina's amazing colorizations steal the show.***
 
-- ## <a name="Medical">Medical</a>
+<a name="medical"></a>
+- ## Medical
 
     - [**The Survival Medicine Handbook**: The Essential Guide for When Help is NOT on the Way 4th Edition](https://www.amazon.com/Survival-Medicine-Handbook-Essential-Guide-dp-0988872501/dp/0988872501)
         by Joseph Alton MD and Amy Alton APRN
@@ -37,7 +39,8 @@ Jump to section: [History / Politics](#History), [Medical](#Medical), [Philosoph
         <br />"… the most comprehensive, current, and critical resource for clinical practice available to today's mental health clinicians and researchers."
         <br />***Very helpful to understand people and their issues.***
 
-- ## <a name="Philosophy">Philosophy / Self-Help</a>
+<a name="philosophy"></a>
+- ## Philosophy / Self-Help
 
     - [**The Daily Stoic**: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736)
         by Ryan Holiday and Stephen Hanselman
@@ -59,21 +62,24 @@ Jump to section: [History / Politics](#History), [Medical](#Medical), [Philosoph
         <br />"Christina shares their distinctive approach to raising confident, security-conscious, resilient children, giving practical takeaways rooted in CIA tradecraft along the way."
         <br />***Especially appreciate the chapter on writing / how to write.***
 
-- ## <a name="Reference">Reference</a>
+<a name="reference"></a>
+- ## Reference
 
     - [**The Oxford English Dictionary**, Volume 1-20, (20 Volume Set)](https://www.amazon.com/Oxford-English-Dictionary-Vols-1-20/dp/0198611862)
         by John Simpson (Editor) and Edmund Weiner (Editor) (and James Murray, Henry Bradley, William Craigie, and Charles Talbut Onions)
         <br />"In all, nearly 2.5 million quotations--illustrating over a half-million words--can be found in the OED. Other features distinguishing the entries in the dictionary are the most authoritative definitions, detailed information on pronunciation, variant spellings throughout each word's history, extensive treatment of etymology, and details of area of usage and of any regional characteristics (including geographical origins)."
         <br />***"among the wonders of the world of scholarship" indeed.***
 
-- ## <a name="Science">Science</a>
+<a name="science"></a>
+- ## Science
 
     - [**Hothouse Earth**: An Inhabitant’s Guide](https://www.amazon.com/Hothouse-Earth-Inhabitants-Bill-McGuire/dp/1785789201)
         by Bill McGuire
         <br />"provides a … perspective on the climate emergency, acknowledging that it is now practically impossible to keep this side of the 1.5°C dangerous climate change guardrail.  … we can no longer dodge the arrival of disastrous, all-pervasive, climate breakdown that will come as a hammer blow to global society and economy."
         <br />***Assume the worst, prepare for worse, as relates to climate change / disaster / collapse.***
 
-- ## <a name="Technology">Technology</a>
+<a name="technology"></a>
+- ## Technology
 
     - [**The Mythical Man-Month**: Essays on Software Engineering, Anniversary Edition](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
         by Frederick Brooks Jr.
