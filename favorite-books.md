@@ -3,8 +3,8 @@
 
 Some personal favorite books.
 Especially ones that I have read more than once, gifted to others, or frequently refer to.
-My comments in italics.
 Includes audio book-only releases.
+My comments in italics.
 
 - ## History / Politics
 
@@ -30,7 +30,7 @@ Includes audio book-only releases.
         <br />"… a 700 page book that encompasses trauma care, first aid, chronic care, medical procedures, and much more. It’ll be an essential reference for anyone concerned about the uncertain future."
         <br />*The medical reference book for when professional medical care is not available.*
 
-    - [**Diagnostic and Statistical Manual of Mental Disorders, Text Revision Dsm-5-tr** 5th Edition](https://www.amazon.com/Diagnostic-Statistical-Disorders-Revision-Dsm-5-tr/dp/0890425760)
+    - [**Diagnostic and Statistical Manual of Mental Disorders, Text Revision DSM-5-TR** 5th Edition](https://www.amazon.com/Diagnostic-Statistical-Disorders-Revision-Dsm-5-tr/dp/0890425760)
         by American Psychiatric Association
         <br />"… the most comprehensive, current, and critical resource for clinical practice available to today's mental health clinicians and researchers."
         <br />*Very helpful to understand people and their issues.*
