@@ -12,9 +12,10 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [**Signal**](https://signal.org/) to [czmyt.28](https://signal.me/#u/czmyt.28).
 - **Homepage** at [steve.czmyt.com](https://steve.czmyt.com).
 - **Payments** to [Venmo](https://venmo.com/czmyt), [PayPal](https://paypal.me/czmyt), and Google Wallet: Use my email address.
-- My [**Favorite Software**](favorite-software.md) list includes software gems that I rely on.
+- My [**Favorite Software**](favorite-software.md) page includes software gems that I rely on.
 - My [**Tech Notes**](tech-notes/README.md) with tips and tricks for using software.
 - My [**Security Guide**](https://github.com/czmyt/security-guide/blob/main/README.md) has some helpful security tips.
+- My [**Favorite Books**](favorite-books.md) page includes books that I love, gift, and often refer to.
 - My [**Travel Tips**](travel-tips.md) on how to prepare for your adventures.
 - My [**YouTube videos**](https://www.youtube.com/@sczmyt/videos) that I link to from other sites.
 - My [**LinkedIn profile**](https://www.linkedin.com/in/stephen-schmidt-windsor/) about job skills and hobbies.
