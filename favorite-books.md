@@ -47,7 +47,7 @@ Currently listed in alphabetical order.
     <br />"Christina shares their distinctive approach to raising confident, security-conscious, resilient children, giving practical takeaways rooted in CIA tradecraft along the way."
     <br />*Especially appreciate the chapter on writing / how to write.*
 
-- [**The Mythical Man-Month**, The**: Essays on Software Engineering, Anniversary Edition](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+- [**The Mythical Man-Month**: Essays on Software Engineering, Anniversary Edition](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
     by Frederick Brooks Jr.
     <br />With a blend of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing complex projects.
     <br />*A classic, still relevant today, and applicable to more than just software projects.*
