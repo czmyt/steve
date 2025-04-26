@@ -6,7 +6,7 @@ Especially ones that I have read more than once, gifted to others, or frequently
 Includes audio book-only releases.
 My comments in italics.
 
-Jump to section: [History / Politics](#History-Politics), [Technology](#Technology).
+Jump to section: [History / Politics](#History-Politics), [Medical](#Medical), [Philosophy / Self Help](#Philosophy-Self-Help), [Reference](#Reference), [Science](#Science), [Technology](#Technology).
 
 - ## <a name="History-Politics">History / Politics</a>
 
@@ -25,7 +25,7 @@ Jump to section: [History / Politics](#History-Politics), [Technology](#Technolo
         <br />"This illustrated narrative is a collaboration between a gifted Brazilian artist and a New York Times bestselling British historian. Marina Amaral has created two hundred stunning images, using rare photographs as the basis for her full-color digital renditions."
         <br />***Marina's amazing colorizations steal the show.***
 
-- ## Medical
+- ## <a name="Medical">Medical</a>
 
     - [**The Survival Medicine Handbook**: The Essential Guide for When Help is NOT on the Way 4th Edition](https://www.amazon.com/Survival-Medicine-Handbook-Essential-Guide-dp-0988872501/dp/0988872501)
         by Joseph Alton MD and Amy Alton APRN
@@ -37,7 +37,7 @@ Jump to section: [History / Politics](#History-Politics), [Technology](#Technolo
         <br />"… the most comprehensive, current, and critical resource for clinical practice available to today's mental health clinicians and researchers."
         <br />***Very helpful to understand people and their issues.***
 
-- ## Philosophy / Self-Help
+- ## <a name="Philosophy-Self-Help">Philosophy / Self-Help</a>
 
     - [**The Daily Stoic**: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736)
         by Ryan Holiday and Stephen Hanselman
@@ -59,14 +59,14 @@ Jump to section: [History / Politics](#History-Politics), [Technology](#Technolo
         <br />"Christina shares their distinctive approach to raising confident, security-conscious, resilient children, giving practical takeaways rooted in CIA tradecraft along the way."
         <br />***Especially appreciate the chapter on writing / how to write.***
 
-- ## Reference
+- ## <a name="Reference">Reference</a>
 
     - [**The Oxford English Dictionary**, Volume 1-20, (20 Volume Set)](https://www.amazon.com/Oxford-English-Dictionary-Vols-1-20/dp/0198611862)
         by John Simpson (Editor) and Edmund Weiner (Editor) (and James Murray, Henry Bradley, William Craigie, and Charles Talbut Onions)
         <br />"In all, nearly 2.5 million quotations--illustrating over a half-million words--can be found in the OED. Other features distinguishing the entries in the dictionary are the most authoritative definitions, detailed information on pronunciation, variant spellings throughout each word's history, extensive treatment of etymology, and details of area of usage and of any regional characteristics (including geographical origins)."
         <br />***"among the wonders of the world of scholarship" indeed.***
 
-- ## Science
+- ## <a name="Science">Science</a>
 
     - [**Hothouse Earth**: An Inhabitant’s Guide](https://www.amazon.com/Hothouse-Earth-Inhabitants-Bill-McGuire/dp/1785789201)
         by Bill McGuire
