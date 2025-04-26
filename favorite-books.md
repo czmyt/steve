@@ -32,6 +32,11 @@ Currently listed in alphabetical order.
     <br />"What does a woman do when her life has fallen apart and her heart has been ripped out and stepped on twice in two months? She goes on a wild adventure, makes some bad decisions, and does a sh*t load of soul searching."
     <br />*A very interesting story of her solo trip to Europe and her journey to forget, find herself, something.*
 
+- [**Encyclopedia of Database Systems** 2nd Edition](https://www.amazon.com/Encyclopedia-Database-Systems-Ling-Liu-ebook/dp/B07FXTBD1P)
+    by Ling Liu (Editor) and M. Tamer Özsu (Editor)
+    <br />"… provides easy access to crucial concepts relevant to all aspects of very large databases, data management, and database systems, including areas of current interest and research results of historical significance."
+    <br />*Very comprehensive encyclopedia focused on databases.*
+
 - [**Hothouse Earth**: An Inhabitant’s Guide](https://www.amazon.com/Hothouse-Earth-Inhabitants-Bill-McGuire/dp/1785789201)
     by Bill McGuire:
     <br />"provides a … perspective on the climate emergency, acknowledging that it is now practically impossible to keep this side of the 1.5°C dangerous climate change guardrail.  … we can no longer dodge the arrival of disastrous, all-pervasive, climate breakdown that will come as a hammer blow to global society and economy."
@@ -41,6 +46,11 @@ Currently listed in alphabetical order.
     by Christina Hillsberg with Ryan Hillsberg:
     <br />"Christina shares their distinctive approach to raising confident, security-conscious, resilient children, giving practical takeaways rooted in CIA tradecraft along the way."
     <br />*Especially appreciate the chapter on writing / how to write.*
+
+- [**The Mythical Man-Month**, The**: Essays on Software Engineering, Anniversary Edition](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+    by Frederick Brooks Jr.
+    <br />With a blend of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing complex projects.
+    <br />*A classic, still relevant today, and applicable to more than just software projects.*
 
 - [**On Tyranny**: Twenty Lessons from the Twentieth Century](https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119)
     by Timothy Snyder:
@@ -56,5 +66,10 @@ Currently listed in alphabetical order.
     by John Simpson (Editor) and Edmund Weiner (Editor) (and James Murray, Henry Bradley, William Craigie, and Charles Talbut Onions)
     <br />"In all, nearly 2.5 million quotations--illustrating over a half-million words--can be found in the OED. Other features distinguishing the entries in the dictionary are the most authoritative definitions, detailed information on pronunciation, variant spellings throughout each word's history, extensive treatment of etymology, and details of area of usage and of any regional characteristics (including geographical origins)."
     <br />*"among the wonders of the world of scholarship" indeed.*
+
+- [**The Survival Medicine Handbook**: The Essential Guide for When Help is NOT on the Way 4th Edition](https://www.amazon.com/Survival-Medicine-Handbook-Essential-Guide-dp-0988872501/dp/0988872501)
+    by Joseph Alton MD and Amy Alton APRN
+    <br />"… a 700 page book that encompasses trauma care, first aid, chronic care, medical procedures, and much more. It’ll be an essential reference for anyone concerned about the uncertain future."
+    <br />*The medical reference book for when professional medical care is not available.*
 
 Copyright 2025 Stephen Schmidt.  All rights reserved.
