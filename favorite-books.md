@@ -6,9 +6,9 @@ Especially ones that I have read more than once, gifted to others, or frequently
 Includes audio book-only releases.
 My comments in italics.
 
-Jump to section: [History / Politics](#History-Politics), [Medical](#Medical), [Philosophy / Self Help](#Philosophy-Self-Help), [Reference](#Reference), [Science](#Science), [Technology](#Technology).
+Jump to section: [History / Politics](#History), [Medical](#Medical), [Philosophy / Self Help](#Philosophy), [Reference](#Reference), [Science](#Science), [Technology](#Technology).
 
-- ## <a name="History-Politics">History / Politics</a>
+- ## <a name="History">History / Politics</a>
 
     - [**On Tyranny**: Twenty Lessons from the Twentieth Century](https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119)
         by Timothy Snyder
@@ -37,7 +37,7 @@ Jump to section: [History / Politics](#History-Politics), [Medical](#Medical), [
         <br />"… the most comprehensive, current, and critical resource for clinical practice available to today's mental health clinicians and researchers."
         <br />***Very helpful to understand people and their issues.***
 
-- ## <a name="Philosophy-Self-Help">Philosophy / Self-Help</a>
+- ## <a name="Philosophy">Philosophy / Self-Help</a>
 
     - [**The Daily Stoic**: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736)
         by Ryan Holiday and Stephen Hanselman
