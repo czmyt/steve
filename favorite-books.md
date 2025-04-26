@@ -22,6 +22,11 @@ Currently listed in alphabetical order.
     <br />"… offers 366 days of Stoic insights and exercises….  Every day of the year you'll find one of their pithy, powerful quotations, as well as historical anecdotes, provocative commentary …."
     <br />*Philosophy that has stood the test of time, in bite-sized pieces.*
 
+- [**Diagnostic and Statistical Manual of Mental Disorders, Text Revision Dsm-5-tr** 5th Edition](https://www.amazon.com/Diagnostic-Statistical-Disorders-Revision-Dsm-5-tr/dp/0890425760)
+    by American Psychiatric Association
+    <br />"… the most comprehensive, current, and critical resource for clinical practice available to today's mental health clinicians and researchers."
+    <br />*Very helpful to understand people and their issues.*
+
 - [**Eat, Pray, #FML**: a story of love, heartbreak, and sour searching](https://www.amazon.com/dp/1733963707)
     by Gabrielle Stone:
     <br />"What does a woman do when her life has fallen apart and her heart has been ripped out and stepped on twice in two months? She goes on a wild adventure, makes some bad decisions, and does a sh*t load of soul searching."
@@ -46,5 +51,10 @@ Currently listed in alphabetical order.
     by Timothy Snyder:
     <br />"In this exclusive audiobook edition, which includes eight hours of new content, Snyder combines the original essays from On Tyranny with twenty new lessons that answer the questions everyone is asking about this [Russo-Ukrainian] war."
     <br />*Recommend this longer audio-only version over the original short book.*
+
+- [**The Oxford English Dictionary**, Volume 1-20, (20 Volume Set)](https://www.amazon.com/Oxford-English-Dictionary-Vols-1-20/dp/0198611862)
+    by John Simpson (Editor) and Edmund Weiner (Editor) (and James Murray, Henry Bradley, William Craigie, and Charles Talbut Onions)
+    <br />"In all, nearly 2.5 million quotations--illustrating over a half-million words--can be found in the OED. Other features distinguishing the entries in the dictionary are the most authoritative definitions, detailed information on pronunciation, variant spellings throughout each word's history, extensive treatment of etymology, and details of area of usage and of any regional characteristics (including geographical origins)."
+    <br />*"among the wonders of the world of scholarship" indeed.*
 
 Copyright 2025 Stephen Schmidt.  All rights reserved.
