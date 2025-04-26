@@ -2,11 +2,17 @@
 # Favorite Books -- [Steve Schmidt](https://steve.czmyt.com)
 
 Some personal favorite books.
-Especially ones that I have read more than once, gifted to others, or frequently refer to.
+Especially ones that I have read more than once, gifted to others, and / or frequently refer to.
 Includes audio book-only releases.
 My comments in italics.
 
-Jump to section: [History / Politics](#history--politics), [Medical](#medical), [Philosophy / Self Help](#philosophy--self-help), [Reference](#reference), [Science](#science), [Technology](#technology).
+Jump to:
+    [History / Politics](#history--politics),
+    [Medical](#medical),
+    [Philosophy / Self Help](#philosophy--self-help),
+    [Reference](#reference),
+    [Science](#science),
+    [Technology](#technology).
 
 - ## History / Politics
 
