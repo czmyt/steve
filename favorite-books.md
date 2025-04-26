@@ -5,7 +5,7 @@ Some personal favorite books.
 Especially ones that I have read more than once, gifted to others, or frequently refer to.
 My comments in italics.
 Includes audio book-only releases.
-Currently listed in alphabetical order.
+Currently listed in alphabetical order by title.
 
 - [**Before & Laughter**: A Life-Changing Book](https://www.amazon.com/Before-Laughter-Life-Changing-Jimmy-Carr/dp/B09HG18CYW)
     by Jimmy Carr
