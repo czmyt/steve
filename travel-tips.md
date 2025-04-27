@@ -72,6 +72,7 @@ Some initial thoughts on how I prepare for travel, with more specifics to follow
     - Regularly upgrade your travel gear.
         Keep the best gear in your travel packs until you have received and tested any new gear.
 
+<!--
 
 # Unorganized Topics to Expand Upon
 
@@ -94,5 +95,7 @@ Some initial thoughts on how I prepare for travel, with more specifics to follow
 - Sleep when you can.
 - Emergency outfit.
 - Things to avoid in jackets: heavy, water absorbing.
+
+-->
 
 Copyright 2024-2025 Stephen Schmidt.  All rights reserved.
