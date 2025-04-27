@@ -5,11 +5,23 @@ My personal software favorites.  All of these are free except the ones tagged #N
 <br />I install and configure many of these apps on every Windows workstation computer I setup for myself.
 <br />See also my [Tech Notes](tech-notes/README.md) page for software notes, tips, and tricks.
 
+Jump to:
+    [Collections](#collections),
+    [Web Browsers](#web),
+    [Office / Editors / Designers / Viewers](#office),
+    [Utilities](#utilities),
+    [Windows Built-iin and Microsoft Store Apps](#windows),
+    [Programming / Database / Analysis](#programming),
+    [Specialized Tools](#specialized),
+    [Recreation / Games](#recreation).
+
+<a name="collections"></a>
 - ## Collections
     - [PortableApps](https://portableapps.com/): Portable versions of over 500 free apps.
         <br />#AiPA ("Available in PortableApps") marks those apps below that can be installed by themselves or downloaded and used through the PortableApps system.
     - [The Best Free Software for 2024](https://www.pcmag.com/picks/best-free-software): List from PC Mag(azine) with some other great apps I use occasionally.
 
+<a name="web"></a>
 - ## Web Browsers
     - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): My main Web browser.  Use its sync feature to sync bookmarks, passwords, etc. between computers. #AiPA
         <br />Favorite extensions:
@@ -19,6 +31,7 @@ My personal software favorites.  All of these are free except the ones tagged #N
     - [Tor Browser](https://www.torproject.org/download/): Web browsing as anonymous as it gets.
     - [Google Chrome](https://www.google.com/chrome/index.html): A must-have for websites that misbehave in Firefox. #AiPA
 
+<a name="office"></a>
 - ## Office / Editors / Designers / Viewers
     - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  See also the free LibreOffice next.  #NotFree
     - [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office. #AiPA
@@ -46,6 +59,7 @@ My personal software favorites.  All of these are free except the ones tagged #N
     - [TurboTax](https://turbotax.intuit.com/): Tax preparation software.  Or, as I call it, the Intuit tax.  #NotFree
     - [Hallmark Card Studio Deluxe](https://www.hallmarksoftware.com/): Greeting card, envelope, and label designer.  #NotFree
 
+<a name="utilities"></a>
 - ## Utilities
     - [PeaZip](https://peazip.github.io/): File compression and archiving utility. #AiPA
     - [Resilio Sync](https://www.resilio.com/sync/): Synchronize file folders between computers without a server.
@@ -69,6 +83,7 @@ My personal software favorites.  All of these are free except the ones tagged #N
     - [VeraCrypt](https://www.veracrypt.fr/): File and disk encryption. #AiPA
     - [Net Uptime Monitor](https://netuptimemonitor.com/): Simple local network and Internet connection monitor.  Looking for free alternative.  #NotFree
 
+<a name="windows"></a>
 - ## Windows Built-in and Microsoft Store Apps
     - [Microsoft Store](https://apps.microsoft.com/home?hl=en-us&gl=US): The store for easily-installable Windows apps.
     - [Phone Link](https://www.microsoft.com/en-us/windows/sync-across-your-devices): Make phone calls, send & receive texts, access smartphone apps in Windows.  See also DeX for PC above.
@@ -81,6 +96,7 @@ My personal software favorites.  All of these are free except the ones tagged #N
     - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/): A lightweight, isolated desktop environment for safely running software.
     - [Clock](https://apps.microsoft.com/detail/9wzdncrfj3pr?hl=en-us&gl=US): World Clock with sun map especially useful.
 
+<a name="programming"></a>
 - ## Programming / Database / Analysis
     - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
     - [Vim](https://www.vim.org/): Windows version of the UNIX vi text editor includes a graphical interface.
@@ -101,6 +117,7 @@ My personal software favorites.  All of these are free except the ones tagged #N
     - [Math.js](https://mathjs.org/): Amazing library of math functions written in JavaScript.
     - [CyberChef](https://github.com/gchq/CyberChef): The Cyber Swiss Army Knife of useful operations.  [Try it here.](https://gchq.github.io/CyberChef/)
 
+<a name="specialized"></a>
 - ## Specialized Tools
     - [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/): For when memory cards cannot be formatted by Windows due to corrupt info.
     - [SSL Manager](https://www.ssl.com/ssl-manager/): Superior tool for managing and understanding SSL security certificates.
@@ -108,6 +125,7 @@ My personal software favorites.  All of these are free except the ones tagged #N
         - [Unique Utilities](https://www.softwareok.com/): Other useful utilities from Nenad Hrg.
     - [HP-1973](https://sarahkmarr.com/retrohp1973.html): Amazing HP-45 calculator emulator that shows its internal workings.
 
+<a name="recreation"></a>
 - ## Recreation / Games
     - [Visual Pinball](https://www.vpforums.org/): Amazing pinball machine simulator / player and designer / editor.
     - [ScummVM](https://www.scummvm.org/): Run classic graphical adventure and role-playing games.
