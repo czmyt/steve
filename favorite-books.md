@@ -12,6 +12,7 @@ Jump to:
     [Philosophy / Self Help](#philosophy--self-help),
     [Reference](#reference),
     [Science](#science),
+    [Sociology / Crime](#sociology--crime),
     [Technology](#technology).
 
 - ## History / Politics
@@ -72,12 +73,38 @@ Jump to:
         <br />"In all, nearly 2.5 million quotations--illustrating over a half-million words--can be found in the OED. Other features distinguishing the entries in the dictionary are the most authoritative definitions, detailed information on pronunciation, variant spellings throughout each word's history, extensive treatment of etymology, and details of area of usage and of any regional characteristics (including geographical origins)."
         <br />***"among the wonders of the world of scholarship" indeed.***
 
+    - [**The Associated Press Stylebook**: 2024-2026](https://www.amazon.com/Associated-Press-Stylebook-2024-2026/dp/154160511X)
+        by The Associated Press
+        <br />"Master the style guidelines of newswriting, editing and common usage with this indispensable guide perfect for professional writers and students everywhere"
+        <br />***Also an indispensable guide to useful miscellaneous information.***
+
+    - [**The Slang of Sin** 1st Edition](https://www.amazon.com/Slang-Sin-Lighter-Side-Language/dp/0877796270)
+        by Tom Dalzell
+        <br />"Lists and defines the terminology used in association with such vices as drinking, sex, drugs, and gambling"
+        <br />***The most readable of his slang dictionaries due to its organization by subject instead of purely alphabetical.***
+
+    - [**Rand McNally 2025 Deluxe Motor Carriers' Road Atlas**](https://www.amazon.com/Generic-McNally-Carriers-Truckers-Laminated/dp/B0DBNZDLR1)
+        <br />"The #1 selling trucker’s road atlas in North America is as tough as the rig you’re driving."
+        <br />***Helpful to see the overview of your roadtrip.  Laminated pages, one or more large pages per state, with metro area detail maps.***
+
 - ## Science
 
     - [**Hothouse Earth**: An Inhabitant’s Guide](https://www.amazon.com/Hothouse-Earth-Inhabitants-Bill-McGuire/dp/1785789201)
         by Bill McGuire
         <br />"provides a … perspective on the climate emergency, acknowledging that it is now practically impossible to keep this side of the 1.5°C dangerous climate change guardrail.  … we can no longer dodge the arrival of disastrous, all-pervasive, climate breakdown that will come as a hammer blow to global society and economy."
         <br />***Assume the worst, prepare for worse, as relates to climate change / disaster / collapse.***
+
+- ## Sociology / Crime
+
+    - [**400 Things Cops Know**: Street-Smart Lessons from a Veteran Patrolman](https://www.amazon.com/400-Things-Cops-Know-Street-Smart/dp/1610352173)
+        by Adam Plantinga
+        <br />"Plantinga shows what cops experience of death, the legal system, violence, prostitution, drug use, the social causes and consequences of crime, alcoholism, and more."
+        <br />***These are things that everyone should know about the gritty job of police work and the people they come into contact with.***
+
+    - [**Murder Investigation Team: Jack the Ripper**: A 21st Century Investigation](https://www.amazon.com/Murder-Investigation-Team-Investigating-Investigator/dp/1684816599)
+        by Steven Keogh
+        <br />"Ex-detective and true crime consultant Steven Keogh shares how today’s investigation methods and technology would solve the world’s most famous cold case."
+        <br />***Combination modern-day reinvestigation of the Jack the Ripper case and description of modern criminal investigation techniques.***
 
 - ## Technology
 
@@ -89,6 +116,6 @@ Jump to:
     - [**Encyclopedia of Database Systems** 2nd Edition](https://www.amazon.com/Encyclopedia-Database-Systems-Ling-Liu-ebook/dp/B07FXTBD1P)
         by Ling Liu (Editor) and M. Tamer Özsu (Editor)
         <br />"… provides easy access to crucial concepts relevant to all aspects of very large databases, data management, and database systems, including areas of current interest and research results of historical significance."
-        <br />***Very comprehensive encyclopedia focused on databases.***
+        <br />***Very comprehensive encyclopedia focused on database management.***
 
 Copyright 2025 Stephen Schmidt.  All rights reserved.
