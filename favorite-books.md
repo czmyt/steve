@@ -21,7 +21,7 @@ Jump to:
     - [**On Tyranny**: Twenty Lessons from the Twentieth Century](https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119)
         by Timothy Snyder
         <br />"The Founding Fathers tried to protect us from the threat they knew, the tyranny that overcame ancient democracy. Today, our political order faces new threats, not unlike the totalitarianism of the twentieth century. We are no wiser than the Europeans who saw democracy yield to fascism, Nazism, or communism. Our one advantage is that we might learn from their experience."
-        <br />***Most important book of the 21st century.  This version is great.  Expended audio version better.  Graphic novel version very hard to follow.***
+        <br />***Most important book of the 21st century.  This version is great.  Expanded audio version better.  Graphic novel version very hard to follow.***
 
     - [**On Tyranny (Expanded Audio Edition)**: Updated with Twenty New Lessons from Russia's War on Ukraine](https://www.amazon.com/Tyranny-Expanded-Audio-Updated-Lessons/dp/B09VMR31RT)
         by Timothy Snyder
