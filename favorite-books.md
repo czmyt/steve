@@ -2,7 +2,7 @@
 # Favorite Books -- [Steve Schmidt](https://steve.czmyt.com)
 
 Some personal favorite books.
-Especially ones that I have read more than once, gifted to others, and / or frequently refer to.
+Especially ones that I have read or listened to more than once, gifted to others, and / or frequently refer to.
 Includes audio book-only releases.
 My comments in italics.
 
@@ -26,6 +26,11 @@ Jump to:
         by Timothy Snyder
         <br />"In this exclusive audiobook edition, which includes eight hours of new content, Snyder combines the original essays from On Tyranny with twenty new lessons that answer the questions everyone is asking about this [Russo-Ukrainian] war."
         <br />***Recommend this longer audio-only version over the original short book.***
+
+    - [**Big History**: The Big Bang, Life on Earth, and the Rise of Humanity](https://www.amazon.com/Big-History-Bang-Earth-Humanity/dp/B00DTNW86O)
+        Audible audiobook original recording by David Christian (Narrator, Author) and The Great Courses (Author, Publisher)
+        <br />"How is it possible for the disciplines of cosmology, geology, anthropology, biology, and history to fit together? These 48 lectures answer that question by weaving a single story from accounts of the past developed by a variety of scholarly disciplines."
+        <br />***If you only ever listen to one thing about history, let it be this Great Course that covers it all.***
 
     - [**The Weaponisation of Everything**: A Field Guide to the New Way of War](https://www.amazon.com/Weaponisation-Everything-Field-Guide-New/dp/0300270410)
         by Mark Galeotti
@@ -109,6 +114,11 @@ Jump to:
         <br />"provides a … perspective on the climate emergency, acknowledging that it is now practically impossible to keep this side of the 1.5°C dangerous climate change guardrail.  … we can no longer dodge the arrival of disastrous, all-pervasive, climate breakdown that will come as a hammer blow to global society and economy."
         <br />***Assume the worst, prepare for worse, as relates to climate change / disaster / collapse.***
 
+    - [**Black Holes, Tides, and Curved Spacetime**](https://www.amazon.com/Black-Holes-Tides-Curved-Spacetime/dp/B07K8XM4XJ)
+        Audible audiobook original recording by Benjamin Schumacher (Author, Narrator) and The Great Courses (Author, Publisher)
+        <br />"Become immersed in the fascinating study of gravity, experiencing the scientific breakthroughs alongside the great minds of physics: Galileo, Newton, Cavendish, Einstein, Hubble, Hawking, and more."
+        <br />***The best explanation of the many strange facets of gravity for non-scientists.***
+
 - ## Sociology / Crime
 
     - [**400 Things Cops Know**: Street-Smart Lessons from a Veteran Patrolman](https://www.amazon.com/400-Things-Cops-Know-Street-Smart/dp/1610352173)
@@ -130,6 +140,16 @@ Jump to:
         by Catt Dahman
         <br />"The mysteries surrounding the deaths of nine young, experienced ski hikers in 1959 have never been solved.  Dyatlov Nine: Death Below Zero offers a theory that fits all the evidence including diaries, forensics, and photographs."
         <br />***Best book on the enduring mystery I think, and I agree with its conclusion.***
+
+    - [**The Storm Is Upon Us**: How QAnon Became a Movement, Cult, and Conspiracy Theory of Everything](https://www.amazon.com/Storm-Upon-Us-Conspiracy-Everything/dp/1685890180)
+        by Mike Rothschild
+        <br />"Its messaging can seem cryptic, even nonsensical, yet for tens of thousands of people, it explains everything:  What is QAnon, where did it come from, and is the Capitol insurgency a sign of where it’s going next?"
+        <br />***This subject matter is so crazy, reading about it in Mike's book is similar to experiencing an acid trip.***
+
+    - [**Pastels and Pedophiles**: Inside the Mind of QAnon](https://www.amazon.com/Pastels-Pedophiles-Inside-Mind-QAnon/dp/1503630293)
+        by Mia Bloom and Sophia Moskalenko
+        <br />"Two experts of extremist radicalization take us down the QAnon rabbit hole, exposing how the conspiracy theory ensnared countless Americans, and show us a way back to sanity."
+        <br />***The only other book about QAnon worth reading, it contains advice on helping family and friends out of the cult.***
 
 - ## Technology
 
