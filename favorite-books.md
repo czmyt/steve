@@ -27,10 +27,20 @@ Jump to:
         <br />"In this exclusive audiobook edition, which includes eight hours of new content, Snyder combines the original essays from On Tyranny with twenty new lessons that answer the questions everyone is asking about this [Russo-Ukrainian] war."
         <br />***Recommend this longer audio-only version over the original short book.***
 
+    - [**The Weaponisation of Everything**: A Field Guide to the New Way of War](https://www.amazon.com/Weaponisation-Everything-Field-Guide-New/dp/0300270410)
+        by Mark Galeotti
+        <br />" In an age when America threatens Europe with sanctions, and when China spends billions buying influence abroad, the world is heading for a new era of permanent low-level conflict, often unnoticed, undeclared, and unending."
+        <br />***I think about all relations between nations, civil authorities, private institutions, businesses, and people in terms of their weaponisation.***
+
     - [**The Color of Time**: A New History of the World: 1850-1960](https://www.amazon.com/Color-Time-History-World-1850-1960/dp/1643130544)
         by Dan Jones (Author) and Marina Amaral (Illustrator)
         <br />"This illustrated narrative is a collaboration between a gifted Brazilian artist and a New York Times bestselling British historian. Marina Amaral has created two hundred stunning images, using rare photographs as the basis for her full-color digital renditions."
         <br />***Marina's amazing colorizations steal the show.***
+
+    - [**Deep Black**: Space Espionage and National Security](https://www.amazon.com/Deep-Black-Espionage-National-Security/dp/0394541243)
+        by William E. Burrows
+        <br />"Examines how space technology is being used for espionage, discusses the clashes between the Air Force and the CIA for control of the vast system, and details the rivalry between Washington and Moscow."
+        <br />***Excellent coverage of the Cold War as fought in space.***
 
 - ## Medical
 
@@ -43,6 +53,11 @@ Jump to:
         by American Psychiatric Association
         <br />"… the most comprehensive, current, and critical resource for clinical practice available to today's mental health clinicians and researchers."
         <br />***Very helpful to understand people and their issues.***
+
+    - [**The Society of Mind**](https://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135)
+        by Marvin Minsky
+        <br />"Minsky brilliantly portrays the mind as a 'society' of tiny components that are themselves mindless."
+        <br />***Fascinating theory about how the mind works at many different levels.***
 
 - ## Philosophy / Self-Help
 
@@ -105,6 +120,16 @@ Jump to:
         by Steven Keogh
         <br />"Ex-detective and true crime consultant Steven Keogh shares how today’s investigation methods and technology would solve the world’s most famous cold case."
         <br />***Combination modern-day reinvestigation of the Jack the Ripper case and description of modern criminal investigation techniques.***
+
+    - [**Corrections in Ink**](https://www.amazon.com/Corrections-Ink-Memoir-Keri-Blakinger/dp/1250774357)
+        by Keri Blakinger
+        <br />"An electric and unforgettable memoir about a young woman's journey-from the ice rink, to addiction and a prison sentence, to the newsroom-and how she emerged with a fierce determination to expose the broken system she experienced."
+        <br />***Powerful memoir, especially the parts about her experience in different women's jails / prisons.***
+
+    - [**Dyatlov Nine**: Death Below Zero](https://www.amazon.com/Dyatlov-Nine-Death-Below-Zero/dp/1097571149)
+        by Catt Dahman
+        <br />"The mysteries surrounding the deaths of nine young, experienced ski hikers in 1959 have never been solved.  Dyatlov Nine: Death Below Zero offers a theory that fits all the evidence including diaries, forensics, and photographs."
+        <br />***Best book on the subjectenduring mystery I think and I agree with its conclusion.***
 
 - ## Technology
 
