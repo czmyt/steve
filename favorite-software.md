@@ -11,8 +11,8 @@ Jump to:
     § [Office / Editors / Designers / Viewers](#office),
     § [Utilities](#utilities),
     § [Windows Built-iin and Microsoft Store Apps](#windows),
-    § [Programming / Database / Analysis](#programming),
-    § [Specialized Tools](#specialized),
+    §&nbsp;[Programming / Database / Analysis](#programming),
+    §&nbsp;[Specialized Tools](#specialized),
     § [Recreation / Games](#recreation).
 
 <a name="collections"></a>
