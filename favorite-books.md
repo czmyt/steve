@@ -74,7 +74,7 @@ Jump to:
     - [**Eat, Pray, #FML**: a story of love, heartbreak, and sour searching](https://www.amazon.com/dp/1733963707)
         by Gabrielle Stone
         <br />"What does a woman do when her life has fallen apart and her heart has been ripped out and stepped on twice in two months? She goes on a wild adventure, makes some bad decisions, and does a sh*t load of soul searching."
-        <br />***A very interesting story of her solo trip to Europe and her journey to forget, find herself, something.***
+        <br />***A very interesting story of her solo trip to Europe and her journey to forget and to find herself.***
 
     - [**License to Parent**: How My Career As a Spy Helped Me Raise Resourceful, Self-Sufficient Kids](https://www.amazon.com/License-Parent-Career-Resourceful-Self-Sufficient/dp/0593191110)
         by Christina Hillsberg with Ryan Hillsberg
@@ -86,7 +86,7 @@ Jump to:
     - [**The Oxford English Dictionary**, Volume 1-20, (20 Volume Set)](https://www.amazon.com/Oxford-English-Dictionary-Vols-1-20/dp/0198611862)
         by John Simpson (Editor) and Edmund Weiner (Editor) (and James Murray, Henry Bradley, William Craigie, and Charles Talbut Onions)
         <br />"In all, nearly 2.5 million quotations--illustrating over a half-million words--can be found in the OED. Other features distinguishing the entries in the dictionary are the most authoritative definitions, detailed information on pronunciation, variant spellings throughout each word's history, extensive treatment of etymology, and details of area of usage and of any regional characteristics (including geographical origins)."
-        <br />***"among the wonders of the world of scholarship" indeed.***
+        <br />***"Among the wonders of the world of scholarship" indeed.***
 
     - [**The Associated Press Stylebook**: 2024-2026](https://www.amazon.com/Associated-Press-Stylebook-2024-2026/dp/154160511X)
         by The Associated Press
@@ -129,7 +129,7 @@ Jump to:
     - [**Dyatlov Nine**: Death Below Zero](https://www.amazon.com/Dyatlov-Nine-Death-Below-Zero/dp/1097571149)
         by Catt Dahman
         <br />"The mysteries surrounding the deaths of nine young, experienced ski hikers in 1959 have never been solved.  Dyatlov Nine: Death Below Zero offers a theory that fits all the evidence including diaries, forensics, and photographs."
-        <br />***Best book on the subjectenduring mystery I think and I agree with its conclusion.***
+        <br />***Best book on the enduring mystery I think, and I agree with its conclusion.***
 
 - ## Technology
 
