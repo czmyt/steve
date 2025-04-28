@@ -6,14 +6,14 @@ My personal software favorites.  All of these are free except the ones tagged #N
 <br />See also my [Tech Notes](tech-notes/README.md) page for software notes, tips, and tricks.
 
 Jump to:
-    § [Collections](#collections),
-    § [Web Browsers](#web),
-    § [Office / Editors / Designers / Viewers](#office),
-    § [Utilities](#utilities),
-    § [Windows Built-iin and Microsoft Store Apps](#windows),
+    §&nbsp;[Collections](#collections),
+    §&nbsp;[Web Browsers](#web),
+    §&nbsp;[Office / Editors / Designers / Viewers](#office),
+    §&nbsp;[Utilities](#utilities),
+    §&nbsp;[Windows Built-iin and Microsoft Store Apps](#windows),
     §&nbsp;[Programming / Database / Analysis](#programming),
     §&nbsp;[Specialized Tools](#specialized),
-    § [Recreation / Games](#recreation).
+    §&nbsp;[Recreation / Games](#recreation).
 
 <a name="collections"></a>
 - ## Collections
