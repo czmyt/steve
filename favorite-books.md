@@ -8,13 +8,13 @@ Includes audio book-only releases.
 My comments in italics.
 
 Jump to:
-    [History / Politics](#history--politics),
-    [Medical](#medical),
-    [Philosophy / Self Help](#philosophy--self-help),
-    [Reference](#reference),
-    [Science](#science),
-    [Sociology / Crime](#sociology--crime),
-    [Technology](#technology).
+    § [History / Politics](#history--politics),
+    § [Medical](#medical),
+    § [Philosophy / Self Help](#philosophy--self-help),
+    § [Reference](#reference),
+    § [Science](#science),
+    § [Sociology / Crime](#sociology--crime),
+    § [Technology](#technology).
 
 - ## History / Politics
 
