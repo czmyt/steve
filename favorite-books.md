@@ -3,6 +3,7 @@
 
 Some personal favorite books.
 Especially ones that I have read or listened to more than once, gifted to others, and / or frequently refer to.
+All non-fiction titles for now.
 Includes audio book-only releases.
 My comments in italics.
 
@@ -93,6 +94,16 @@ Jump to:
         <br />"In all, nearly 2.5 million quotations--illustrating over a half-million words--can be found in the OED. Other features distinguishing the entries in the dictionary are the most authoritative definitions, detailed information on pronunciation, variant spellings throughout each word's history, extensive treatment of etymology, and details of area of usage and of any regional characteristics (including geographical origins)."
         <br />***"Among the wonders of the world of scholarship" indeed.***
 
+        - [**The Meaning of Everything**: The Story of the Oxford English Dictionary 2nd Edition](https://www.amazon.com/Meaning-Everything-Oxford-English-Dictionary/dp/0198814399)
+            by Simon Winchester
+            <br />"'The greatest enterprise of its kind in history'  With its 15,490 pages and nearly two million quotations, it was indeed a monumental achievement, gleaned from the efforts of hundreds of ordinary and extraordinary people who made it their mission to catalogue the English language in its entirety."
+            <br />***The fascinating story of one of the greatest books ever written.***
+
+        - [**A Guide to the Oxford English Dictionary** First Edition](https://www.amazon.com/Guide-Oxford-English-Dictionary/dp/0198691793)
+            by Donna Lee Berg
+            <br />"This is a clear and precise guide, a handbook to a reference book, a 'learner' to a great well of knowledge, or, using a new phase, recently coined, 'a good knowledge analyzer.'"
+            <br />***An important companion to get the most out of the Oxford English Dictionary.***
+
     - [**The Associated Press Stylebook**: 2024-2026](https://www.amazon.com/Associated-Press-Stylebook-2024-2026/dp/154160511X)
         by The Associated Press
         <br />"Master the style guidelines of newswriting, editing and common usage with this indispensable guide perfect for professional writers and students everywhere"
@@ -117,7 +128,7 @@ Jump to:
     - [**Black Holes, Tides, and Curved Spacetime**](https://www.amazon.com/Black-Holes-Tides-Curved-Spacetime/dp/B07K8XM4XJ)
         Audible audiobook original recording by Benjamin Schumacher (Author, Narrator) and The Great Courses (Author, Publisher)
         <br />"Become immersed in the fascinating study of gravity, experiencing the scientific breakthroughs alongside the great minds of physics: Galileo, Newton, Cavendish, Einstein, Hubble, Hawking, and more."
-        <br />***The best explanation of the many strange facets of gravity for non-scientists.***
+        <br />***The best explanation for non-scientists of the many strange facets of gravity.***
 
 - ## Sociology / Crime
 
