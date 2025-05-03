@@ -13,19 +13,19 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-	* Application means the software program provided by the Company accesses by You on any electronic device.
+- Application means the software program provided by the Company accesses by You on any electronic device.
 
-	* Jurisdiction refers to: Michigan, United States
+- Jurisdiction refers to: Michigan, United States
 
-	* Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to the Application.
+- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to the Application.
 
-	* Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+- Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
-	* Service refers to the Application.
+- Service refers to the Application.
 
-	* Terms and Conditions (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
+- Terms and Conditions (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
 
-	* You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+- You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 Acknowledgment  
 --------------
@@ -102,4 +102,4 @@ Contact Us
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-	* By email: steve@czmyt.com
+- By email: steve@czmyt.com
