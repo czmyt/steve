@@ -15,4 +15,4 @@
     ```
 
 Copyright 2025 Stephen Schmidt.  All rights reserved.
-These [Terms and Conditions](https://github.com/czmyt/steve/blob/main/terms-and-conditions.md) are incorporated herein.
+<br />These [Terms and Conditions](https://github.com/czmyt/steve/blob/main/terms-and-conditions.md) are incorporated herein.
