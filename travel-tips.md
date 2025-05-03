@@ -99,3 +99,4 @@ Some initial thoughts on how I prepare for travel, with more specifics to follow
 -->
 
 Copyright 2024-2025 Stephen Schmidt.  All rights reserved.
+These [Terms and Conditions](https://github.com/czmyt/steve/blob/main/terms-and-conditions.md) are incorporated herein.
