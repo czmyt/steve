@@ -1,6 +1,4 @@
 
-# Steve Schmidt / Czmyt
-
 Computer consultant & software developer of databased business apps.<br />
 Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 🇺🇸  💔🇺🇦
