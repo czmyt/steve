@@ -1,5 +1,5 @@
 
-# How to update much of the software on a Windows computer. -- [Tech Notes](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# How to update much of the software on a Windows computer. -- [Tech Notes](/tech-notes) -- [Steve Schmidt](/)
 
 1. Check for `Windows Updates` in Settings.
 1. Update other software through Windows Terminal: Run
@@ -15,4 +15,4 @@
     ```
 
 Copyright 2025 Stephen Schmidt.  All rights reserved.
-<br />These [Terms and Conditions](https://github.com/czmyt/steve/blob/main/terms-and-conditions.md) are incorporated herein.
+<br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.

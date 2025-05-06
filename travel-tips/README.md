@@ -1,5 +1,5 @@
 
-# Travel Tips -- [Steve Schmidt](https://steve.czmyt.com)
+# Travel Tips -- [Steve Schmidt](/)
 
 Some personal tips to ease your travel prep so you are always ready for adventure.<br />
 Some initial thoughts on how I prepare for travel, with more specifics to follow.
@@ -99,4 +99,4 @@ Some initial thoughts on how I prepare for travel, with more specifics to follow
 -->
 
 Copyright 2024-2025 Stephen Schmidt.  All rights reserved.
-<br />These [Terms and Conditions](https://github.com/czmyt/steve/blob/main/terms-and-conditions.md) are incorporated herein.
+<br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.

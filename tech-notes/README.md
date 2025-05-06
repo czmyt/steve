@@ -1,16 +1,16 @@
 
-# Tech Notes -- [Steve Schmidt](https://steve.czmyt.com)
+# Tech Notes -- [Steve Schmidt](/)
 
 Some personal tech notes, tips, and tricks that others might find useful.<br />
 In alphabetical order by subject.  Dates indicate when articles first published.
 
-- **Bluesky Resources**: [Favorite resources for Bluesky social media users.](bluesky-resources.md) 2025-04-16
-- **Orange Data Mining**: [How to install and setup the Orange Data Mining software for Windows.](orange-data-mining-install-windows.md) 2025-04-16
-- **Windows Updates**: [How to update much of the software on a Windows computer.](windows-computer-update.md) 2025-04-16
+- **Bluesky Resources**: [Favorite resources for Bluesky social media users.](bluesky-resources) 2025-04-16
+- **Orange Data Mining**: [How to install and setup the Orange Data Mining software for Windows.](orange-data-mining-install-windows) 2025-04-16
+- **Windows Updates**: [How to update much of the software on a Windows computer.](windows-computer-update) 2025-04-16
 
 ## See Also
-- My [**Favorite Software**](/favorite-software.md) list includes software gems that I rely on.
-- My [**Security Guide**](https://github.com/czmyt/security-guide/blob/main/README.md) has some helpful security tips.
+- My [**Favorite Software**](/favorite-software) list includes software gems that I rely on.
+- My [**Security Guide**](/security-guide) has some helpful security tips.
 
 Copyright 2025 Stephen Schmidt.  All rights reserved.
-<br />These [Terms and Conditions](https://github.com/czmyt/steve/blob/main/terms-and-conditions.md) are incorporated herein.
+<br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.

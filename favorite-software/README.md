@@ -1,9 +1,9 @@
 
-# Favorite Software -- [Steve Schmidt](https://steve.czmyt.com)
+# Favorite Software -- [Steve Schmidt](/)
 
 My personal software favorites.  All of these are free except the ones tagged #NotFree.
 <br />I install and configure many of these apps on every Windows workstation computer I setup for myself.
-<br />See also my [Tech Notes](tech-notes/README.md) page for software notes, tips, and tricks.
+<br />See also my [Tech Notes](/tech-notes) page for software notes, tips, and tricks.
 
 Jump to:
     §&nbsp;[Collections](#collections),
@@ -143,4 +143,4 @@ Jump to:
     - [Domination](https://sourceforge.net/projects/domination/): Risk-like turn-based strategy game.
     - [Minecraft](https://www.minecraft.net/en-us): Most popular game of all time for a reason.  #NotFree
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.

@@ -1,5 +1,5 @@
 
-# Favorite Books -- [Steve Schmidt](https://steve.czmyt.com)
+# Favorite Books -- [Steve Schmidt](/)
 
 Some personal favorite books.
 Especially ones that I have read or listened to more than once, gifted to others, and / or frequently refer to.
@@ -175,4 +175,4 @@ Jump to:
         <br />***Very comprehensive encyclopedia focused on database management.***
 
 Copyright 2025 Stephen Schmidt.  All rights reserved.
-<br />These [Terms and Conditions](https://github.com/czmyt/steve/blob/main/terms-and-conditions.md) are incorporated herein.
+<br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.

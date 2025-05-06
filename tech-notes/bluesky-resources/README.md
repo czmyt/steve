@@ -1,5 +1,5 @@
 
-# Favorite resources for [Bluesky](https://bsky.app/) social media users. -- [Tech Notes](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# Favorite resources for [Bluesky](https://bsky.app/) social media users. -- [Tech Notes](..) -- [Steve Schmidt](/)
 
 Most recent additions at the top.  Dates indicate when link first published.
 
@@ -31,4 +31,4 @@ Most recent additions at the top.  Dates indicate when link first published.
 1. [ATProto Feed Generator documentation](https://github.com/bluesky-social/feed-generator): How to create your own feed.  Some computer skill required. 2025-04-16
 
 Copyright 2025 Stephen Schmidt.  All rights reserved.
-<br />These [Terms and Conditions](https://github.com/czmyt/steve/blob/main/terms-and-conditions.md) are incorporated herein.
+<br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.
