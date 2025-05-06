@@ -6,18 +6,18 @@ Background about most of the security posts in this guide.
 
 Here is a list of the security tip blog posts in logical order:
 
-- [Password Security Tips](password-security-tips)
-- [Email Security Tips](email-security-tips)
-- [Computer Security Tips](computer-security-tips)
-- [Network Security Tips](network-security-tips)
-- [Device Security Tips](device-security-tips)
-- [Communications Security Tips](communications-security-tips)
-- [Document (and File) Security Tips](document-security-tips)
-- [Physical Security Tips](physical-security-tips)
-- [Travel Security Tips](travel-security-tips)
-- [Emergency Situation Tips](emergency-situation-tips)
-- [The Zen of Security](the-zen-of-security)
-- [(Un)License](/UNLICENSE)
+1. [Password Security Tips](password-security-tips)
+1. [Email Security Tips](email-security-tips)
+1. [Computer Security Tips](computer-security-tips)
+1. [Network Security Tips](network-security-tips)
+1. [Device Security Tips](device-security-tips)
+1. [Communications Security Tips](communications-security-tips)
+1. [Document (and File) Security Tips](document-security-tips)
+1. [Physical Security Tips](physical-security-tips)
+1. [Travel Security Tips](travel-security-tips)
+1. [Emergency Situation Tips](emergency-situation-tips)
+1. [The Zen of Security](the-zen-of-security)
+1. [(Un)License](/UNLICENSE)
 
 ## Background
 
