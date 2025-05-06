@@ -1,5 +1,5 @@
 
-# Emergency Situation Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# Emergency Situation Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
 Advice for dealing with various emergencies.
 
 <h3>Be prepared.<br />
@@ -63,4 +63,4 @@ Know how to respond.</h3>
     - Burns: Cover burns with sterile compresses.
 - Know the signs of other life-threatening medical issues like heart attacks, strokes, choking, low blood sugar, etc.
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.

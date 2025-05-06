@@ -1,5 +1,5 @@
 
-# Physical Security Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# Physical Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
 Advice for physical security in an office environment.
 
 ### Keep yourself and the office safe!
@@ -30,4 +30,4 @@ Advice for physical security in an office environment.
 - Warn others to stay away.
 - Contact building security or the police.
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.

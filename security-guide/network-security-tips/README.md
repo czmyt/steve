@@ -1,5 +1,5 @@
 
-# Network Security Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# Network Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
 Advice for connecting things together at the office.
 
 Note: These tips were written specifically for a client that 1) does not have a private WiFi network in their office, and 2) does provide secure guest WiFi access for visitors.
@@ -18,4 +18,4 @@ Until then, hopefully you’ll find some good advice below.
 - Use a cable network connection instead while at the office. It’s much faster and more reliable anyway.
 - Avoid using WiFi anywhere except at your home or a trusted business. Make sure you connect to the right WiFi network that’s provided by the trusted business!
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.

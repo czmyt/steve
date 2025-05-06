@@ -1,5 +1,5 @@
 
-# Computer Security Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# Computer Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
 Advice for using laptop and desktop computers.
 
 ## Don’t use your work computer for personal Web browsing.
@@ -51,4 +51,4 @@ Advice for using laptop and desktop computers.
 - Ask them how to back up and protect your personal devices and home computers.
 - If you don’t back it up, assume it’s going to be lost! It will be sooner or later.
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.

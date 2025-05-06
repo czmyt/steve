@@ -1,23 +1,23 @@
 
-# Security Guide -- [Steve Schmidt](https://steve.czmyt.com)
+# Security Guide -- [Steve Schmidt](/)
 Background about most of the security posts in this guide.
 
 ## Table of Contents
 
 Here is a list of the security tip blog posts in logical order:
 
-- [Password Security Tips](password-security-tips.md)
-- [Email Security Tips](email-security-tips.md)
-- [Computer Security Tips](computer-security-tips.md)
-- [Network Security Tips](network-security-tips.md)
-- [Device Security Tips](device-security-tips.md)
-- [Communications Security Tips](communications-security-tips.md)
-- [Document (and File) Security Tips](document-security-tips.md)
-- [Physical Security Tips](physical-security-tips.md)
-- [Travel Security Tips](travel-security-tips.md)
-- [Emergency Situation Tips](emergency-situation-tips.md)
-- [The Zen of Security](the-zen-of-security.md)
-- [(Un)License](UNLICENSE.md)
+- [Password Security Tips](password-security-tips)
+- [Email Security Tips](email-security-tips)
+- [Computer Security Tips](computer-security-tips)
+- [Network Security Tips](network-security-tips)
+- [Device Security Tips](device-security-tips)
+- [Communications Security Tips](communications-security-tips)
+- [Document (and File) Security Tips](document-security-tips)
+- [Physical Security Tips](physical-security-tips)
+- [Travel Security Tips](travel-security-tips)
+- [Emergency Situation Tips](emergency-situation-tips)
+- [The Zen of Security](the-zen-of-security)
+- [(Un)License](/UNLICENSE)
 
 ## Background
 
@@ -49,4 +49,4 @@ Attribution is always appreciated but not necessary.
 If you have tips, please email them to [steve@czmyt.com](mailto:steve@czmyt.com).
 Please don’t send anything that’s subject to copyright as I would like these posts to remain in the public domain.
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.

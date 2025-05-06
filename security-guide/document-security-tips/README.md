@@ -1,5 +1,5 @@
 
-# Document (and File) Security Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# Document (and File) Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
 Advice for securing paper documents and computer files.
 
 ### Don’t let that paper trail lead to problems.
@@ -28,4 +28,4 @@ Advice for securing paper documents and computer files.
 - Don’t take work stuff out of the office. Unless it’s a laptop computer or device that’s assigned to you.
 - Keep your cellphone on your person. Don’t be in the habit of laying it down wherever you are.
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.

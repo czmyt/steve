@@ -1,5 +1,5 @@
 
-# Device Security Tips  -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# Device Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
 For cellphones and tables.
 
 Note: These tips were written for a client that requires corporate management of personally-owned cellphones and tablets that are used for business purposes, specifically email.
@@ -24,4 +24,4 @@ Until then, hopefully you’ll find some good advice below.
 - When you upgrade your smartphone or tablet, make sure to wipe the old one with at least a factory reset before turning it in or passing it on.
 - If your old personal device won’t be reused, physically destroy it.
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.

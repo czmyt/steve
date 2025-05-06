@@ -14,7 +14,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - **Payments** to [Venmo](https://venmo.com/czmyt), [PayPal](https://paypal.me/czmyt), and Google Wallet: Use my email address.
 - My [**Favorite Software**](favorite-software.md) page includes software gems that I rely on.
 - My [**Tech Notes**](tech-notes/README.md) with tips and tricks for using software.
-- My [**Security Guide**](https://github.com/czmyt/security-guide/blob/main/README.md) has some helpful security tips.
+- My [**Security Guide**](/security-guide) has some helpful security tips.
 - My [**Favorite Books**](favorite-books.md) page includes books I love / refer to / gift.
 - My [**Travel Tips**](travel-tips.md) on how to prepare for your adventures.
 - My [**YouTube videos**](https://www.youtube.com/@sczmyt/videos) that I link to from other sites.
@@ -30,4 +30,4 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [CyberChef](https://gchq.github.io/CyberChef/): GCHQ's collection of useful data processing tools.
 - [MarketWatch Market Data Center](https://www.marketwatch.com/market-data): Snapshot of key world financial markers.
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.

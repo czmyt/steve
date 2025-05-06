@@ -1,5 +1,5 @@
 
-# Password Security Guide -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# Password Security Guide -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
 Advice for choosing and using passwords.
 
 <h3>Passwords are the keys to the kingdom...<br />
@@ -109,4 +109,4 @@ If one account gets hacked, your other accounts should remain safe.
 - Don’t send passwords via email.
 - Don’t use password manager programs or services to store your passwords.
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.

@@ -1,5 +1,5 @@
 
-# The Zen of Security -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# The Zen of Security -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
 Summing it all up.
 
 - You’re a front-line soldier in the epic security battle of good versus evil.
@@ -16,4 +16,4 @@ Summing it all up.
 - You know how to respond to emergency situations to save yourself and help your coworkers.
 - In short, you’re knowledgeable, alert, skeptical, questioning, prepared.
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.

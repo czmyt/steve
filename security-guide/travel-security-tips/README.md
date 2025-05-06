@@ -1,5 +1,5 @@
 
-# Travel Security Tips -- [Security Guide](README.md) -- [Steve Schmidt](https://steve.czmyt.com)
+# Travel Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
 Advice for staying secure while traveling.
 
 ### Have a safe trip!
@@ -31,4 +31,4 @@ Advice for staying secure while traveling.
     - US Government officials cannot require you to give them your memorized passwords without a court order. Even then, you might not remember your passwords.
 - Know the rules where you’ll be traveling.
 
-My [(Un)License](UNLICENSE.md) is incorporated herein.
+My [(Un)License](/UNLICENSE) is incorporated herein.
