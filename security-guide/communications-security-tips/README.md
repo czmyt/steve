@@ -1,5 +1,5 @@
 
-# Communications Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
+# Communications Security Tips -- [Security Guide](..) -- [Steve Schmidt](/)
 Advice for electronic communications (other than via email).
 
 Note: These tips were written for a client with specific corporate communications policies.

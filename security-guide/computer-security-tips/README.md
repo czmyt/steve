@@ -1,5 +1,5 @@
 
-# Computer Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
+# Computer Security Tips -- [Security Guide](..) -- [Steve Schmidt](/)
 Advice for using laptop and desktop computers.
 
 ## Don’t use your work computer for personal Web browsing.

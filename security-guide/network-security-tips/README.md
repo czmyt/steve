@@ -1,5 +1,5 @@
 
-# Network Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
+# Network Security Tips -- [Security Guide](..) -- [Steve Schmidt](/)
 Advice for connecting things together at the office.
 
 Note: These tips were written specifically for a client that 1) does not have a private WiFi network in their office, and 2) does provide secure guest WiFi access for visitors.

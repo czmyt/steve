@@ -1,5 +1,5 @@
 
-# How to install and setup the [Orange Data Mining](https://orangedatamining.com/) software for Windows. -- [Tech Notes](/tech-notes) -- [Steve Schmidt](/)
+# How to install and setup the [Orange Data Mining](https://orangedatamining.com/) software for Windows. -- [Tech Notes](..) -- [Steve Schmidt](/)
 
 1. I recommend using the Portable Orange distribution that requires no explicit installation:
     - Download the Portable Orange zip file.

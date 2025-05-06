@@ -1,5 +1,5 @@
 
-# The Zen of Security -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
+# The Zen of Security -- [Security Guide](..) -- [Steve Schmidt](/)
 Summing it all up.
 
 - You’re a front-line soldier in the epic security battle of good versus evil.

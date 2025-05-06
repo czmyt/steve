@@ -1,5 +1,5 @@
 
-# Physical Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
+# Physical Security Tips -- [Security Guide](..) -- [Steve Schmidt](/)
 Advice for physical security in an office environment.
 
 ### Keep yourself and the office safe!

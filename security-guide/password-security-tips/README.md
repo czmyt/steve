@@ -1,5 +1,5 @@
 
-# Password Security Guide -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
+# Password Security Guide -- [Security Guide](..) -- [Steve Schmidt](/)
 Advice for choosing and using passwords.
 
 <h3>Passwords are the keys to the kingdom...<br />

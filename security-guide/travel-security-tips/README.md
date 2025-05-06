@@ -1,5 +1,5 @@
 
-# Travel Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
+# Travel Security Tips -- [Security Guide](..) -- [Steve Schmidt](/)
 Advice for staying secure while traveling.
 
 ### Have a safe trip!

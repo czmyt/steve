@@ -1,5 +1,5 @@
 
-# Device Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
+# Device Security Tips -- [Security Guide](..) -- [Steve Schmidt](/)
 For cellphones and tables.
 
 Note: These tips were written for a client that requires corporate management of personally-owned cellphones and tablets that are used for business purposes, specifically email.

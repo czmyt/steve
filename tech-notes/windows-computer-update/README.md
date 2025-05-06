@@ -1,5 +1,5 @@
 
-# How to update much of the software on a Windows computer. -- [Tech Notes](/tech-notes) -- [Steve Schmidt](/)
+# How to update much of the software on a Windows computer. -- [Tech Notes](..) -- [Steve Schmidt](/)
 
 1. Check for `Windows Updates` in Settings.
 1. Update other software through Windows Terminal: Run

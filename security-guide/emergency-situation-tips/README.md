@@ -1,5 +1,5 @@
 
-# Emergency Situation Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
+# Emergency Situation Tips -- [Security Guide](..) -- [Steve Schmidt](/)
 Advice for dealing with various emergencies.
 
 <h3>Be prepared.<br />

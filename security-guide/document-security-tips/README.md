@@ -1,5 +1,5 @@
 
-# Document (and File) Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
+# Document (and File) Security Tips -- [Security Guide](..) -- [Steve Schmidt](/)
 Advice for securing paper documents and computer files.
 
 ### Don’t let that paper trail lead to problems.

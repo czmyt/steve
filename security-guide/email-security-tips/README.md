@@ -1,5 +1,5 @@
 
-# Email Security Tips -- [Security Guide](/security-guide) -- [Steve Schmidt](/)
+# Email Security Tips -- [Security Guide](..) -- [Steve Schmidt](/)
 Advice for using email.
 
 <h3>Email is the killer app for business.<br />
