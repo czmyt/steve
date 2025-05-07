@@ -13,5 +13,5 @@
 1. Create copy of the `Orange.lnk` shortcut and place on the Windows Desktop:
     - Change the Startup Directory in the shortcut to the Orange folder.
 
-Copyright 2025 Stephen Schmidt.  All rights reserved.
+© 2025 Stephen Schmidt.  All rights reserved.
 <br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.

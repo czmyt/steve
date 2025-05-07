@@ -107,4 +107,4 @@ If you have any questions about these Terms and Conditions, You can contact us:
 
 - By email: steve@czmyt.com
 
-Copyright 2023-2025 Stephen Schmidt.  All rights reserved.
+© 2023-2025 Stephen Schmidt.  All rights reserved.

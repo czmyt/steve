@@ -14,5 +14,5 @@
     time (time sudo apt -y update && time sudo apt -y upgrade)
     ```
 
-Copyright 2025 Stephen Schmidt.  All rights reserved.
+© 2025 Stephen Schmidt.  All rights reserved.
 <br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.

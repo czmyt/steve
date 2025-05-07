@@ -12,5 +12,5 @@ In alphabetical order by subject.  Dates indicate when articles first published.
 - My [**Favorite Software**](/favorite-software) list includes software gems that I rely on.
 - My [**Security Guide**](/security-guide) has some helpful security tips.
 
-Copyright 2025 Stephen Schmidt.  All rights reserved.
+© 2025 Stephen Schmidt.  All rights reserved.
 <br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.

@@ -181,5 +181,5 @@ Jump to:
     <br />"… provides easy access to crucial concepts relevant to all aspects of very large databases, data management, and database systems, including areas of current interest and research results of historical significance."
     <br />***Very comprehensive encyclopedia focused on database management.***
 
-Copyright 2025 Stephen Schmidt.  All rights reserved.
+© 2025 Stephen Schmidt.  All rights reserved.
 <br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.
