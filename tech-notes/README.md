@@ -2,6 +2,7 @@
 # Tech Notes -- [Steve Schmidt](/)
 
 Some personal tech notes, tips, and tricks that others might find useful.
+<br />Mostly software related, with some gear posts.
 <br />In alphabetical order by subject.
 Dates indicate when articles first published.
 
