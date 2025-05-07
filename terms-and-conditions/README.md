@@ -1,4 +1,7 @@
 
+Note: These Terms and Conditions are incorporated by reference into specific files.
+They do not apply to all of the files here as some of them are public domain.
+
 Terms and Conditions  
 ====================
 
