@@ -1,10 +1,8 @@
 
 # Tech Notes -- [Steve Schmidt](/)
 
-Some personal notes, tips, and tricks others might find useful.
-<br />Mostly software related, with some gear posts.
-<br />Dates indicate when articles first published.
-<br />Posts in alphabetical order by subject.
+Some personal tech notes others might find useful.  Mostly software related, with some gear posts.
+<br />Dates indicate when articles first published.  Posts in alphabetical order by subject.
 
 - **Bluesky Resources**: [Favorite resources for Bluesky social media users.](bluesky-resources) 2025-04-16
 - **Ford Auto Software**: [Notes about the Ford automobile software circa 2022 and still relevant today.](ford-software-2022) 2025-05-07
