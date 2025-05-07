@@ -3,7 +3,7 @@
 
 Most recent additions at the top.  Dates indicate when link first published.
 
-1. [How to Bookmark a Post on Bluesky](https://www.growbluesky.com/blog/how-to-bookmark): A workaround since bookmarks feature not built-in. 2025-04-20
+1. [How to Bookmark a Post on Bluesky](https://www.growbluesky.com/blog/how-to-bookmark){:target="_blank"}: A workaround since bookmarks feature not built-in. 2025-04-20
 1. [Using Bluesky posts as blog comments](https://emilyliu.me/blog/comments): One of the better options for adding comments to blog pages. 2025-04-20
 1. [SwearSky](https://swearsky.bagpuss.org): "Bluesky profanity, as it happens" 2025-04-20
 1. [deck.blue](https://deck.blue): A multi-column view of Bluesky posts.  Like Tweet Deck is for Twitter / X but for Bluesky instead. 2025-04-16
