@@ -2,10 +2,9 @@
 # Ford Auto Software Notes 2022 -- [Tech Notes](..) -- [Steve Schmidt](/)
 Some notes about Ford's automobile software after a 5,000 roadtrip across the northern US.
 <br />Originally posted as a long [Twitter thread](https://x.com/czmyt/status/1537868036702715906) in June 2022.
-<br />Slightly edited for clarity.
+Slightly edited for clarity.
 
-1. I have some thoughts on the features and especially software on my 2021 @Ford
- Ranger Lariat.  Will be posting them soon.  Executive summary: Generally good, but some software features very frustrating.  Have not used voice much but what I have used is not great.
+1. I have some thoughts on the features and especially software on my 2021 Ford Ranger Lariat.  Will be posting them soon.  Executive summary: Generally good, but some software features very frustrating.  Have not used voice much but what I have used is not great.
 1. Let's start with this one: Using the built-in navigation, if you're sent over to the opposing lanes of a freeway due to road construction traffic shift, the Nav panel stops updating the miles to destination and ETA.
 1. The direction on the driver digital display does not always agree with the direction shown on the Nav panel of the 8" center console display.  Not always in sync when compass directions shift.  ???
 1. Left panel of driver digital display should have all the same options as the right panel.  Why not?
@@ -31,7 +30,7 @@ Some notes about Ford's automobile software after a 5,000 roadtrip across the no
 1. Would be great to add business hours to the Nav Points of Interest searches so that I can have the system display the Open Now businesses, ala Yelp.
 1. How often are the points of interest database updated?  It sent me to couple of places that had obviously moved more than a year ago.  Taco del Sol in Butte, I'm thinking about you.
 1. Navigating around Chicago during the day, it's unnerving how often the routes change.  So I did a search for a business and reviewed the route, did some other searches, then re-searched on the original business but route changed.  Tell me why it changed from last search.
-1. Would really like to display my current elevation.  Info readily available in GPS.  Also, would like the ability to display compass direction in 16 points.  See https://en.wikipedia.org/wiki/Points_of_the_compass#16-wind_compass_rose
+1. Would really like to display my current elevation.  Info readily available in GPS.  Also, would like the ability to display compass direction in 16 points.  See [Wind Compass Rose @ Wikipedia](https://en.wikipedia.org/wiki/Points_of_the_compass#16-wind_compass_rose)
 1. Would like to see the current GPS accuracy in feet.  If it 150 feet, 30, or 10?
 1. In the entertainment system, if the song name is long, don't cut it off.  Scroll it!  Preferably from right-to-left after showing the left portion.  Better yet, make room to show the entire song name at once.  MP3 tag or filename.  I'm a reader; I can take it.
 1. On a somewhat related subject, the @Google @googlemaps app for Android stay-on-top feature sucks.  Why not easier to get back into full screen mode, why is the Maps app not in the task list when floating display showing?  Am I not getting something.  Very frustrating.  Won't use.
