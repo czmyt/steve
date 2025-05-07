@@ -1,8 +1,9 @@
 
 # Tech Notes -- [Steve Schmidt](/)
 
-Some personal tech notes, tips, and tricks that others might find useful.<br />
-In alphabetical order by subject.  Dates indicate when articles first published.
+Some personal tech notes, tips, and tricks that others might find useful.
+<br />In alphabetical order by subject.
+Dates indicate when articles first published.
 
 - **Bluesky Resources**: [Favorite resources for Bluesky social media users.](bluesky-resources) 2025-04-16
 - **Orange Data Mining**: [How to install and setup the Orange Data Mining software for Windows.](orange-data-mining-install-windows) 2025-04-16
