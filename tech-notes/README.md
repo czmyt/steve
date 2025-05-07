@@ -6,6 +6,7 @@ Some personal tech notes, tips, and tricks that others might find useful.
 Dates indicate when articles first published.
 
 - **Bluesky Resources**: [Favorite resources for Bluesky social media users.](bluesky-resources) 2025-04-16
+- **Ford Auto Software**: [Notes about the Ford automobile software circa 2022 and still relevant today.](ford-software-2022) 2025-05-07
 - **Orange Data Mining**: [How to install and setup the Orange Data Mining software for Windows.](orange-data-mining-install-windows) 2025-04-16
 - **Windows Updates**: [How to update much of the software on a Windows computer.](windows-computer-update) 2025-04-16
 
