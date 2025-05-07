@@ -1,11 +1,11 @@
 
 Note: This (Un)License is incorporated into many of the files published here.
-<br />It does **NOT** apply to all of the file published here as some are copyrighted.
+<br />It does **NOT** apply to all of the files published here as some are copyrighted.
 
 ---
 
-### (Un)License
-===============
+(Un)License
+===========
 
 This is free and unencumbered content released into the public domain. Anyone is free to copy, modify, publish, use, sell, or distribute this content in any form, for any purpose, and by any means.
 

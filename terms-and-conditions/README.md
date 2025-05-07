@@ -1,6 +1,6 @@
 
 Note: These Terms and Conditions are incorporated into many of the files published here.
-<br />They do **NOT** apply to all of the file published here as some are public domain.
+<br />They do **NOT** apply to all of the files published here as some are public domain.
 
 ---
 
