@@ -1,7 +1,8 @@
 
 ### (Un)License
 
-This (Un)License is incorporated into many of the files published here.
+Note: This (Un)License is incorporated into many of the files published here.
+<br />It does **NOT** apply to all of the file published here as some are copyrighted.
 
 ---
 
