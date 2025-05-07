@@ -14,4 +14,4 @@ Dates indicate when articles first published.
 - My [**Security Guide**](/security-guide) has some helpful security tips.
 
 © 2025 Stephen Schmidt.  All rights reserved.
-<br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.
+<br />[Terms and Conditions](/terms-and-conditions) are incorporated herein.

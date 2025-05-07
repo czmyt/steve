@@ -111,4 +111,4 @@ Some initial thoughts on how I prepare for travel, with more specifics to follow
 -->
 
 © 2024-2025 Stephen Schmidt.  All rights reserved.
-<br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.
+<br />[Terms and Conditions](/terms-and-conditions) are incorporated herein.

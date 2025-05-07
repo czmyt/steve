@@ -15,4 +15,4 @@
     ```
 
 © 2025 Stephen Schmidt.  All rights reserved.
-<br />These [Terms and Conditions](/terms-and-conditions) are incorporated herein.
+<br />[Terms and Conditions](/terms-and-conditions) are incorporated herein.
