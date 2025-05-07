@@ -4,10 +4,10 @@
 Some personal tech notes others might find useful.  Mostly software related, with some gear posts.
 <br />Dates indicate when articles first published.  Posts in alphabetical order by subject.
 
-- **Bluesky Resources**: [Favorite resources for Bluesky social media users.](bluesky-resources) 2025-04-16
-- **Ford Auto Software**: [Notes about the Ford automobile software circa 2022 and still relevant today.](ford-software-2022) 2025-05-07
-- **Orange Data Mining**: [How to install and setup the Orange Data Mining software for Windows.](orange-data-mining-install-windows) 2025-04-16
-- **Windows Updates**: [How to update much of the software on a Windows computer.](windows-computer-update) 2025-04-16
+- [**Bluesky Resources**](bluesky-resources): Favorite resources for Bluesky social media users. 2025-04-16
+- [**Ford Vehicle Software**](ford-software-2022): Notes about the Ford vehicle software circa 2022 and still relevant today. 2025-05-07
+- [**Orange Data Mining**](orange-data-mining-install-windows): How to install and setup the Orange Data Mining software for Windows. 2025-04-16
+- [**Windows Updates**](windows-computer-update): How to update much of the software on a Windows computer. 2025-04-16
 
 ## See Also
 - My [**Favorite Software**](/favorite-software) list includes software gems that I rely on.
