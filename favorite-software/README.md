@@ -4,7 +4,7 @@
 My personal software favorites.  All of these are free except the ones tagged #NotFree.
 <br />I install and configure many of these apps on every Windows workstation computer I setup for myself.
 <br />See also my [Tech Notes](/tech-notes) for notes about software and gear,
-<br />and my [**Security Guide**](/security-guide) for some helpful security tips.
+and my [**Security Guide**](/security-guide) for some helpful security tips.
 
 
 Jump to:
