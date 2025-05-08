@@ -21,7 +21,7 @@ Always on my person when I leave the property:
     - **Tile locator**
     - **flashlight**
     - **Leatherman PS multitool**
-        <br />The Leatherman PS is TSA-compliant.
+        <br />The Leatherman PS is TSA-compliant, meaning that it can be carried inside passenger airplane cabins.
         Sometimes I carry a knife or multi-tool that has cutting blades and saws.
         Depends on the situation.
         I like my Victorinox Swisstool, SOG multitools, and Victorinox Swiss Army knives the most.
@@ -100,7 +100,7 @@ My travel gear is broken down into:
 1. my road-trip vehicle pack.
 
 All travel gear is modular and further organized.
-See also my [Travel Tips](/travel-tips) page.
+<br />See also my [Travel Tips](/travel-tips) page.
 
 © 2020-2025 Stephen Schmidt.  All rights reserved.
 <br />[Terms and Conditions](/terms-and-conditions) are incorporated herein.
