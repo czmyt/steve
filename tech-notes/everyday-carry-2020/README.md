@@ -1,5 +1,5 @@
 
-# Everyday Carry Essentials 2020 -- [Tech Notes](..) -- [Steve Schmidt](/)
+# Everyday Carry (EDC) Essentials 2020 -- [Tech Notes](..) -- [Steve Schmidt](/)
 Some notes about the gear that I carried everyday in 2020 along with some key everyday carry and general travel prep concepts.
 Originally posted as a long [Twitter thread](https://x.com/czmyt/status/1322948156238299143) in November 2020.
 Edited for clarity and reorganized into strict outline format.
@@ -10,13 +10,13 @@ One of my hobbies is travel prep.
 I reached a level of preparedness about three years ago in which I'm seldom w/o something I need.
 
 Jump to:
-    §&nbsp;[List of Everyday Carry Essentials](#list),
+    §&nbsp;[List of EDC Essentials](#list),
     §&nbsp;[Pictures of EDC Essentials](#pictures),
-    §&nbsp;[Key Everyday Carry Concepts](#concepts).
+    §&nbsp;[Key EDC Concepts](#concepts).
 
 
 <a name="list"></a>
-## List of Everyday Carry Essentials (from 2020)
+## List of Everyday Carry Essentials
 
 Always on my person when I leave the property:
 - **keychain**
@@ -81,7 +81,7 @@ Always on my person when I leave the property:
 
 
 <a name="pictures"></a>
-## Pictures of Everyday Carry Essentions (from 2020)
+## Pictures of Everyday Carry Essentions
 
 Most of my everyday carry essentials:
 [![Everyday Carry Essentials](edc-essentials.jpg)](edc-essentials.jpg)
