@@ -32,7 +32,12 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 
 My [(Un)License](UNLICENSE) is incorporated herein.
 
-<p align="right"><small><a href="https://www.czmyt.com">www.czmyt.com</a>
-<br />aka <a href="https://czmyt.com">czmyt.com</a>
-<br /><a href="https://github.com/czmyt/steve">website source</a>
-<br />on <a href="https://github.com">github.com</a></small></p>
+<p align="right"><small>
+<a href="https://github.com/czmyt/steve">website source</a>
+<br />
+on <a href="https://github.com">github.com</a>
+<br />
+<a href="https://www.czmyt.com">www.czmyt.com</a>
+<br />
+aka <a href="https://czmyt.com">czmyt.com</a>
+</small></p>
