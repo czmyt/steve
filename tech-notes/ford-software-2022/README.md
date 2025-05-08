@@ -1,7 +1,7 @@
 
 # Ford Auto Software Notes 2022 -- [Tech Notes](..) -- [Steve Schmidt](/)
 Some notes about Ford's automobile software after a 5,000 roadtrip across the northern US.
-<br />Originally posted as a long [Twitter thread](https://x.com/czmyt/status/1537868036702715906) in June 2022.
+Originally posted as a long [Twitter thread](https://x.com/czmyt/status/1537868036702715906) in June 2022.
 Slightly edited for clarity.
 
 1. I have some thoughts on the features and especially software on my 2021 Ford Ranger Lariat.  Will be posting them soon.  Executive summary: Generally good, but some software features very frustrating.  Have not used voice much but what I have used is not great.

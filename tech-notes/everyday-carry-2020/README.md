@@ -1,7 +1,7 @@
 
 # Everyday Carry Essentials 2020 -- [Tech Notes](..) -- [Steve Schmidt](/)
 Some notes about the gear that I carried everyday in 2020 along with some key everyday carry and general travel prep concepts.
-<br />Originally posted as a long [Twitter thread](https://x.com/czmyt/status/1322948156238299143) in November 2020.
+Originally posted as a long [Twitter thread](https://x.com/czmyt/status/1322948156238299143) in November 2020.
 Slightly edited for clarity.
 
 I used to travel 10-15 times a year when it was safe to travel.
@@ -39,7 +39,7 @@ Sometimes I carry a knife or multi-tool that has cutting blades and saws.
 Depends on the situation.
 I like my Victorinox Swisstool, SOG multitools, and Victorinox Swiss Army knives the most.
 
-The pill continer:  Various over-the-counter (OTC) meds. including:
+The pill container:  Various over-the-counter (OTC) meds. including:
 - pain relievers (Ibuprofen & Acetaminophen)
 - anti-allergic reaction/sleeping pills (Diphenhydramine)
 - anti-nausea (Dimenhydrinate & Meclizine)
