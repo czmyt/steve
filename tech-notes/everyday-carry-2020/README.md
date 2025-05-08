@@ -83,21 +83,21 @@ My everyday carry essentials, illuminated with the laser pointer:
 Main smartphone not pictured.
 
 Key everyday carry (EDC) concepts for me:
-1. Redundancy (where possible)
-1. Evolution (always getting getter)
-1. Testing (test all your gear)
-1. Compactness (lightweight and compact)
-1. Multipurpose (more on that later)
+- Redundancy (where possible)
+- Evolution (always getting getter)
+- Testing (test all your gear)
+- Compactness (lightweight and compact)
+- Multipurpose (more on that later)
 
 My two best best travel preparation tips:
-1. If you can afford it, have a completely different set of gear that is exclusively for travel: Computers, gear, clothes, everything.
-1. Never pack before your trips; always re-pack and re-stock after your last trip.
+- If you can afford it, have a completely different set of gear that is exclusively for travel: Computers, gear, clothes, everything.
+- Never pack before your trips; always re-pack and re-stock after your last trip.
 
 My travel gear is broken down into:
-1. my day-pack,
-1. my carry-on pack,
-1. my checked luggage, and
-1. my road-trip vehicle pack.
+- my day-pack,
+- my carry-on pack,
+- my checked luggage, and
+- my road-trip vehicle pack.
 
 All travel gear is modular and further organized.
 <br />See also my [Travel Tips](/travel-tips) page.
