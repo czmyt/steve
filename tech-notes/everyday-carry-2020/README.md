@@ -33,13 +33,15 @@ Always on my person when I leave the property:
         - **caffeine pills**
 - **two wallets**
     Each wallet has at least:
-    - **one form of ID** (enhanced driver license in one, US passport card in other)
+    - **one form of ID**
+        Eenhanced driver license in one, US passport card in other.
     - **credit card**
         The credit cards are from different banks.
     - **debit card**
         The debit cards are from different accounts.
         Debit Cards are from the same bank for now, but I should change that.
-    - **currency** (at least USD$300 in each)
+    - **currency**
+        At least US$300 in each.
     - **cleansing wipes**
     - one wallet has:
         - **critical first aid items**
@@ -69,7 +71,7 @@ Always on my person when I leave the property:
 
 Most of my everyday carry essentials:
 ![Everyday Carry Essentials](edc-essentials.jpg)
-Main smartphone not pictures.
+Main smartphone not pictured.
 
 My keychain:
 ![Everyday Carry Keychain](edc-keychain.jpg)
@@ -77,21 +79,22 @@ Key teeth blacked out.
 
 My everyday carry essentials, illuminated with the laser pointer:
 ![Everyday Carry Essentials Illuminated](edc-essentials-illum.jpg)
+Main smartphone not pictured.
 
 Key everyday carry (EDC) concepts for me:
-- Redundancy (where possible)
-- Evolution (always getting getter)
-- Testing (test all your gear)
-- Compactness (lightweight and compact)
-- Multipurpose (more on that later)
+1. Redundancy (where possible)
+1. Evolution (always getting getter)
+1. Testing (test all your gear)
+1. Compactness (lightweight and compact)
+1. Multipurpose (more on that later)
 
 My two best best travel preparation tips:
 1. If you can afford it, have a completely different set of gear that is exclusively for travel: Computers, gear, clothes, everything.
-2. Never pack before your trips; always re-pack and re-stock after your last trip.
+1. Never pack before your trips; always re-pack and re-stock after your last trip.
 
 My travel gear is broken down into:
 1. my day-pack,
-2. my carry-on pack,
+1. my carry-on pack,
 1. my checked luggage, and
 1. my road-trip vehicle pack.
 All is modular and further organized.
