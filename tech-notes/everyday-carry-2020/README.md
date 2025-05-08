@@ -20,8 +20,9 @@ Always on my person when I leave the property:
     - **Kroger card w/drop in mail offer**
     - **Tile locator**
     - **flashlight**
-    - **Leatherman PS multitool** (TSA compliant)
-        <br />Sometimes I carry a knife or multi-tool that has cutting blades and saws.
+    - **Leatherman PS multitool**
+        <br />The Leatherman PS is TSA-compliant.
+        Sometimes I carry a knife or multi-tool that has cutting blades and saws.
         Depends on the situation.
         I like my Victorinox Swisstool, SOG multitools, and Victorinox Swiss Army knives the most.
     - **pill container**
@@ -97,8 +98,8 @@ My travel gear is broken down into:
 1. my carry-on pack,
 1. my checked luggage, and
 1. my road-trip vehicle pack.
-All is modular and further organized.
 
+All travel gear is modular and further organized.
 See also my [Travel Tips](/travel-tips) page.
 
 © 2020-2025 Stephen Schmidt.  All rights reserved.
