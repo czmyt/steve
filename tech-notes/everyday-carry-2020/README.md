@@ -21,27 +21,27 @@ Always on my person when I leave the property:
     - **Tile locator**
     - **flashlight**
     - **Leatherman PS multitool** (TSA compliant)
-        Sometimes I carry a knife or multi-tool that has cutting blades and saws.
+        <br />Sometimes I carry a knife or multi-tool that has cutting blades and saws.
         Depends on the situation.
         I like my Victorinox Swisstool, SOG multitools, and Victorinox Swiss Army knives the most.
     - **pill container**
-        Contains arious over-the-counter (OTC) meds. including:
+        <br />Contains various over-the-counter (OTC) medications including:
         - **pain relievers** (Ibuprofen & Acetaminophen)
         - **anti-allergic reaction / sleeping pills** (Diphenhydramine)
         - **anti-nausea** (Dimenhydrinate & Meclizine)
         - **anti-diarrhea** (Loperamide)
         - **caffeine pills**
 - **two wallets**
-    Each wallet has at least:
+    <br />Each wallet has at least:
     - **one form of ID**
-        Eenhanced driver license in one, US passport card in other.
+        <br />Enhanced driver license in one, US passport card in other.
     - **credit card**
-        The credit cards are from different banks.
+        <br />The credit cards are from different banks.
     - **debit card**
-        The debit cards are from different accounts.
+        <br />The debit cards are from different accounts.
         Debit Cards are from the same bank for now, but I should change that.
     - **currency**
-        At least US$300 in each.
+        <br />At least US$300 in each.
     - **cleansing wipes**
     - one wallet has:
         - **critical first aid items**
