@@ -9,6 +9,15 @@ Mostly multi-day air travel with a few road trips.
 One of my hobbies is travel prep.
 I reached a level of preparedness about three years ago in which I'm seldom w/o something I need.
 
+Jump to:
+    §&nbsp;[List of Everyday Carry Essentials](#list),
+    §&nbsp;[Pictures of EDC Essentials](#pictures),
+    §&nbsp;[Key Everyday Carry Concepts](#concepts).
+
+
+<a name="list"></a>
+## List of Everyday Carry Essentials (from 2020)
+
 Always on my person when I leave the property:
 - **keychain**
     - **car keys**
@@ -70,6 +79,10 @@ Always on my person when I leave the property:
     - I use good alkaline batteries in the laser pointers because I want them to work when I finally need them.
         I use rechargeable batteries in everything else.
 
+
+<a name="pictures"></a>
+## Pictures of Everyday Carry Essentions (from 2020)
+
 Most of my everyday carry essentials:
 [![Everyday Carry Essentials](edc-essentials.jpg)](edc-essentials.jpg)
 Main smartphone not pictured.
@@ -81,6 +94,10 @@ Key teeth blacked out.
 My everyday carry essentials, illuminated with the laser pointer:
 [![Everyday Carry Essentials Illuminated](edc-essentials-illum.jpg)](edc-essentials-illum.jpg)
 Main smartphone not pictured.
+
+
+<a name="concepts"></a>
+## Key Everyday Carry Concepts
 
 Key everyday carry (EDC) concepts for me:
 - Redundancy (where possible)
