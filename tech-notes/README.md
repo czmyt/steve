@@ -5,7 +5,8 @@ Some personal tech notes others might find useful.  Mostly software related, wit
 <br />Dates indicate when articles first published.  Posts in alphabetical order by subject.
 
 - [**Bluesky Resources**](bluesky-resources): Favorite resources for Bluesky social media users. 2025-04-16
-- [**Ford Vehicle Software**](ford-software-2022): Notes about the Ford vehicle software circa 2022 and still relevant today. 2025-05-07
+- [**Everyday Carry Essentials**](everyday-carry-2020): Thread about everyday carry items circa 2020 and some key EDC concepts. 2025-05-08
+- [**Ford Vehicle Software**](ford-software-2022): Thread about the Ford vehicle software circa 2022 and still relevant today. 2025-05-07
 - [**Orange Data Mining**](orange-data-mining-install-windows): How to install and setup the Orange Data Mining software for Windows. 2025-04-16
 - [**Windows Updates**](windows-computer-update): How to update much of the software on a Windows computer. 2025-04-16
 
