@@ -71,15 +71,15 @@ Always on my person when I leave the property:
         I use rechargeable batteries in everything else.
 
 Most of my everyday carry essentials:
-![Everyday Carry Essentials](edc-essentials.jpg)
+[![Everyday Carry Essentials](edc-essentials.jpg)](edc-essentials.jpg)
 Main smartphone not pictured.
 
 My keychain:
-![Everyday Carry Keychain](edc-keychain.jpg)
+[![Everyday Carry Keychain](edc-keychain.jpg)](edc-keychain.jpg)
 Key teeth blacked out.
 
 My everyday carry essentials, illuminated with the laser pointer:
-![Everyday Carry Essentials Illuminated](edc-essentials-illum.jpg)
+[![Everyday Carry Essentials Illuminated](edc-essentials-illum.jpg)](edc-essentials-illum.jpg)
 Main smartphone not pictured.
 
 Key everyday carry (EDC) concepts for me:
