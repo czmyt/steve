@@ -31,4 +31,4 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [MarketWatch Market Data Center](https://www.marketwatch.com/market-data): Snapshot of key world financial markers.
 
 My [(Un)License](UNLICENSE) is incorporated herein.
-<br /><span align="right"><a href="https://www.czmyt.com">www.czmyt.com</a></span>
+<p align="right"><small><a href="https://www.czmyt.com">www.czmyt.com</a> alias <a href="https://czmyt.com">czmyt.com</a></small></p>
