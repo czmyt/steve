@@ -1,7 +1,7 @@
 
 # Steve Schmidt / Czmyt
 
-Computer consultant & software developer of databased business apps.<br />
+Computer consultant & software developer of data-based business apps.<br />
 Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 🇺🇸  💔🇺🇦
 
@@ -13,14 +13,14 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [**LinkedIn profile**](https://www.linkedin.com/in/stephen-schmidt-windsor/) about job skills and hobbies.
 - ***Not*** the [political consultant / campaign runner](https://steveschmidt.substack.com/).
 
-## Publications
+## Posting and Publications
 
 - **Posts** at [Steve Schmidt (@steve.czmyt.com)](https://bsky.app/profile/steve.czmyt.com) on [Bluesky](https://bsky.app).
 - Was [Steve Schmidt (@czmyt)](https://x.com/czmyt/with_replies) on [Twitter / X](https://x.com) before moving to Bluesky.
-- [**Tech Notes**](tech-notes) with tips and tricks for software and gear.
-- [**Favorite Software**](favorite-software) page includes software gems that I rely on.
+- [**Tech Notes**](tech-notes) with tips / tricks for software and gear.
+- [**Favorite Software**](favorite-software) includes software gems that I rely on.
 - [**Security Guide**](security-guide) has some helpful security tips.
-- [**Favorite Books**](favorite-books) page includes books I love / refer to / gift.
+- [**Favorite Books**](favorite-books) includes books I love / refer to / gift.
 - [**Travel Tips**](travel-tips) on how to prepare for your adventures.
 - [**YouTube videos**](https://www.youtube.com/@sczmyt/videos) that I link to from other sites.
 
