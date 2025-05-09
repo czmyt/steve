@@ -101,6 +101,7 @@ Jump to:
 - [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use to update many third-party apps.  See my [Windows computer update notes](tech-notes/windows-computer-update.md).
 - [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview?pivots=windows): Hardware virtualization to run Windows and other computer operating systems.  Requires Windows Pro or more.
 - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/): A lightweight, isolated desktop environment for safely running software.
+- [Disk Cleanup](https://support.microsoft.com/en-us/windows/free-up-drive-space-in-windows-85529ccb-c365-490d-b548-831022bc9b32): Built-in app to free unused storage space.
 - [Clock](https://apps.microsoft.com/detail/9wzdncrfj3pr?hl=en-us&gl=US): World Clock with sun map especially useful.
 
 
