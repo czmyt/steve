@@ -12,6 +12,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [**Signal**](https://signal.org/) to [czmyt.28](https://signal.me/#u/czmyt.28).
 - **Homepage** at [steve.czmyt.com](https://steve.czmyt.com).
 - **Payments** to [Venmo](https://venmo.com/czmyt), [PayPal](https://paypal.me/czmyt), and Google Wallet: Use my email address.
+<br />&nbsp;
 - My [**Tech Notes**](tech-notes) with tips and tricks for software and gear.
 - My [**Favorite Software**](favorite-software) page includes software gems that I rely on.
 - My [**Security Guide**](security-guide) has some helpful security tips.
