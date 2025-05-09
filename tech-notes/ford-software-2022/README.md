@@ -49,5 +49,4 @@ Slightly edited for clarity.
 1. Incorporate detour distance into the Points of Interest search results display.  Don't only tell me how far they are, tell me how far off the planned route they are.
 1. Let's say that I have additional stops / waypoints set in the Nav system and I'm looking at the main Nav screen, is there a way to see all the waypoints andselect one for display, or to toggle through displaying all the waypoints so I can see progress to specific one?
 
-© 2022-2025 Stephen Schmidt.  All rights reserved.
-<br />[Terms and Conditions](/terms-and-conditions) incorporated herein.
+© 2022-2025 Stephen Schmidt.  All rights reserved.  [Terms and Conditions](/terms-and-conditions) incorporated herein.

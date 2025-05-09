@@ -119,5 +119,4 @@ My travel gear is broken down into:
 All travel gear is modular and further organized.
 <br />See also my [Travel Tips](/travel-tips) page.
 
-© 2020-2025 Stephen Schmidt.  All rights reserved.
-<br />[Terms and Conditions](/terms-and-conditions) incorporated herein.
+© 2020-2025 Stephen Schmidt.  All rights reserved.  [Terms and Conditions](/terms-and-conditions) incorporated herein.
