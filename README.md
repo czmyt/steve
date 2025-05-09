@@ -33,7 +33,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [CyberChef](https://gchq.github.io/CyberChef/): GCHQ's collection of useful data processing tools.
 - [MarketWatch Market Data Center](https://www.marketwatch.com/market-data): Snapshot of key world financial markers.
 
-My [(Un)License](UNLICENSE) is incorporated herein.
+[(Un)License](UNLICENSE) incorporated herein.
 
 <p align="right"><small>
 <a href="https://github.com/czmyt/steve">website source</a>

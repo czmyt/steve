@@ -51,4 +51,4 @@ Advice for using laptop and desktop computers.
 - Ask them how to back up and protect your personal devices and home computers.
 - If you don’t back it up, assume it’s going to be lost! It will be sooner or later.
 
-My [(Un)License](/UNLICENSE) is incorporated herein.
+[(Un)License](/UNLICENSE) incorporated herein.

@@ -110,5 +110,4 @@ Some initial thoughts on how I prepare for travel, with more specifics to follow
 
 -->
 
-© 2024-2025 Stephen Schmidt.  All rights reserved.
-<br />[Terms and Conditions](/terms-and-conditions) are incorporated herein.
+© 2024-2025 Stephen Schmidt.  All rights reserved.  [Terms and Conditions](/terms-and-conditions) incorporated herein.

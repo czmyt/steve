@@ -24,4 +24,4 @@ Until then, hopefully you’ll find some good advice below.
 - When you upgrade your smartphone or tablet, make sure to wipe the old one with at least a factory reset before turning it in or passing it on.
 - If your old personal device won’t be reused, physically destroy it.
 
-My [(Un)License](/UNLICENSE) is incorporated herein.
+[(Un)License](/UNLICENSE) incorporated herein.

@@ -13,5 +13,4 @@ Some personal tech notes others might find useful.  Mostly software related, wit
 - [**Favorite Software**](/favorite-software): Software gems that I rely on. 2024-11-22
 - [**Security Guide**](/security-guide): Helpful security tips. 2022-03-27.
 
-© 2025 Stephen Schmidt.  All rights reserved.
-<br />[Terms and Conditions](/terms-and-conditions) are incorporated herein.
+© 2025 Stephen Schmidt.  All rights reserved.  [Terms and Conditions](/terms-and-conditions) incorporated herein.

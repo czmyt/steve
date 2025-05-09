@@ -30,4 +30,4 @@ Advice for physical security in an office environment.
 - Warn others to stay away.
 - Contact building security or the police.
 
-My [(Un)License](/UNLICENSE) is incorporated herein.
+[(Un)License](/UNLICENSE) incorporated herein.

@@ -31,5 +31,4 @@ Dates indicate when link first published.
 1. [Import Twitter/X to Bluesky help](https://www.wikihow.com/Import-Twitter-to-Bluesky): A wikiHow article on ways to transfer Tweets. 2025-04-16
 1. [ATProto Feed Generator documentation](https://github.com/bluesky-social/feed-generator): How to create your own feed.  Some computer skill required. 2025-04-16
 
-© 2025 Stephen Schmidt.  All rights reserved.
-<br />[Terms and Conditions](/terms-and-conditions) are incorporated herein.
+© 2025 Stephen Schmidt.  All rights reserved.  [Terms and Conditions](/terms-and-conditions) incorporated herein.
