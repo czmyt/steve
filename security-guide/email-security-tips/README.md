@@ -30,4 +30,4 @@ Don’t let it kill your computer.</h3>
 - Don’t rely on the built-in protections of third-party services like Google Drive, Microsoft OneDrive, DropBox, Box, etc.
 - Do not use cloud or Web services for business purposes unless approved by your technology staff. Assume that any info you store in these services will become public.
 
-[(Un)License](/UNLICENSE) incorporated herein.
+Public domain [(Un)License](/UNLICENSE) incorporated herein.

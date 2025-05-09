@@ -32,4 +32,4 @@ Until then, hopefully you’ll find some good advice below.
 - Be really skeptical if they ask you to do something that you would not normally do. Or if they ask for personal info or usernames and passwords. Or money. Especially money.
     - This happens over the phone, via email, via regular mail and sometimes in person. It’s called “social engineering.” Beware of special requests, or if people ask you not to tell anyone else, or if the request is urgent, or if something sounds too good to be true, or if it’s anything out of the ordinary.
 
-[(Un)License](/UNLICENSE) incorporated herein.
+Public domain [(Un)License](/UNLICENSE) incorporated herein.

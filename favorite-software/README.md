@@ -154,4 +154,4 @@ Jump to:
 - [Minecraft](https://www.minecraft.net/en-us): Most popular game of all time for a reason.  #NotFree
 
 
-[(Un)License](/UNLICENSE) incorporated herein.
+Public domain [(Un)License](/UNLICENSE) incorporated herein.

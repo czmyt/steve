@@ -16,4 +16,4 @@ Summing it all up.
 - You know how to respond to emergency situations to save yourself and help your coworkers.
 - In short, you’re knowledgeable, alert, skeptical, questioning, prepared.
 
-[(Un)License](/UNLICENSE) incorporated herein.
+Public domain [(Un)License](/UNLICENSE) incorporated herein.

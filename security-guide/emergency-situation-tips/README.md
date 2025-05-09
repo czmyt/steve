@@ -63,4 +63,4 @@ Know how to respond.</h3>
     - Burns: Cover burns with sterile compresses.
 - Know the signs of other life-threatening medical issues like heart attacks, strokes, choking, low blood sugar, etc.
 
-[(Un)License](/UNLICENSE) incorporated herein.
+Public domain [(Un)License](/UNLICENSE) incorporated herein.

@@ -31,4 +31,4 @@ Advice for staying secure while traveling.
     - US Government officials cannot require you to give them your memorized passwords without a court order. Even then, you might not remember your passwords.
 - Know the rules where you’ll be traveling.
 
-[(Un)License](/UNLICENSE) incorporated herein.
+Public domain [(Un)License](/UNLICENSE) incorporated herein.

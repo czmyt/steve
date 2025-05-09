@@ -49,4 +49,4 @@ Attribution is always appreciated but not necessary.
 If you have tips, please email them to [steve@czmyt.com](mailto:steve@czmyt.com).
 Please don’t send anything that’s subject to copyright as I would like these posts to remain in the public domain.
 
-[(Un)License](/UNLICENSE) incorporated herein.
+Public domain [(Un)License](/UNLICENSE) incorporated herein.
