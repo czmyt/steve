@@ -10,7 +10,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [**Signal**](https://signal.org/) to [czmyt.28](https://signal.me/#u/czmyt.28).
 - **Homepage** at [steve.czmyt.com](https://steve.czmyt.com).
 - **Payments** to [Venmo](https://venmo.com/czmyt), [PayPal](https://paypal.me/czmyt), and Google Wallet: Use my email address.
-- [**LinkedIn profile**](https://www.linkedin.com/in/stephen-schmidt-windsor/) about job skills and hobbies.
+- [**LinkedIn** profile](https://www.linkedin.com/in/stephen-schmidt-windsor/) about job skills and hobbies.
 - ***Not*** the [political consultant / campaign runner](https://steveschmidt.substack.com/).
 
 ## Posting and Publications
@@ -22,7 +22,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [**Security Guide**](security-guide) has some helpful security tips.
 - [**Favorite Books**](favorite-books) includes books I love / refer to / gift.
 - [**Travel Tips**](travel-tips) on how to prepare for your adventures.
-- [**YouTube videos**](https://www.youtube.com/@sczmyt/videos) that I link to from other sites.
+- [**YouTube** videos](https://www.youtube.com/@sczmyt/videos) that I link to from other sites.
 
 ## Some Favorite Websites
 
