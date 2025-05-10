@@ -51,4 +51,6 @@ Advice for using laptop and desktop computers.
 - Ask them how to back up and protect your personal devices and home computers.
 - If you don’t back it up, assume it’s going to be lost! It will be sooner or later.
 
+Next topic: [Network Security Tips](network-security-tips)
+
 Public domain [(Un)License](/UNLICENSE) incorporated herein.

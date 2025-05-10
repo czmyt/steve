@@ -18,4 +18,6 @@ Until then, hopefully you’ll find some good advice below.
 - Use a cable network connection instead while at the office. It’s much faster and more reliable anyway.
 - Avoid using WiFi anywhere except at your home or a trusted business. Make sure you connect to the right WiFi network that’s provided by the trusted business!
 
+Next topic: [Device Security Tips](device-security-tips)
+
 Public domain [(Un)License](/UNLICENSE) incorporated herein.
