@@ -7,8 +7,8 @@ My personal software favorites.  I install and configure many of these apps on e
 - Several of these apps are available in the PortableApps system (see below) or can be downloaded and installed separately.
     Such apps are marked with the [#AiPA](#top) ("Available in PortableApps") tag.
 - Many of these apps can be updated at the same time using the `winget` command described below.
-- See my [Tech Notes](/tech-notes) for notes about software and gear, and
-- See my [Security Guide](/security-guide) for helpful security tips.
+- See al my [Tech Notes](/tech-notes) for notes about software and gear,
+    and my [Security Guide](/security-guide) for helpful security tips.
 
 
 Jump to:
