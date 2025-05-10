@@ -2,10 +2,11 @@
 <a name="top"></a>
 # Favorite Software -- [Steve Schmidt](/)
 
-These are my personal software favorites.  I install and configure many of these apps on every Windows workstation computer I setup for myself.
+My personal software favorites.  I install and configure many of these apps on every Windows workstation computer I setup for myself.
 - All of these apps are free except for the ones marked with the [#Cost](#top) tag.
-- Those apps available in the PortableApps system (see below) are marked with the [#AiPA](#top) tag.
-- Many of these apps can be updated at the same time using the **winget** command described below.
+- Several of these apps are available in the PortableApps system (see below) or can be downloaded and installed separately.
+    - Such apps are marked with the [#AiPA](#top) ("Available in PortableApps") tag.
+- Many of these apps can be updated at the same time using the `winget` command described below.
 - See also my [Tech Notes](/tech-notes) for notes about software and gear.
 - See also my [Security Guide](/security-guide) for some helpful security tips.
 
