@@ -10,9 +10,33 @@ One of my hobbies is travel prep.
 I reached a level of preparedness about three years ago in which I'm seldom w/o something I need.
 
 Jump to:
+    §&nbsp;[Key EDC Concepts](#concepts),
     §&nbsp;[List of EDC Essentials](#list),
-    §&nbsp;[Pictures of EDC Essentials](#pictures),
-    §&nbsp;[Key EDC Concepts](#concepts).
+    §&nbsp;[Pictures of EDC Essentials](#pictures).
+
+
+<a name="concepts"></a>
+## Key Everyday Carry Concepts
+
+Key everyday carry (EDC) concepts for me:
+- Redundancy (where possible)
+- Evolution (always getting getter)
+- Testing (test all your gear)
+- Compactness (lightweight and compact)
+- Multipurpose (more on that later)
+
+My two best best travel preparation tips:
+- If you can afford it, have a completely different set of gear that is exclusively for travel: Computers, gear, clothes, everything.
+- Never pack before your trips; always re-pack and re-stock after your last trip.
+
+My travel gear is broken down into:
+- my day-pack,
+- my carry-on pack,
+- my checked luggage, and
+- my road-trip vehicle pack.
+
+All travel gear is modular and further organized.
+<br />See also my [Travel Tips](/travel-tips) page.
 
 
 <a name="list"></a>
@@ -94,29 +118,5 @@ Key teeth blacked out.
 My everyday carry essentials, illuminated with the laser pointer:
 [![Everyday Carry Essentials Illuminated](edc-essentials-illum.jpg)](edc-essentials-illum.jpg)
 Main smartphone not pictured.
-
-
-<a name="concepts"></a>
-## Key Everyday Carry Concepts
-
-Key everyday carry (EDC) concepts for me:
-- Redundancy (where possible)
-- Evolution (always getting getter)
-- Testing (test all your gear)
-- Compactness (lightweight and compact)
-- Multipurpose (more on that later)
-
-My two best best travel preparation tips:
-- If you can afford it, have a completely different set of gear that is exclusively for travel: Computers, gear, clothes, everything.
-- Never pack before your trips; always re-pack and re-stock after your last trip.
-
-My travel gear is broken down into:
-- my day-pack,
-- my carry-on pack,
-- my checked luggage, and
-- my road-trip vehicle pack.
-
-All travel gear is modular and further organized.
-<br />See also my [Travel Tips](/travel-tips) page.
 
 © 2020-2025 Stephen Schmidt.  All rights reserved.  [Terms and Conditions](/terms-and-conditions) incorporated herein.
