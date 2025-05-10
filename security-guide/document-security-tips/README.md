@@ -28,6 +28,6 @@ Advice for securing paper documents and computer files.
 - Don’t take work stuff out of the office. Unless it’s a laptop computer or device that’s assigned to you.
 - Keep your cellphone on your person. Don’t be in the habit of laying it down wherever you are.
 
-Next topic: [Physical Security Tips](physical-security-tips)
+Next topic: [Physical Security Tips](../physical-security-tips)
 
 Public domain [(Un)License](/UNLICENSE) incorporated herein.

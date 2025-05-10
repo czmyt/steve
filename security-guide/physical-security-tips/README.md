@@ -30,6 +30,6 @@ Advice for physical security in an office environment.
 - Warn others to stay away.
 - Contact building security or the police.
 
-Next topic: [Travel Security Tips](travel-security-tips)
+Next topic: [Travel Security Tips](../travel-security-tips)
 
 Public domain [(Un)License](/UNLICENSE) incorporated herein.
