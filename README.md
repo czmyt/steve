@@ -31,6 +31,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [Copilot](https://copilot.microsoft.com): Microsoft's version of ChatGPT AI.
 - [DuckDuckGo](https://duckduckgo.com/): Search engine with privacy.
 - [CyberChef](https://gchq.github.io/CyberChef/): GCHQ's collection of useful data processing tools.
+- [GitHub Pages](https://pages.github.com/): Free simple websites like this one using your custom domain name.
 - [MarketWatch Market Data Center](https://www.marketwatch.com/market-data): Snapshot of key world financial markers.
 
 Public domain [(Un)License](UNLICENSE) incorporated herein.
