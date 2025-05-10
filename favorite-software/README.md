@@ -7,8 +7,8 @@ My personal software favorites.  I install and configure many of these apps on e
 - Several of these apps are available in the PortableApps system (see below) or can be downloaded and installed separately.
     - Such apps are marked with the [#AiPA](#top) ("Available in PortableApps") tag.
 - Many of these apps can be updated at the same time using the `winget` command described below.
-- See also my [Tech Notes](/tech-notes) for notes about software and gear.
-- See also my [Security Guide](/security-guide) for some helpful security tips.
+- See my [Tech Notes](/tech-notes) for notes about software and gear, and
+- See my [Security Guide](/security-guide) for helpful security tips.
 
 
 Jump to:
@@ -101,7 +101,7 @@ Jump to:
 - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
 - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists and simple lists as there is a smartphone version.
 - [BitLocker](https://support.microsoft.com/en-us/windows/bitlocker-overview-44c0c61c-989d-4a69-8822-b95cd49b1bbf): Drive and device encryption for Windows.  Requires Windows Pro or more.
-- [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use to update many third-party apps.  See my [Windows computer update notes](tech-notes/windows-computer-update.md).
+- [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use to update many third-party apps.  See my [Windows computer update notes](/tech-notes/windows-computer-update).
 - [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview?pivots=windows): Hardware virtualization to run Windows and other computer operating systems.  Requires Windows Pro or more.
 - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/): A lightweight, isolated desktop environment for safely running software.
 - [Disk Cleanup](https://support.microsoft.com/en-us/windows/free-up-drive-space-in-windows-85529ccb-c365-490d-b548-831022bc9b32): Built-in app to free unused storage space.
@@ -123,7 +123,7 @@ Jump to:
     - [SQL.js](https://sql.js.org/#/): SQLite compiled to JavaScript to run inside Web browsers.
 - [DuckDB](https://duckdb.org/): Lightweight SQL database similar to SQLite but can be embedded in client-side webpages.
 - [Python](https://www.python.org/): Run little programs written by Chat GPT.  Learn programming.
-- [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  See my [Orange installation and setup notes](tech-notes/orange-data-mining-install-windows.md).
+- [Orange Data Mining](https://orangedatamining.com/): Incredible data analysis tool.  See my [Orange installation and setup notes](/tech-notes/orange-data-mining-install-windows).
 - [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install): Linux programs integrated into Windows.
 - [Cygwin](https://cygwin.com/): Lightweight version of Linux-like open source tools for Windows.  Mostly use Windows System for Linux (WSL) instead now.
 - [Math.js](https://mathjs.org/): Amazing library of math functions written in JavaScript.
