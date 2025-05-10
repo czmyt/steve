@@ -1,7 +1,7 @@
 
 # Favorite Software -- [Steve Schmidt](/)
 
-My personal software favorites.  All of these are free except the ones tagged #NotFree.
+My personal software favorites.  Most of these apps are free.
 <br />I install and configure many of these apps on every Windows workstation computer I setup for myself.
 <br />See also my [Tech Notes](/tech-notes) for notes about software and gear,
 and my [**Security Guide**](/security-guide) for some helpful security tips.
@@ -27,30 +27,30 @@ Jump to:
 
 <a name="web"></a>
 ## Web Browsers
-- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): My main Web browser.  Use its sync feature to sync bookmarks, passwords, etc. between computers. #AiPA
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): My main Web browser.  Use its sync feature to sync bookmarks, passwords, etc. between computers.<sup>#AiPA</sup>
     <br />Favorite extensions:
     - [uBlock Origin](https://ublockorigin.com/): Block most advertisements while browsing the web.
     - [TWP - Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/): Automatic real-time translation of webpages to your language.
     - [DownThemAll!](https://www.downthemall.org/): Download all the pictures, videos, links, etc. on a webpage.  See also JDownloader below.
 - [Tor Browser](https://www.torproject.org/download/): Web browsing as anonymous as it gets.
-- [Google Chrome](https://www.google.com/chrome/index.html): A must-have for websites that misbehave in Firefox. #AiPA
+- [Google Chrome](https://www.google.com/chrome/index.html): A must-have for websites that misbehave in Firefox.<sup>#AiPA</sup>
 
 
 <a name="office"></a>
 ## Office / Editors / Designers / Viewers
-- [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.  See also the free LibreOffice next.  #NotFree
-- [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office. #AiPA
-- [Joplin](https://joplinapp.org/): Note taking app extraordinaire. #AiPA
+- [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/): Mandatory for most small business users.<sup>#NotFree</sup>  See also the free LibreOffice next.
+- [LibreOffice](https://www.libreoffice.org/): Best free word processor, spreadsheet, presentation designer, and database alternative to Microsoft Office.<sup>#AiPA</sup>
+- [Joplin](https://joplinapp.org/): Note taking app extraordinaire.<sup>#AiPA</sup>
     <br />Favorite plug-ins:
     - [Math Mode](https://github.com/CalebJohn/joplin-math-mode): Calculator and measurement converter embedded within the note taking app.  Amazing.
     - [Templates](https://github.com/joplin/plugin-templates): Create simple templates for creating new notes.
     - [Freehand Drawing](https://github.com/personalizedrefrigerator/joplin-plugin-freehand-drawing): Create and edit freehand drawings, like in Microsoft OneNote.
 - [Signal Desktop](https://signal.org/download/): The desktop companion to the Signal messaging app.
-- [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in): The everything office team collaboration tool.  #NotFree
+- [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in): The everything office team collaboration tool.<sup>#NotFree</sup>
 - [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage): Best of the online file storage options but prefer Resilio Sync for personal file syncing.
-- [paint.net](https://getpaint.net/): Simple, powerful image / photo editing software. #AiPA
-- [GIMP](https://www.gimp.org/): Sophisticated image / photo editing software but with a learning curve. #AiPA
-- [Scribus](https://www.scribus.net/): Desktop publishing app.  Important now that Microsoft Publisher going away. #AiPA
+- [paint.net](https://getpaint.net/): Simple, powerful image / photo editing software.<sup>#AiPA</sup>
+- [GIMP](https://www.gimp.org/): Sophisticated image / photo editing software but with a learning curve.<sup>#AiPA</sup>
+- [Scribus](https://www.scribus.net/): Desktop publishing app.  Important now that Microsoft Publisher going away.<sup>#AiPA</sup>
 - [yEd](https://www.yworks.com/products/yed): Powerful diagramming tool. 
 - [Maxima](https://maxima.sourceforge.io/) Computer Algebra System: A very sophisticated and capable calculator.
 - [HP Prime Virtual Calculator Emulator](https://hpcalcs.com/download/): Windows version of the HP Prime calculator.
@@ -58,23 +58,23 @@ Jump to:
 - [Firebird Emu](https://github.com/nspire-emus/firebird/blob/master/README.md): TI-Nspire calculator emulator.
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/): Still the best Adobe PDF file viewer.
 - [Okular](https://apps.kde.org/okular/): Universal document viewer.  [Get it](https://apps.microsoft.com/detail/9n41msq1wnm8?hl=en-US&gl=US) from the Microsoft Store.
-- [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video. #AiPA
-- [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer. #AiPA
+- [VLC Media Player](https://www.videolan.org/vlc/): Plays everything audio and video.<sup>#AiPA</sup>
+- [FastStone Image Viewer](https://www.faststone.org/): Excellent photo viewer and organizer.<sup>#AiPA</sup>
 - [CapCut](https://www.capcut.com/): Video editor free from [TikTok](https://www.tiktok.com/) parent company ByteDance.
-- [TurboTax](https://turbotax.intuit.com/): Tax preparation software.  Or, as I call it, the Intuit tax.  #NotFree
-- [Hallmark Card Studio Deluxe](https://www.hallmarksoftware.com/): Greeting card, envelope, and label designer.  #NotFree
+- [TurboTax](https://turbotax.intuit.com/): Tax preparation software.  Or, as I call it, the Intuit tax.<sup>#NotFree</sup>
+- [Hallmark Card Studio Deluxe](https://www.hallmarksoftware.com/): Greeting card, envelope, and label designer.<sup>#NotFree</sup>
 
 
 <a name="utilities"></a>
 ## Utilities
-- [PeaZip](https://peazip.github.io/): File compression and archiving utility. #AiPA
+- [PeaZip](https://peazip.github.io/): File compression and archiving utility.<sup>#AiPA</sup>
 - [Resilio Sync](https://www.resilio.com/sync/): Synchronize file folders between computers without a server.
 - [Perfect Backup](https://www.perfect-backup.com/): Excellent file and folder backup program.
 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/): Some great utilities for Windows; something for everyone.
 - [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/): Advanced system utilities and technical info package.
 - [NetTime](https://timesynctool.com/): Small utility to keep your computer clocks highly synchronized.
-- [Tree Size Free](https://www.jam-software.com/treesize_free): Find which file folders are using the most storage space. #AiPA
-- [Eraser](https://sourceforge.net/projects/eraser/): Erase files, folders, and free space securely. #AiPA
+- [Tree Size Free](https://www.jam-software.com/treesize_free): Find which file folders are using the most storage space.<sup>#AiPA</sup>
+- [Eraser](https://sourceforge.net/projects/eraser/): Erase files, folders, and free space securely.<sup>#AiPA</sup>
 - [Duplicate Cleaner](https://www.digitalvolcano.co.uk/dcdownload_versions.html): Find and remove duplicate files.
 - [Avast Free Antivirus](https://www.avast.com/en-us/index#pc): Free antivirus program better than Microsoft Windows Defender.
 - [KeePass 2](https://www.recalbox.com/): Password manager.  Not a huge fan, but if you need one, this is the one.  Use version 2.
@@ -85,9 +85,9 @@ Jump to:
 - [Bluestacks](https://www.bluestacks.com/): Best Android on Windows experience.
 - [DOSBOX](https://www.dosbox.com/): Emulate an old DOS-based computer with excellent compatibility.
 - [DeX for PC](https://www.samsung.com/ph/support/mobile-devices/how-to-use-samsung-dex-for-pc/): Run Samsung Android phone apps in a window on your PC.  See also Phone Link below.
-- [Java Runtime](https://www.java.com/en/download/windows_manual.jsp): For running programs written in Java that do not include the runtime. #AiPA
-- [VeraCrypt](https://www.veracrypt.fr/): File and disk encryption. #AiPA
-- [Net Uptime Monitor](https://netuptimemonitor.com/): Simple local network and Internet connection monitor.  Looking for free alternative.  #NotFree
+- [Java Runtime](https://www.java.com/en/download/windows_manual.jsp): For running programs written in Java that do not include the runtime.<sup>#AiPA</sup>
+- [VeraCrypt](https://www.veracrypt.fr/): File and disk encryption.<sup>#AiPA</sup>
+- [Net Uptime Monitor](https://netuptimemonitor.com/): Simple local network and Internet connection monitor.  Looking for free alternative.<sup>#NotFree</sup>
 
 
 <a name="windows"></a>
@@ -109,14 +109,14 @@ Jump to:
 ## Programming / Database / Analysis
 - [Visual Studio Code](https://code.visualstudio.com/): Mostly a programming text editor.
 - [Vim](https://www.vim.org/): Windows version of the UNIX vi text editor includes a graphical interface.
-- [WinMerge](https://winmerge.org/): Compare file folders to find identical and different files, and review differences between files. #AiPA
+- [WinMerge](https://winmerge.org/): Compare file folders to find identical and different files, and review differences between files.<sup>#AiPA</sup>
 - [Git](https://git-scm.com/): Distributed software / file version control system.
 - [Microsoft SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Sophisticated database management system free for developers.
     - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16): The interactive tool for using SQL Server.
 - [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop): Interactive report and visual analytics creator.
 - [PostgreSQL](https://www.postgresql.org/): The most sophisticated free and open source database management system.
 - [SQLite](https://sqlite.org/index.html): Small, fast, full-featured SQL database.  Best 100k+ lines of program code ever.
-    - [DB Browser for SQLite](https://sqlitebrowser.org/): Interactive tool for using SQLite databases. #AiPA
+    - [DB Browser for SQLite](https://sqlitebrowser.org/): Interactive tool for using SQLite databases.<sup>#AiPA</sup>
     - [SQL.js](https://sql.js.org/#/): SQLite compiled to JavaScript to run inside Web browsers.
 - [DuckDB](https://duckdb.org/): Lightweight SQL database similar to SQLite but can be embedded in client-side webpages.
 - [Python](https://www.python.org/): Run little programs written by Chat GPT.  Learn programming.
@@ -152,7 +152,11 @@ Jump to:
 - [PyChess](https://pychess.github.io/): Play chess against built-in engine or people over the Internet.
 - [Scrabble3D](https://sourceforge.net/projects/scrabble/): Free version of the definitive word game.
 - [Domination](https://sourceforge.net/projects/domination/): Risk-like turn-based strategy game.
-- [Minecraft](https://www.minecraft.net/en-us): Most popular game of all time for a reason.  #NotFree
+- [Minecraft](https://www.minecraft.net/en-us): Most popular game of all time for a reason.<sup>#NotFree</sup>
 
 
+Footnotes
+
+<a name="aipa"><sup>#AiPA</sup></a> ("Available in PortableApps") marks those apps below that can be installed by themselves or downloaded and used through the PortableApps system.
+<a name="notfree"><sup>#NotFree</sup></a> marks those apps that are not available for free.
 Public domain [(Un)License](/UNLICENSE) incorporated herein.
