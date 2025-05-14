@@ -33,4 +33,4 @@ Advice for staying secure while traveling.
 
 Next topic: [Emergency Situation Tips](../emergency-situation-tips)
 
-Public domain [(Un)License](/UNLICENSE) incorporated herein.
+This page is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.

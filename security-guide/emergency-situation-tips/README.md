@@ -65,4 +65,4 @@ Know how to respond.</h3>
 
 Next topic: [The Zen of Security](../the-zen-of-security)
 
-Public domain [(Un)License](/UNLICENSE) incorporated herein.
+This page is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.

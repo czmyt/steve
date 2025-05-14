@@ -158,4 +158,4 @@ Jump to:
 - [Minecraft](https://www.minecraft.net/en-us): Most popular game of all time for a reason.<sup>[#Cost](#top)</sup>
 
 
-Public domain [(Un)License](/UNLICENSE) incorporated herein.
+This page is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.

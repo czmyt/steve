@@ -17,7 +17,6 @@ Here is a list of the security tip blog posts in logical order:
 1. [Travel Security Tips](travel-security-tips)
 1. [Emergency Situation Tips](emergency-situation-tips)
 1. [The Zen of Security](the-zen-of-security)
-1. [(Un)License](/UNLICENSE)
 
 ## Background
 
@@ -49,4 +48,4 @@ Attribution is always appreciated but not necessary.
 If you have tips, please email them to [steve@czmyt.com](mailto:steve@czmyt.com).
 Please don’t send anything that’s subject to copyright as I would like these posts to remain in the public domain.
 
-Public domain [(Un)License](/UNLICENSE) incorporated herein.
+This page is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.

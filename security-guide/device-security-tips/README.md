@@ -26,4 +26,4 @@ Until then, hopefully you’ll find some good advice below.
 
 Next topic: [Communications Security Tips](../communications-security-tips)
 
-Public domain [(Un)License](/UNLICENSE) incorporated herein.
+This page is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.

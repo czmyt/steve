@@ -53,4 +53,4 @@ Advice for using laptop and desktop computers.
 
 Next topic: [Network Security Tips](../network-security-tips)
 
-Public domain [(Un)License](/UNLICENSE) incorporated herein.
+This page is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.

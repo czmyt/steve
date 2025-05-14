@@ -32,4 +32,4 @@ Advice for physical security in an office environment.
 
 Next topic: [Travel Security Tips](../travel-security-tips)
 
-Public domain [(Un)License](/UNLICENSE) incorporated herein.
+This page is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.
