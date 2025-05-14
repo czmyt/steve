@@ -34,7 +34,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [GitHub Pages](https://pages.github.com/): Free simple websites like this one using your custom domain name.
 - [MarketWatch Market Data Center](https://www.marketwatch.com/market-data): Snapshot of key world financial markers.
 
-Public domain [(Un)License](UNLICENSE) incorporated herein.
+This page by <a href="https://steve.czmyt.com">Stephen Schmidt</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 <p align="right"><small>
 <a href="https://github.com/czmyt/steve">website source</a>
