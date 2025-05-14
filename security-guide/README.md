@@ -1,6 +1,9 @@
 
 # Security Guide -- [Steve Schmidt](/)
-Background about most of the security posts in this guide.
+
+I originally wrote this Security Guide for a small business client.
+It includes security tips and rules for staff members at work and tips for securing personal devices, among other things.
+The tips and advice in this guide might not apply to your organization or you personally.
 
 ## Table of Contents
 
@@ -17,16 +20,6 @@ Here is a list of the security tip blog posts in logical order:
 1. [Travel Security Tips](travel-security-tips)
 1. [Emergency Situation Tips](emergency-situation-tips)
 1. [The Zen of Security](the-zen-of-security)
-
-## Background
-
-The blog posts that refer to this page were originally part of a security guide I wrote for a small business client.
-It included security tips and rules for staff members at work and tips for securing personal devices, among other things.
-
-## Might Not Apply to You!
-
-The tips and advice might not apply to your organization or you personally.
-I expect to expand and update these tips now that they live as blog posts here at Substack.
 
 ## The Original Introduction
 
