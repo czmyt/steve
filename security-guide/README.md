@@ -37,12 +37,6 @@ With this in mind, here’s a list of things you can do to help improve security
 “This is a general guide for all staff members.
 It’s not meant to cover topics in the Security Program guide that mostly apply to technology staff members.
 
-## Public Domain
-
-The posts that are part of this guide are all in the public domain as described in my (Un)License.
-That means that you can do anything you want with them, except claim copyright for them yourself.
-Attribution is always appreciated but not necessary.
-
 ## Send Tips
 
 If you have tips, please email them to [steve@czmyt.com](mailto:steve@czmyt.com).
