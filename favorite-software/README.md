@@ -26,6 +26,7 @@ Jump to:
 ## Collections
 - [PortableApps](https://portableapps.com/): Portable versions of over 500 free apps.
 - [The Best Free Software for 2024](https://www.pcmag.com/picks/best-free-software): List from PC Mag(azine) with some other great apps I use occasionally.
+- [The Best Productivity Apps](https://www.pcmag.com/picks/best-productivity-apps): List of productivity related apps, a few of which I use.  Most [#Cost](#top) but some are free.
 
 
 <a name="web"></a>
