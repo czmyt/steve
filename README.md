@@ -32,7 +32,7 @@ Bookworm.  Posts about computers, gear, security, safety, and Michigan.<br />
 - [DuckDuckGo](https://duckduckgo.com/): Search engine with privacy.
 - [CyberChef](https://gchq.github.io/CyberChef/): GCHQ's collection of useful data processing tools.
 - [GitHub Pages](https://pages.github.com/): Free simple websites like this one using your custom domain name.
-- [MarketWatch Market Data Center](https://www.marketwatch.com/market-data): Snapshot of key world financial markers.
+- [MarketWatch Market Data Center](https://www.marketwatch.com/market-data): Snapshot of key world financial markets.
 
 This page is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.
 
