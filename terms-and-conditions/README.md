@@ -18,11 +18,11 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-- Application means the software program provided by the Company accesses by You on any electronic device.
+- Application means the software program provided by the Company accessed by You on any electronic device.
 
-- Jurisdiction refers to: Michigan, United States
+- Jurisdiction refers to: Michigan, United States.
 
-- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to the Application.
+- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to the Stephen Schmidt.
 
 - Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
