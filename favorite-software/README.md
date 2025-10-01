@@ -90,7 +90,7 @@ Jump to:
 - [DOSBOX](https://www.dosbox.com/): Emulate an old DOS-based computer with excellent compatibility.
 - [DeX for PC](https://www.samsung.com/ph/support/mobile-devices/how-to-use-samsung-dex-for-pc/): Run Samsung Android phone apps in a window on your PC.  See also Phone Link below.
 - [Java Runtime](https://www.java.com/en/download/windows_manual.jsp): For running programs written in Java that do not include the runtime.<sup>[#AiPA](#top)</sup>
-- [VeraCrypt](https://www.veracrypt.fr/): File and disk encryption.<sup>[#AiPA](#top)</sup>
+- [VeraCrypt](https://www.veracrypt.fr/): File and disk encryption.<sup>[#AiPA](#top)</sup> See also BitLocker below if you use Windows Pro.
 - [Net Uptime Monitor](https://netuptimemonitor.com/): Simple local network and Internet connection monitor.  Looking for free alternative.<sup>[#Cost](#top)</sup>
 
 
@@ -102,7 +102,7 @@ Jump to:
 - [Snipping Tool](https://www.microsoft.com/en-us/windows/tips/snipping-tool): Capture screenshots, and with latest Windows, make screen recorder clips.
 - [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=en-us&gl=US): Great for shopping lists and simple lists as there is a smartphone version.
 - [BitLocker](https://support.microsoft.com/en-us/windows/bitlocker-overview-44c0c61c-989d-4a69-8822-b95cd49b1bbf): Drive and device encryption for Windows.  Requires Windows Pro or more.
-- [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use to update many third-party apps.  See my [Windows computer update notes](/tech-notes/windows-computer-update).
+- [Windows Package Manager](https://learn.microsoft.com/en-us/shows/open-at-microsoft/intro-to-windows-package-manager): Use to update many third-party apps.  See my [Windows computer update note](/tech-notes/windows-computer-update).
 - [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview?pivots=windows): Hardware virtualization to run Windows and other computer operating systems.  Requires Windows Pro or more.
 - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/): A lightweight, isolated desktop environment for safely running software.
 - [Disk Cleanup](https://support.microsoft.com/en-us/windows/free-up-drive-space-in-windows-85529ccb-c365-490d-b548-831022bc9b32): Built-in app to free unused storage space.
