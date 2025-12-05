@@ -51,18 +51,18 @@ The idea of making war crimes "constitutional" or legally permissible is **ethic
 ---
 ### **What Would Actually Be Good for Business?**
 If the goal is **profit and stability**, businesses should push for:
-✅ **Strong human rights laws** (to avoid boycotts and lawsuits).
-✅ **Ethical supply chains** (to retain customers and investors).
-✅ **International cooperation** (to ensure trade flows smoothly).
-✅ **Investment in stability** (e.g., infrastructure, education, healthcare).
+- ✅ **Strong human rights laws** (to avoid boycotts and lawsuits).
+- ✅ **Ethical supply chains** (to retain customers and investors).
+- ✅ **International cooperation** (to ensure trade flows smoothly).
+- ✅ **Investment in stability** (e.g., infrastructure, education, healthcare).
 
 ---
 ### **Final Answer**
 **No, making war crimes "constitutional" would be a financial and strategic disaster for businesses.** It would lead to:
-❌ **Massive sanctions and trade bans**
-❌ **Reputational collapse and consumer boycotts**
-❌ **Legal liability and lawsuits**
-❌ **Capital flight and economic isolation**
-❌ **Geopolitical instability and refugee crises**
+- ❌ **Massive sanctions and trade bans**
+- ❌ **Reputational collapse and consumer boycotts**
+- ❌ **Legal liability and lawsuits**
+- ❌ **Capital flight and economic isolation**
+- ❌ **Geopolitical instability and refugee crises**
 
 **The only "good" outcome for business would be to avoid enabling such atrocities—because the costs of complicity are far worse than the risks of ethical compliance.**
