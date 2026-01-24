@@ -22,7 +22,7 @@ For the purposes of these Terms and Conditions:
 
 - Jurisdiction refers to: Michigan, United States.
 
-- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to the Stephen Schmidt.
+- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Stephen Schmidt.
 
 - Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
@@ -109,4 +109,4 @@ If you have any questions about these Terms and Conditions, You can contact us:
 
 - By email: steve@czmyt.com
 
-© 2023-2025 Stephen Schmidt.  All rights reserved.
+© 2023-2026 Stephen Schmidt.  All rights reserved.
