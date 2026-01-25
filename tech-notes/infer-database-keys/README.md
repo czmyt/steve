@@ -1,6 +1,9 @@
 
 # Script to infer database keys from data. -- [Tech Notes](..) -- [Steve Schmidt](/)
 
+[View this page on github](https://github.com/czmyt/steve/blob/main/tech-notes/infer-database-keys/README.md)
+to see this script with syntax highlighting and without certain formatting issues.
+
 ```tsql
 -- A SQL Server Transact-SQL script to infer the primary keys of and foreign key relationships among the
 -- tables in a database based upon the data in the tables.
