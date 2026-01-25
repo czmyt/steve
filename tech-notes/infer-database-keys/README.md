@@ -2,7 +2,8 @@
 # Script to infer database keys from data. -- [Tech Notes](..) -- [Steve Schmidt](/)
 
 ```tsql
--- A SQL Server Transact-SQL script to infer the primary keys of and foreign key relationships among the tables in a database based upon the data in the tables.
+-- A SQL Server Transact-SQL script to infer the primary keys of and foreign key relationships among the
+-- tables in a database based upon the data in the tables.
 
 -- Copyright 2026 Stephen Schmidt.  All rights reserved.
 -- Contents of https://steve.czmyt.com/terms-and-conditions incorporated herein.
@@ -43,11 +44,13 @@ from
 where
         [t].[TABLE_TYPE] = 'BASE TABLE'
     and
-        -- Ignore any tables whose name begins with a numeric digit as they are usually snapshots or temporary tables.
+        -- Ignore any tables whose name begins with a numeric digit
+        -- as they are usually snapshots or temporary tables.
         [c].[TABLE_NAME] like '[A-Z]%'
     and
         -- Assume that primary and foreign key columns are of one of the following types:
-        [c].[DATA_TYPE] in ('bigint', 'binary', 'char', 'int', 'nchar', 'ntext', 'nvarchar', 'text', 'uniqueidentifier', 'varbinary', 'varchar')
+        [c].[DATA_TYPE] in ('bigint', 'binary', 'char', 'int', 'nchar', 'ntext', 'nvarchar', 'text',
+            'uniqueidentifier', 'varbinary', 'varchar')
     and
         -- Salesforce-specific exclusions.
         [c].[COLUMN_NAME] not in ('CreatedById', 'Language', 'LastModifiedById', 'SortOrder')
@@ -102,8 +105,8 @@ while 1 = 1
         @column
         )
 
-    -- Note: Would ideally prefer a better method of producing a hash that takes into account the collation sequence
-    -- in effect on the columns being examined than using "upper" to provide case insensitivity.
+    -- Note: Would ideally prefer a better method of producing a hash that takes into account the collation
+    -- sequence in effect on the columns being examined than using "upper" to provide case insensitivity.
     declare @sql varchar(4000)
     select @sql = '
         insert into
@@ -207,8 +210,9 @@ where
         -- The primary keys are those columns whose non-null values are unique among all rows.
         [p].[Uniq Count] = [p].[Value Count]
     and
-        -- The foreign keys are those columns whose non-null values are a subset of the values in the primary key column.
-        -- i.e. there are no values in the foreign key column for which there is not a match in the primary key column.
+        -- The foreign keys are those columns whose non-null values are a subset of the values in the
+        -- primary key column.  i.e. there are no values in the foreign key column for which there is
+        -- not a match in the primary key column.
         [f].[Uniq Count] = [t].[PK Count]
 
 
