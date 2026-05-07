@@ -1,7 +1,7 @@
 
 # Script to infer database keys from data. -- [Tech Notes](..) -- [Steve Schmidt](/)
 
-[View this page on github](https://github.com/czmyt/steve/blob/main/tech-notes/infer-database-keys/README.md)
+[View this page on GitHub](https://github.com/czmyt/steve/blob/main/tech-notes/infer-database-keys/README.md)
 to see the script with syntax highlighting and without formatting problems.
 
 ```tsql
