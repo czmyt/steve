@@ -32,10 +32,10 @@ as
 	examines the input string character by character will not run in most
 	meaningful Fabric contexts, such as wrapped around a column in a
 	SELECT statement.  This version works around that limitation but with
-    a performance penalty.
+	a performance penalty.
 
-    This function is marked CC0 1.0, meaning it is in public domain.
-    See https://creativecommons.org/publicdomain/zero/1.0/ for details.
+	This function is marked CC0 1.0, meaning it is in public domain.
+	See https://creativecommons.org/publicdomain/zero/1.0/ for details.
 	*/
 	return
 		substring(
