@@ -4,6 +4,7 @@
 Some personal tech notes others might find useful.  Mostly software related, with some gear posts.
 <br />Posts listed from newest to oldest.  Dates indicate when articles first published.
 
+- [**Fabric Proper Case Function**](fabric-proper-case): Microsoft Fabric Transact-SQL function to proper case a string. 2026-06-29
 - [**Infer Database Keys**](infer-database-keys): SQL Server script to determine candidate primary and foreign keys based on data. 2026-01-24
 - [**Everyday Carry Essentials**](everyday-carry-2020): Thread about everyday carry items circa 2020 and some key EDC concepts. 2025-05-08
 - [**Ford Vehicle Software**](ford-software-2022): Thread about the Ford vehicle software circa 2022 and still relevant today. 2025-05-07
